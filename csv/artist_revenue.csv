@@ -1,0 +1,2241 @@
+ArtistId,ArtistName,AlbumTitle,TrackName,TotalPrice,InvoiceLineId,InvoiceId,InvoiceDate
+2,Accept,Balls to the Wall,Balls to the Wall,0.99,1,1,2009-01-01 00:00:00
+2,Accept,Restless and Wild,Restless and Wild,0.99,2,1,2009-01-01 00:00:00
+1,AC/DC,For Those About To Rock We Salute You,Put The Finger On You,0.99,3,2,2009-01-02 00:00:00
+1,AC/DC,For Those About To Rock We Salute You,Inject The Venom,0.99,4,2,2009-01-02 00:00:00
+1,AC/DC,For Those About To Rock We Salute You,Evil Walks,0.99,5,2,2009-01-02 00:00:00
+1,AC/DC,For Those About To Rock We Salute You,Breaking The Rules,0.99,6,2,2009-01-02 00:00:00
+1,AC/DC,Let There Be Rock,Dog Eat Dog,0.99,7,3,2009-01-03 00:00:00
+1,AC/DC,Let There Be Rock,Overdose,0.99,8,3,2009-01-03 00:00:00
+3,Aerosmith,Big Ones,Love In An Elevator,0.99,9,3,2009-01-03 00:00:00
+3,Aerosmith,Big Ones,Janie's Got A Gun,0.99,10,3,2009-01-03 00:00:00
+3,Aerosmith,Big Ones,Deuces Are Wild,0.99,11,3,2009-01-03 00:00:00
+3,Aerosmith,Big Ones,Angel,0.99,12,3,2009-01-03 00:00:00
+4,Alanis Morissette,Jagged Little Pill,Right Through You,0.99,13,4,2009-01-06 00:00:00
+4,Alanis Morissette,Jagged Little Pill,Not The Doctor,0.99,14,4,2009-01-06 00:00:00
+5,Alice In Chains,Facelift,Bleed The Freak,0.99,15,4,2009-01-06 00:00:00
+5,Alice In Chains,Facelift,Confusion,0.99,16,4,2009-01-06 00:00:00
+6,Ant�nio Carlos Jobim,Warner 25 Anos,Por Causa De Voc�,0.99,17,4,2009-01-06 00:00:00
+6,Ant�nio Carlos Jobim,Warner 25 Anos,Angela,0.99,18,4,2009-01-06 00:00:00
+7,Apocalyptica,Plays Metallica By Four Cellos,Master Of Puppets,0.99,19,4,2009-01-06 00:00:00
+7,Apocalyptica,Plays Metallica By Four Cellos,Welcome Home (Sanitarium),0.99,20,4,2009-01-06 00:00:00
+8,Audioslave,Audioslave,Set It Off,0.99,21,4,2009-01-06 00:00:00
+8,Audioslave,Out Of Exile,Your Time Has Come,0.99,22,5,2009-01-11 00:00:00
+8,Audioslave,Out Of Exile,Dandelion,0.99,23,5,2009-01-11 00:00:00
+9,BackBeat,BackBeat Soundtrack,Rock 'N' Roll Music,0.99,24,5,2009-01-11 00:00:00
+10,Billy Cobham,The Best Of Billy Cobham,Moon germs,0.99,25,5,2009-01-11 00:00:00
+11,Black Label Society,Alcohol Fueled Brewtality Live! [Disc 1],Super Terrorizer,0.99,26,5,2009-01-11 00:00:00
+11,Black Label Society,Alcohol Fueled Brewtality Live! [Disc 2],Heart Of Gold,0.99,27,5,2009-01-11 00:00:00
+12,Black Sabbath,Black Sabbath,Evil Woman,0.99,28,5,2009-01-11 00:00:00
+12,Black Sabbath,Black Sabbath Vol. 4 (Remaster),Cornucopia,0.99,29,5,2009-01-11 00:00:00
+13,Body Count,Body Count,Bowels Of The Devil,0.99,30,5,2009-01-11 00:00:00
+13,Body Count,Body Count,Body Count Anthem,0.99,31,5,2009-01-11 00:00:00
+14,Bruce Dickinson,Chemical Wedding,Jerusalem,0.99,32,5,2009-01-11 00:00:00
+15,Buddy Guy,The Best Of Buddy Guy - The Millenium Collection,When My Left Eye Jumps,0.99,33,5,2009-01-11 00:00:00
+16,Caetano Veloso,Prenda Minha,Medita��o,0.99,34,5,2009-01-11 00:00:00
+16,Caetano Veloso,Prenda Minha,Esse Cara,0.99,35,5,2009-01-11 00:00:00
+17,Chico Buarque,Minha Historia,"Bye, Bye Brasil",0.99,36,6,2009-01-19 00:00:00
+17,Chico Buarque,Minha Historia,Atras Da Porta,0.99,37,7,2009-02-01 00:00:00
+17,Chico Buarque,Minha Historia,Tatuagem,0.99,38,7,2009-02-01 00:00:00
+17,Chico Buarque,Minha Historia,Morena De Angola,0.99,39,8,2009-02-01 00:00:00
+17,Chico Buarque,Minha Historia,A Banda,0.99,40,8,2009-02-01 00:00:00
+17,Chico Buarque,Minha Historia,Com A��car E Com Afeto,0.99,41,9,2009-02-02 00:00:00
+17,Chico Buarque,Minha Historia,Meu Caro Amigo,0.99,42,9,2009-02-02 00:00:00
+17,Chico Buarque,Minha Historia,Trocando Em Mi�dos,0.99,43,9,2009-02-02 00:00:00
+17,Chico Buarque,Minha Historia,Gota D'�gua,0.99,44,9,2009-02-02 00:00:00
+18,Chico Science & Na��o Zumbi,Afrociberdelia,Etnia,0.99,45,10,2009-02-03 00:00:00
+18,Chico Science & Na��o Zumbi,Afrociberdelia,Samba Do Lado,0.99,46,10,2009-02-03 00:00:00
+18,Chico Science & Na��o Zumbi,Afrociberdelia,Sobremesa,0.99,47,10,2009-02-03 00:00:00
+18,Chico Science & Na��o Zumbi,Afrociberdelia,Sangue De Bairro,0.99,48,10,2009-02-03 00:00:00
+18,Chico Science & Na��o Zumbi,Afrociberdelia,Amor De Muito,0.99,49,10,2009-02-03 00:00:00
+18,Chico Science & Na��o Zumbi,Afrociberdelia,Maracatu At�mico [Trip Hop],0.99,50,10,2009-02-03 00:00:00
+18,Chico Science & Na��o Zumbi,Da Lama Ao Caos,Samba Makossa,0.99,51,11,2009-02-06 00:00:00
+18,Chico Science & Na��o Zumbi,Da Lama Ao Caos,Lixo Do Mangue,0.99,52,11,2009-02-06 00:00:00
+19,Cidade Negra,Ac�stico MTV [Live],Firmamento,0.99,53,11,2009-02-06 00:00:00
+19,Cidade Negra,Ac�stico MTV [Live],J� Foi,0.99,54,11,2009-02-06 00:00:00
+19,Cidade Negra,Ac�stico MTV [Live],A Cor Do Sol,0.99,55,11,2009-02-06 00:00:00
+19,Cidade Negra,Cidade Negra - Hits,Firmamento,0.99,56,11,2009-02-06 00:00:00
+19,Cidade Negra,Cidade Negra - Hits,S�bado A Noite,0.99,57,11,2009-02-06 00:00:00
+20,Cl�udio Zoli,Na Pista,Linha Do Equador,0.99,58,11,2009-02-06 00:00:00
+20,Cl�udio Zoli,Na Pista,Livre Pra Viver,0.99,59,11,2009-02-06 00:00:00
+21,Various Artists,Ax� Bahia 2001,Lavadeira,0.99,60,12,2009-02-11 00:00:00
+22,Led Zeppelin,BBC Sessions [Disc 1] [Live],Dazed and Confused,0.99,61,12,2009-02-11 00:00:00
+22,Led Zeppelin,BBC Sessions [Disc 1] [Live],You Shook Me(2),0.99,62,12,2009-02-11 00:00:00
+23,Frank Zappa & Captain Beefheart,Bongo Fury,Man With The Woman Head,0.99,63,12,2009-02-11 00:00:00
+21,Various Artists,Carnaval 2001,Leandro De Itaquera 2001,0.99,64,12,2009-02-11 00:00:00
+24,Marcos Valle,Chill: Brazil (Disc 1),V�o Sobre o Horizonte,0.99,65,12,2009-02-11 00:00:00
+24,Marcos Valle,Chill: Brazil (Disc 1),All Star,0.99,66,12,2009-02-11 00:00:00
+6,Ant�nio Carlos Jobim,Chill: Brazil (Disc 2),Tanto Tempo,0.99,67,12,2009-02-11 00:00:00
+6,Ant�nio Carlos Jobim,Chill: Brazil (Disc 2),Bumbo Da Mangueira,0.99,68,12,2009-02-11 00:00:00
+50,Metallica,Garage Inc. (Disc 1),Die Die My Darling,0.99,69,12,2009-02-11 00:00:00
+51,Queen,Greatest Hits II,Radio GA GA,0.99,70,12,2009-02-11 00:00:00
+51,Queen,Greatest Hits II,I'm Going Slightly Mad,0.99,71,12,2009-02-11 00:00:00
+52,Kiss,Greatest Kiss,Sure Know Something,0.99,72,12,2009-02-11 00:00:00
+52,Kiss,Greatest Kiss,God Of Thunder,0.99,73,12,2009-02-11 00:00:00
+53,Spyro Gyra,Heart of the Night,Valentino's,0.99,74,13,2009-02-19 00:00:00
+53,Spyro Gyra,Heart of the Night,Believe,0.99,75,14,2009-03-04 00:00:00
+53,Spyro Gyra,Heart of the Night,As We Sleep,0.99,76,14,2009-03-04 00:00:00
+53,Spyro Gyra,Heart of the Night,J Squared,0.99,77,15,2009-03-04 00:00:00
+54,Green Day,International Superhits,Maria,0.99,78,15,2009-03-04 00:00:00
+54,Green Day,International Superhits,Longview,0.99,79,16,2009-03-05 00:00:00
+54,Green Day,International Superhits,Basket Case,0.99,80,16,2009-03-05 00:00:00
+54,Green Day,International Superhits,She,0.99,81,16,2009-03-05 00:00:00
+54,Green Day,International Superhits,Geek Stink Breath,0.99,82,16,2009-03-05 00:00:00
+54,Green Day,International Superhits,Stuck With Me,0.99,83,17,2009-03-06 00:00:00
+54,Green Day,International Superhits,Nice Guys Finish Last,0.99,84,17,2009-03-06 00:00:00
+54,Green Day,International Superhits,Macy's Day Parade,0.99,85,17,2009-03-06 00:00:00
+55,David Coverdale,Into The Light,Don't You Cry,0.99,86,17,2009-03-06 00:00:00
+55,David Coverdale,Into The Light,Living On Love,0.99,87,17,2009-03-06 00:00:00
+55,David Coverdale,Into The Light,Wherever You May Go,0.99,88,17,2009-03-06 00:00:00
+56,Gonzaguinha,Meus Momentos,"Diga L�, Cora��o",0.99,89,18,2009-03-09 00:00:00
+56,Gonzaguinha,Meus Momentos,Comportamento Geral,0.99,90,18,2009-03-09 00:00:00
+17,Chico Buarque,Minha Historia,Podres Poderes,0.99,91,18,2009-03-09 00:00:00
+17,Chico Buarque,Minha Historia,Queixa,0.99,92,18,2009-03-09 00:00:00
+57,Os Mutantes,Minha Hist�ria,Ando Meio Desligado,0.99,93,18,2009-03-09 00:00:00
+57,Os Mutantes,Minha Hist�ria,Vida De Cachorro,0.99,94,18,2009-03-09 00:00:00
+57,Os Mutantes,Minha Hist�ria,Meu Refrigerador N�o Funciona,0.99,95,18,2009-03-09 00:00:00
+58,Deep Purple,MK III The Final Concerts [Disc 1],Smoke On The Water,0.99,96,18,2009-03-09 00:00:00
+22,Led Zeppelin,Physical Graffiti [Disc 1],Trampled Under Foot,0.99,97,18,2009-03-09 00:00:00
+21,Various Artists,Sambas De Enredo 2001,Uni�o Da Ilha,0.99,98,19,2009-03-14 00:00:00
+59,Santana,Supernatural,Put Your Lights On,0.99,99,19,2009-03-14 00:00:00
+59,Santana,Supernatural,Primavera,0.99,100,19,2009-03-14 00:00:00
+37,Ed Motta,The Best of Ed Motta,Seis Da Tarde,0.99,101,19,2009-03-14 00:00:00
+68,Miles Davis,The Essential Miles Davis [Disc 1],Compulsion,0.99,102,19,2009-03-14 00:00:00
+68,Miles Davis,The Essential Miles Davis [Disc 1],The Pan Piper,0.99,103,19,2009-03-14 00:00:00
+68,Miles Davis,The Essential Miles Davis [Disc 2],Jean Pierre (Live),0.99,104,19,2009-03-14 00:00:00
+69,Gene Krupa,Up An' Atom,Drum Boogie,0.99,105,19,2009-03-14 00:00:00
+69,Gene Krupa,Up An' Atom,Lemon Drop,0.99,106,19,2009-03-14 00:00:00
+69,Gene Krupa,Up An' Atom,Showcase,0.99,107,19,2009-03-14 00:00:00
+70,Toquinho & Vin�cius,Vin�cius De Moraes - Sem Limite,Como � Duro Trabalhar,0.99,108,19,2009-03-14 00:00:00
+21,Various Artists,Vozes do MPB,Pela Luz dos Olhos Teus (Mi�cha e Tom Jobim),0.99,109,19,2009-03-14 00:00:00
+21,Various Artists,Vozes do MPB,As Rosas N�o Falam (Beth Carvalho),0.99,110,19,2009-03-14 00:00:00
+76,Creedence Clearwater Revival,"Chronicle, Vol. 1",Green River,0.99,111,19,2009-03-14 00:00:00
+76,Creedence Clearwater Revival,"Chronicle, Vol. 1",Someday Never Comes,0.99,112,20,2009-03-22 00:00:00
+76,Creedence Clearwater Revival,"Chronicle, Vol. 2",Walking On The Water,0.99,113,21,2009-04-04 00:00:00
+76,Creedence Clearwater Revival,"Chronicle, Vol. 2","Suzie-Q, Pt. 2",0.99,114,21,2009-04-04 00:00:00
+76,Creedence Clearwater Revival,"Chronicle, Vol. 2",Good Golly Miss Molly,0.99,115,22,2009-04-04 00:00:00
+76,Creedence Clearwater Revival,"Chronicle, Vol. 2",Wrote A Song For Everyone,0.99,116,22,2009-04-04 00:00:00
+76,Creedence Clearwater Revival,"Chronicle, Vol. 2",Cotton Fields,0.99,117,23,2009-04-05 00:00:00
+76,Creedence Clearwater Revival,"Chronicle, Vol. 2",Don't Look Now,0.99,118,23,2009-04-05 00:00:00
+76,Creedence Clearwater Revival,"Chronicle, Vol. 2",Before You Accuse Me,0.99,119,23,2009-04-05 00:00:00
+76,Creedence Clearwater Revival,"Chronicle, Vol. 2",Pagan Baby,0.99,120,23,2009-04-05 00:00:00
+76,Creedence Clearwater Revival,"Chronicle, Vol. 2",Born To Move,0.99,121,24,2009-04-06 00:00:00
+77,C�ssia Eller,C�ssia Eller - Cole��o Sem Limite [Disc 2],Brasil,0.99,122,24,2009-04-06 00:00:00
+77,C�ssia Eller,C�ssia Eller - Cole��o Sem Limite [Disc 2],Coron� Antonio Bento,0.99,123,24,2009-04-06 00:00:00
+77,C�ssia Eller,C�ssia Eller - Cole��o Sem Limite [Disc 2],M�sica Urbana 2,0.99,124,24,2009-04-06 00:00:00
+77,C�ssia Eller,C�ssia Eller - Cole��o Sem Limite [Disc 2],Woman Of The World (Ao Vivo),0.99,125,24,2009-04-06 00:00:00
+77,C�ssia Eller,C�ssia Eller - Sem Limite [Disc 1],Smells Like Teen Spirit (Ao Vivo),0.99,126,24,2009-04-06 00:00:00
+77,C�ssia Eller,C�ssia Eller - Sem Limite [Disc 1],Admir�vel Gado Novo,0.99,127,25,2009-04-09 00:00:00
+77,C�ssia Eller,C�ssia Eller - Sem Limite [Disc 1],Mis Penas Lloraba Yo (Ao Vivo) Soy Gitano (Tangos),0.99,128,25,2009-04-09 00:00:00
+58,Deep Purple,Come Taste The Band,Drifter,0.99,129,25,2009-04-09 00:00:00
+58,Deep Purple,Deep Purple In Rock,Child In Time,0.99,130,25,2009-04-09 00:00:00
+58,Deep Purple,Fireball,No No No,0.99,131,25,2009-04-09 00:00:00
+58,Deep Purple,Knocking at Your Back Door: The Best Of Deep Purple in the 80's,Knocking At Your Back Door,0.99,132,25,2009-04-09 00:00:00
+58,Deep Purple,Knocking at Your Back Door: The Best Of Deep Purple in the 80's,The Unwritten Law,0.99,133,25,2009-04-09 00:00:00
+58,Deep Purple,Machine Head,Maybe I'm A Leo,0.99,134,25,2009-04-09 00:00:00
+58,Deep Purple,Purpendicular,Vavoom : Ted The Mechanic,0.99,135,25,2009-04-09 00:00:00
+58,Deep Purple,Purpendicular,Hey Cisco,0.99,136,26,2009-04-14 00:00:00
+58,Deep Purple,Slaves And Masters,Fortuneteller,0.99,137,26,2009-04-14 00:00:00
+58,Deep Purple,Stormbringer,High Ball Shooter,0.99,138,26,2009-04-14 00:00:00
+58,Deep Purple,The Battle Rages On,A Twist In The Tail,0.99,139,26,2009-04-14 00:00:00
+78,Def Leppard,Vault: Def Leppard's Greatest Hits,Animal,0.99,140,26,2009-04-14 00:00:00
+78,Def Leppard,Vault: Def Leppard's Greatest Hits,Hysteria,0.99,141,26,2009-04-14 00:00:00
+79,Dennis Chambers,Outbreak,"Baltimore, DC",0.99,142,26,2009-04-14 00:00:00
+80,Djavan,Djavan Ao Vivo - Vol. 02,Esquinas,0.99,143,26,2009-04-14 00:00:00
+80,Djavan,Djavan Ao Vivo - Vol. 1,A�ai,0.99,144,26,2009-04-14 00:00:00
+80,Djavan,Djavan Ao Vivo - Vol. 1,Um Amor Puro,0.99,145,26,2009-04-14 00:00:00
+41,Elis Regina,Elis Regina-Minha Hist�ria,Fascina��o,0.99,146,26,2009-04-14 00:00:00
+81,Eric Clapton,The Cream Of Clapton,Sunshine Of Your Love,0.99,147,26,2009-04-14 00:00:00
+81,Eric Clapton,The Cream Of Clapton,Lay Down Sally,0.99,148,26,2009-04-14 00:00:00
+81,Eric Clapton,Unplugged,Tears In Heaven,0.99,149,26,2009-04-14 00:00:00
+90,Iron Maiden,The Number of The Beast,Invaders,0.99,227,42,2009-07-06 00:00:00
+82,Faith No More,Album Of The Year,Naked In Front Of The Computer,0.99,150,27,2009-04-22 00:00:00
+82,Faith No More,Album Of The Year,Helpless,0.99,151,28,2009-05-05 00:00:00
+82,Faith No More,Album Of The Year,Mouth To Mouth,0.99,152,28,2009-05-05 00:00:00
+82,Faith No More,Album Of The Year,She Loves Me Not,0.99,153,29,2009-05-05 00:00:00
+82,Faith No More,Album Of The Year,Paths Of Glory,0.99,154,29,2009-05-05 00:00:00
+82,Faith No More,Album Of The Year,Pristina,0.99,155,30,2009-05-06 00:00:00
+82,Faith No More,Angel Dust,Caffeine,0.99,156,30,2009-05-06 00:00:00
+82,Faith No More,Angel Dust,RV,0.99,157,30,2009-05-06 00:00:00
+82,Faith No More,Angel Dust,Everything's Ruined,0.99,158,30,2009-05-06 00:00:00
+82,Faith No More,Angel Dust,A Small Victory,0.99,159,31,2009-05-07 00:00:00
+82,Faith No More,Angel Dust,Easy,0.99,160,31,2009-05-07 00:00:00
+82,Faith No More,King For A Day Fool For A Lifetime,The Gentle Art Of Making Enemies,0.99,161,31,2009-05-07 00:00:00
+82,Faith No More,King For A Day Fool For A Lifetime,Ugly In The Morning,0.99,162,31,2009-05-07 00:00:00
+82,Faith No More,King For A Day Fool For A Lifetime,What A Day,0.99,163,31,2009-05-07 00:00:00
+82,Faith No More,The Real Thing,From Out Of Nowhere,0.99,164,31,2009-05-07 00:00:00
+82,Faith No More,The Real Thing,Underwater Love,0.99,165,32,2009-05-10 00:00:00
+83,Falamansa,Deixa Entrar,Falamansa Song,0.99,166,32,2009-05-10 00:00:00
+83,Falamansa,Deixa Entrar,Avisa,0.99,167,32,2009-05-10 00:00:00
+83,Falamansa,Deixa Entrar,Desaforo,0.99,168,32,2009-05-10 00:00:00
+84,Foo Fighters,In Your Honor [Disc 1],The Last Song,0.99,169,32,2009-05-10 00:00:00
+84,Foo Fighters,In Your Honor [Disc 2],What If I Do?,0.99,170,32,2009-05-10 00:00:00
+84,Foo Fighters,In Your Honor [Disc 2],Virginia Moon,0.99,171,32,2009-05-10 00:00:00
+84,Foo Fighters,One By One,Times Like These,0.99,172,32,2009-05-10 00:00:00
+84,Foo Fighters,One By One,Burn Away,0.99,173,32,2009-05-10 00:00:00
+84,Foo Fighters,The Colour And The Shape,See You,0.99,174,33,2009-05-15 00:00:00
+85,Frank Sinatra,My Way: The Best Of Frank Sinatra [Disc 1],I Get A Kick Out Of You,0.99,175,33,2009-05-15 00:00:00
+85,Frank Sinatra,My Way: The Best Of Frank Sinatra [Disc 1],Fly Me To The Moon,0.99,176,33,2009-05-15 00:00:00
+85,Frank Sinatra,My Way: The Best Of Frank Sinatra [Disc 1],Mack The Knife,0.99,177,33,2009-05-15 00:00:00
+86,Funk Como Le Gusta,Roda De Funk,Funk Hum,0.99,178,33,2009-05-15 00:00:00
+86,Funk Como Le Gusta,Roda De Funk,Forty Days Instrumental,0.99,179,33,2009-05-15 00:00:00
+27,Gilberto Gil,As Can��es de Eu Tu Eles,Pau-De-Arara,0.99,180,33,2009-05-15 00:00:00
+27,Gilberto Gil,Quanta Gente Veio Ver (Live),Stir It Up (Live),0.99,181,33,2009-05-15 00:00:00
+27,Gilberto Gil,Quanta Gente Veio Ver (Live),A Novidade (Live),0.99,182,33,2009-05-15 00:00:00
+81,Eric Clapton,Unplugged,Realce,0.99,183,33,2009-05-15 00:00:00
+81,Eric Clapton,Unplugged,Aquele Abra�o,0.99,184,33,2009-05-15 00:00:00
+87,Godsmack,Faceless,Re-Align,0.99,185,33,2009-05-15 00:00:00
+54,Green Day,American Idiot,Holiday,0.99,186,33,2009-05-15 00:00:00
+54,Green Day,American Idiot,Homecoming / The Death Of St. Jimmy / East 12th St. / Nobody Likes You / Rock And Roll Girlfriend / We're Coming Home Again,0.99,187,33,2009-05-15 00:00:00
+88,Guns N' Roses,Use Your Illusion I,Right Next Door to Hell,0.99,188,34,2009-05-23 00:00:00
+88,Guns N' Roses,Use Your Illusion I,Dust N' Bones,0.99,189,35,2009-06-05 00:00:00
+88,Guns N' Roses,Use Your Illusion I,Live and Let Die,0.99,190,35,2009-06-05 00:00:00
+88,Guns N' Roses,Use Your Illusion I,Perfect Crime,0.99,191,36,2009-06-05 00:00:00
+88,Guns N' Roses,Use Your Illusion I,Bad Obsession,0.99,192,36,2009-06-05 00:00:00
+88,Guns N' Roses,Use Your Illusion I,Double Talkin' Jive,0.99,193,37,2009-06-06 00:00:00
+88,Guns N' Roses,Use Your Illusion I,The Garden,0.99,194,37,2009-06-06 00:00:00
+88,Guns N' Roses,Use Your Illusion I,Don't Damn Me,0.99,195,37,2009-06-06 00:00:00
+88,Guns N' Roses,Use Your Illusion I,Dead Horse,0.99,196,37,2009-06-06 00:00:00
+88,Guns N' Roses,Use Your Illusion II,Yesterdays,0.99,197,38,2009-06-07 00:00:00
+88,Guns N' Roses,Use Your Illusion II,Breakdown,0.99,198,38,2009-06-07 00:00:00
+88,Guns N' Roses,Use Your Illusion II,Estranged,0.99,199,38,2009-06-07 00:00:00
+89,Incognito,Blue Moods,Colibri,0.99,200,38,2009-06-07 00:00:00
+89,Incognito,Blue Moods,L'Arc En Ciel De Miles,0.99,201,38,2009-06-07 00:00:00
+89,Incognito,Blue Moods,Millenium,0.99,202,38,2009-06-07 00:00:00
+90,Iron Maiden,A Matter of Life and Death,These Colours Don't Run,0.99,203,39,2009-06-10 00:00:00
+90,Iron Maiden,A Matter of Life and Death,For the Greater Good of God,0.99,204,39,2009-06-10 00:00:00
+90,Iron Maiden,A Real Dead One,Prowler,0.99,205,39,2009-06-10 00:00:00
+90,Iron Maiden,A Real Dead One,Run To The Hilss,0.99,206,39,2009-06-10 00:00:00
+90,Iron Maiden,A Real Live One,Can I Play With Madness,0.99,207,39,2009-06-10 00:00:00
+90,Iron Maiden,A Real Live One,Heaven Can Wait,0.99,208,39,2009-06-10 00:00:00
+90,Iron Maiden,Brave New World,Blood Brothers,0.99,209,39,2009-06-10 00:00:00
+90,Iron Maiden,Brave New World,The Thin Line Between Love & Hate,0.99,210,39,2009-06-10 00:00:00
+90,Iron Maiden,Dance Of Death,Gates Of Tomorrow,0.99,211,39,2009-06-10 00:00:00
+90,Iron Maiden,Fear Of The Dark,Fear Is The Key,0.99,212,40,2009-06-15 00:00:00
+90,Iron Maiden,Iron Maiden,01 - Prowler,0.99,213,40,2009-06-15 00:00:00
+90,Iron Maiden,Killers,The Ides Of March,0.99,214,40,2009-06-15 00:00:00
+90,Iron Maiden,Killers,Drifter,0.99,215,40,2009-06-15 00:00:00
+90,Iron Maiden,Live After Death,The Number Of The Beast,0.99,216,40,2009-06-15 00:00:00
+90,Iron Maiden,Live After Death,Phantom Of The Opera,0.99,217,40,2009-06-15 00:00:00
+90,Iron Maiden,Live At Donington 1992 (Disc 1),Afraid To Shoot Strangers,0.99,218,40,2009-06-15 00:00:00
+90,Iron Maiden,Live At Donington 1992 (Disc 2),The Trooper,0.99,219,40,2009-06-15 00:00:00
+90,Iron Maiden,No Prayer For The Dying,Run Silent Run Deep,0.99,220,40,2009-06-15 00:00:00
+90,Iron Maiden,Piece Of Mind,Still Life,0.99,221,40,2009-06-15 00:00:00
+90,Iron Maiden,Powerslave,Back in the Village,0.99,222,40,2009-06-15 00:00:00
+90,Iron Maiden,Rock In Rio [CD1],Blood Brothers,0.99,223,40,2009-06-15 00:00:00
+90,Iron Maiden,Rock In Rio [CD2],The Number Of The Beast,0.99,224,40,2009-06-15 00:00:00
+90,Iron Maiden,Seventh Son of a Seventh Son,The Prophecy,0.99,225,40,2009-06-15 00:00:00
+90,Iron Maiden,The Number of The Beast,Hallowed Be Thy Name,0.99,226,41,2009-06-23 00:00:00
+90,Iron Maiden,The Number of The Beast,Run to the Hills,0.99,228,42,2009-07-06 00:00:00
+90,Iron Maiden,The Number of The Beast,The Prisoner,0.99,229,43,2009-07-06 00:00:00
+90,Iron Maiden,The X Factor,Lord Of The Flies,0.99,230,43,2009-07-06 00:00:00
+90,Iron Maiden,The X Factor,Fortunes Of War,0.99,231,44,2009-07-07 00:00:00
+90,Iron Maiden,The X Factor,The Aftermath,0.99,232,44,2009-07-07 00:00:00
+90,Iron Maiden,The X Factor,Blood On The World's Hands,0.99,233,44,2009-07-07 00:00:00
+90,Iron Maiden,The X Factor,2 A.M.,0.99,234,44,2009-07-07 00:00:00
+90,Iron Maiden,Virtual XI,Lightning Strikes Twice,0.99,235,45,2009-07-08 00:00:00
+90,Iron Maiden,Virtual XI,Don't Look To The Eyes Of A Stranger,0.99,236,45,2009-07-08 00:00:00
+91,James Brown,Sex Machine,Night Train,0.99,237,45,2009-07-08 00:00:00
+91,James Brown,Sex Machine,It's A Man's Man's Man's World,0.99,238,45,2009-07-08 00:00:00
+91,James Brown,Sex Machine,Hey America,0.99,239,45,2009-07-08 00:00:00
+91,James Brown,Sex Machine,Get Up Offa That Thing,0.99,240,45,2009-07-08 00:00:00
+92,Jamiroquai,Emergency On Planet Earth,When You Gonna Learn (Digeridoo),0.99,241,46,2009-07-11 00:00:00
+92,Jamiroquai,Emergency On Planet Earth,"Whatever It Is, I Just Can't Stop",0.99,242,46,2009-07-11 00:00:00
+92,Jamiroquai,Synkronized,Black Capricorn Day,0.99,243,46,2009-07-11 00:00:00
+92,Jamiroquai,Synkronized,Were Do We Go From Here,0.99,244,46,2009-07-11 00:00:00
+92,Jamiroquai,The Return Of The Space Cowboy,Light Years,0.99,245,46,2009-07-11 00:00:00
+92,Jamiroquai,The Return Of The Space Cowboy,Morning Glory,0.99,246,46,2009-07-11 00:00:00
+93,JET,Get Born,Get What You Need,0.99,247,46,2009-07-11 00:00:00
+93,JET,Get Born,Take It Or Leave It,0.99,248,46,2009-07-11 00:00:00
+94,Jimi Hendrix,Are You Experienced?,Can You See Me,0.99,249,46,2009-07-11 00:00:00
+94,Jimi Hendrix,Are You Experienced?,Stone Free,0.99,250,47,2009-07-16 00:00:00
+95,Joe Satriani,Surfing with the Alien (Remastered),Satch Boogie,0.99,251,47,2009-07-16 00:00:00
+46,Jorge Ben,Jorge Ben Jor 25 Anos,Salve Simpatia,0.99,252,47,2009-07-16 00:00:00
+46,Jorge Ben,Jorge Ben Jor 25 Anos,Filho Maravilha,0.99,253,47,2009-07-16 00:00:00
+96,Jota Quest,Jota Quest-1995,Dance Enquanto � Tempo,0.99,254,47,2009-07-16 00:00:00
+97,Jo�o Suplicy,Cafezinho,Voce Inteira,0.99,255,47,2009-07-16 00:00:00
+97,Jo�o Suplicy,Cafezinho,Enquanto O Dia N�o Vem,0.99,256,47,2009-07-16 00:00:00
+98,Judas Priest,Living After Midnight,Turbo Lover,0.99,257,47,2009-07-16 00:00:00
+52,Kiss,Unplugged [Live],Plaster Caster,0.99,258,47,2009-07-16 00:00:00
+52,Kiss,Unplugged [Live],Every Time I Look At You,0.99,259,47,2009-07-16 00:00:00
+22,Led Zeppelin,BBC Sessions [Disc 2] [Live],Dazed And Confused,0.99,260,47,2009-07-16 00:00:00
+22,Led Zeppelin,Coda,Walter's Walk,0.99,261,47,2009-07-16 00:00:00
+22,Led Zeppelin,Houses Of The Holy,Dancing Days,0.99,262,47,2009-07-16 00:00:00
+22,Led Zeppelin,In Through The Out Door,All My Love,0.99,263,47,2009-07-16 00:00:00
+22,Led Zeppelin,Led Zeppelin I,Your Time Is Gonna Come,0.99,264,48,2009-07-24 00:00:00
+22,Led Zeppelin,Led Zeppelin I,Black Mountain Side,0.99,265,49,2009-08-06 00:00:00
+22,Led Zeppelin,Led Zeppelin I,Communication Breakdown,0.99,266,49,2009-08-06 00:00:00
+22,Led Zeppelin,Led Zeppelin I,How Many More Times,0.99,267,50,2009-08-06 00:00:00
+22,Led Zeppelin,Led Zeppelin II,What Is And What Should Never Be,0.99,268,50,2009-08-06 00:00:00
+22,Led Zeppelin,Led Zeppelin II,Thank You,0.99,269,51,2009-08-07 00:00:00
+22,Led Zeppelin,Led Zeppelin II,Living Loving Maid (She's Just A Woman),0.99,270,51,2009-08-07 00:00:00
+22,Led Zeppelin,Led Zeppelin II,Moby Dick,0.99,271,51,2009-08-07 00:00:00
+22,Led Zeppelin,Led Zeppelin III,Immigrant Song,0.99,272,51,2009-08-07 00:00:00
+22,Led Zeppelin,Led Zeppelin III,Out On The Tiles,0.99,273,52,2009-08-08 00:00:00
+22,Led Zeppelin,Led Zeppelin III,Bron-Y-Aur Stomp,0.99,274,52,2009-08-08 00:00:00
+22,Led Zeppelin,Physical Graffiti [Disc 2],Down By The Seaside,0.99,275,52,2009-08-08 00:00:00
+22,Led Zeppelin,Physical Graffiti [Disc 2],Boogie With Stu,0.99,276,52,2009-08-08 00:00:00
+22,Led Zeppelin,Presence,For Your Life,0.99,277,52,2009-08-08 00:00:00
+22,Led Zeppelin,Presence,Hots On For Nowhere,0.99,278,52,2009-08-08 00:00:00
+22,Led Zeppelin,The Song Remains The Same (Disc 1),Dazed And Confused,0.99,279,53,2009-08-11 00:00:00
+99,Legi�o Urbana,A TempestadeTempestade Ou O Livro Dos Dias,L'Avventura,0.99,280,53,2009-08-11 00:00:00
+99,Legi�o Urbana,A TempestadeTempestade Ou O Livro Dos Dias,Soul Parsifal,0.99,281,53,2009-08-11 00:00:00
+99,Legi�o Urbana,A TempestadeTempestade Ou O Livro Dos Dias,Quando Voc� Voltar,0.99,282,53,2009-08-11 00:00:00
+99,Legi�o Urbana,Mais Do Mesmo,Tempo Perdido,0.99,283,53,2009-08-11 00:00:00
+99,Legi�o Urbana,Mais Do Mesmo,Meninos E Meninas,0.99,284,53,2009-08-11 00:00:00
+100,Lenny Kravitz,Greatest Hits,Are You Gonna Go My Way,0.99,285,53,2009-08-11 00:00:00
+100,Lenny Kravitz,Greatest Hits,Mr. Cab Driver,0.99,286,53,2009-08-11 00:00:00
+100,Lenny Kravitz,Greatest Hits,Believe,0.99,287,53,2009-08-11 00:00:00
+101,Lulu Santos,Lulu Santos - RCA 100 Anos De M�sica - �lbum 01,Condi��o,0.99,288,54,2009-08-16 00:00:00
+101,Lulu Santos,Lulu Santos - RCA 100 Anos De M�sica - �lbum 02,Aquilo,0.99,289,54,2009-08-16 00:00:00
+101,Lulu Santos,Lulu Santos - RCA 100 Anos De M�sica - �lbum 02,Assaltaram A Gram�tica,0.99,290,54,2009-08-16 00:00:00
+102,Marillion,Misplaced Childhood,Waterhole (Expresso Bongo),0.99,291,54,2009-08-16 00:00:00
+103,Marisa Monte,Barulhinho Bom,Tempos Modernos,0.99,292,54,2009-08-16 00:00:00
+103,Marisa Monte,Barulhinho Bom,Dan�a Da Solid�o,0.99,293,54,2009-08-16 00:00:00
+104,Marvin Gaye,Seek And Shall Find: More Of The Best (1963-1981),When I Had Your Love,0.99,294,54,2009-08-16 00:00:00
+104,Marvin Gaye,Seek And Shall Find: More Of The Best (1963-1981),Save The Children,0.99,295,54,2009-08-16 00:00:00
+105,Men At Work,The Best Of Men At Work,Down by the Sea,0.99,296,54,2009-08-16 00:00:00
+50,Metallica,Black Album,The Unforgiven,0.99,297,54,2009-08-16 00:00:00
+50,Metallica,Garage Inc. (Disc 2),Helpless,0.99,298,54,2009-08-16 00:00:00
+50,Metallica,Garage Inc. (Disc 2),Stone Cold Crazy,0.99,299,54,2009-08-16 00:00:00
+50,Metallica,Kill 'Em All,Motorbreath,0.99,300,54,2009-08-16 00:00:00
+50,Metallica,Load,2 X 4,0.99,301,54,2009-08-16 00:00:00
+50,Metallica,Master Of Puppets,Master Of Puppets,0.99,302,55,2009-08-24 00:00:00
+50,Metallica,Master Of Puppets,The Thing That Should Not Be,0.99,303,56,2009-09-06 00:00:00
+50,Metallica,Master Of Puppets,Welcome Home (Sanitarium),0.99,304,56,2009-09-06 00:00:00
+50,Metallica,Master Of Puppets,Leper Messiah,0.99,305,57,2009-09-06 00:00:00
+50,Metallica,Master Of Puppets,Damage Inc.,0.99,306,57,2009-09-06 00:00:00
+50,Metallica,ReLoad,The Memory Remains,0.99,307,58,2009-09-07 00:00:00
+50,Metallica,ReLoad,The Unforgiven II,0.99,308,58,2009-09-07 00:00:00
+50,Metallica,ReLoad,Slither,0.99,309,58,2009-09-07 00:00:00
+50,Metallica,ReLoad,Bad Seed,0.99,310,58,2009-09-07 00:00:00
+50,Metallica,ReLoad,Attitude,0.99,311,59,2009-09-08 00:00:00
+50,Metallica,Ride The Lightning,For Whom The Bell Tolls,0.99,312,59,2009-09-08 00:00:00
+50,Metallica,Ride The Lightning,Creeping Death,0.99,313,59,2009-09-08 00:00:00
+50,Metallica,St. Anger,Some Kind Of Monster,0.99,314,59,2009-09-08 00:00:00
+50,Metallica,St. Anger,Shoot Me Again,0.99,315,59,2009-09-08 00:00:00
+50,Metallica,St. Anger,All Within My Hands,0.99,316,59,2009-09-08 00:00:00
+50,Metallica,...And Justice For All,Harvester Of Sorrow,0.99,317,60,2009-09-11 00:00:00
+68,Miles Davis,Miles Ahead,The Duke,0.99,318,60,2009-09-11 00:00:00
+68,Miles Davis,Miles Ahead,Lament,0.99,319,60,2009-09-11 00:00:00
+42,Milton Nascimento,Milton Nascimento Ao Vivo,Cora��o De Estudante,0.99,320,60,2009-09-11 00:00:00
+42,Milton Nascimento,Milton Nascimento Ao Vivo,Menestrel Das Alagoas,0.99,321,60,2009-09-11 00:00:00
+42,Milton Nascimento,Milton Nascimento Ao Vivo,"Maria, Maria",0.99,322,60,2009-09-11 00:00:00
+42,Milton Nascimento,Minas,Ponta de Areia,0.99,323,60,2009-09-11 00:00:00
+42,Milton Nascimento,Minas,Norwegian Wood,0.99,324,60,2009-09-11 00:00:00
+106,Mot�rhead,Ace Of Spades,Fast And Loose,0.99,325,60,2009-09-11 00:00:00
+106,Mot�rhead,Ace Of Spades,Please Don't Touch,0.99,326,61,2009-09-16 00:00:00
+108,M�nica Marianno,Demorou...,J� Foi,0.99,327,61,2009-09-16 00:00:00
+109,M�tley Cr�e,Motley Crue Greatest Hits,Wild Side,0.99,328,61,2009-09-16 00:00:00
+109,M�tley Cr�e,Motley Crue Greatest Hits,Primal Scream,0.99,329,61,2009-09-16 00:00:00
+110,Nirvana,From The Muddy Banks Of The Wishkah [Live],Been A Son,0.99,330,61,2009-09-16 00:00:00
+110,Nirvana,From The Muddy Banks Of The Wishkah [Live],Breed,0.99,331,61,2009-09-16 00:00:00
+110,Nirvana,Nevermind,Territorial Pissings,0.99,332,61,2009-09-16 00:00:00
+111,O Ter�o,Compositores,Folhas Secas,0.99,333,61,2009-09-16 00:00:00
+111,O Ter�o,Compositores,Menino De Rua,0.99,334,61,2009-09-16 00:00:00
+112,Olodum,Olodum,Den�ncia,0.99,335,61,2009-09-16 00:00:00
+113,Os Paralamas Do Sucesso,Ac�stico MTV,O Trem Da Juventude,0.99,336,61,2009-09-16 00:00:00
+113,Os Paralamas Do Sucesso,Ac�stico MTV,Selvagem,0.99,337,61,2009-09-16 00:00:00
+113,Os Paralamas Do Sucesso,Ac�stico MTV,Nebulosa Do Amor,0.99,338,61,2009-09-16 00:00:00
+113,Os Paralamas Do Sucesso,Arquivo II,Luis Inacio (300 Picaretas),0.99,339,61,2009-09-16 00:00:00
+113,Os Paralamas Do Sucesso,Arquivo Os Paralamas Do Sucesso,Perplexo,0.99,340,62,2009-09-24 00:00:00
+113,Os Paralamas Do Sucesso,Arquivo Os Paralamas Do Sucesso,Me Liga,0.99,341,63,2009-10-07 00:00:00
+113,Os Paralamas Do Sucesso,Arquivo Os Paralamas Do Sucesso,Quase Um Segundo,0.99,342,63,2009-10-07 00:00:00
+113,Os Paralamas Do Sucesso,Arquivo Os Paralamas Do Sucesso,Romance Ideal,0.99,343,64,2009-10-07 00:00:00
+113,Os Paralamas Do Sucesso,Arquivo Os Paralamas Do Sucesso,SKA,0.99,344,64,2009-10-07 00:00:00
+114,Ozzy Osbourne,Blizzard of Ozz,I Don't Know,0.99,345,65,2009-10-08 00:00:00
+114,Ozzy Osbourne,Diary of a Madman (Remastered),Flying High Again,0.99,346,65,2009-10-08 00:00:00
+114,Ozzy Osbourne,No More Tears (Remastered),No More Tears,0.99,347,65,2009-10-08 00:00:00
+114,Ozzy Osbourne,Tribute,Crazy Train,0.99,348,65,2009-10-08 00:00:00
+114,Ozzy Osbourne,Tribute,Relvelation (Mother Earth),0.99,349,66,2009-10-09 00:00:00
+114,Ozzy Osbourne,Tribute,Children Of The Grave,0.99,350,66,2009-10-09 00:00:00
+114,Ozzy Osbourne,Tribute,Dee,0.99,351,66,2009-10-09 00:00:00
+115,Page & Plant,Walking Into Clarksdale,Blue Train,0.99,352,66,2009-10-09 00:00:00
+115,Page & Plant,Walking Into Clarksdale,Walking Into Clarksdale,0.99,353,66,2009-10-09 00:00:00
+115,Page & Plant,Walking Into Clarksdale,Sons Of Freedom,0.99,354,66,2009-10-09 00:00:00
+116,Passengers,Original Soundtracks 1,Beach Sequence,0.99,355,67,2009-10-12 00:00:00
+116,Passengers,Original Soundtracks 1,Plot 180,0.99,356,67,2009-10-12 00:00:00
+117,Paul D'Ianno,The Beast Live,Murders In The Rue Morgue,0.99,357,67,2009-10-12 00:00:00
+117,Paul D'Ianno,The Beast Live,Iron Maiden,0.99,358,67,2009-10-12 00:00:00
+118,Pearl Jam,Live On Two Legs [Live],Untitled,0.99,359,67,2009-10-12 00:00:00
+118,Pearl Jam,Live On Two Legs [Live],Nothingman,0.99,360,67,2009-10-12 00:00:00
+118,Pearl Jam,Pearl Jam,World Wide Suicide,0.99,361,67,2009-10-12 00:00:00
+118,Pearl Jam,Pearl Jam,Big Wave,0.99,362,67,2009-10-12 00:00:00
+118,Pearl Jam,Riot Act,Can't Keep,0.99,363,67,2009-10-12 00:00:00
+118,Pearl Jam,Riot Act,Green Disease,0.99,364,68,2009-10-17 00:00:00
+118,Pearl Jam,Ten,Why Go,0.99,365,68,2009-10-17 00:00:00
+118,Pearl Jam,Vs.,Animal,0.99,366,68,2009-10-17 00:00:00
+118,Pearl Jam,Vs.,Leash,0.99,367,68,2009-10-17 00:00:00
+100,Lenny Kravitz,Greatest Hits,Wanted Dread And Alive,0.99,368,68,2009-10-17 00:00:00
+120,Pink Floyd,Dark Side Of The Moon,The Great Gig In The Sky,0.99,369,68,2009-10-17 00:00:00
+121,Planet Hemp,Os C�es Ladram Mas A Caravana N�o P�ra,Bossa,0.99,370,68,2009-10-17 00:00:00
+121,Planet Hemp,Os C�es Ladram Mas A Caravana N�o P�ra,Nega Do Cabelo Duro,0.99,371,68,2009-10-17 00:00:00
+51,Queen,Greatest Hits I,You're My Best Friend,0.99,372,68,2009-10-17 00:00:00
+51,Queen,Greatest Hits I,Seven Seas Of Rhye,0.99,373,68,2009-10-17 00:00:00
+51,Queen,News Of The World,"Get Down, Make Love",0.99,374,68,2009-10-17 00:00:00
+124,R.E.M.,Green,Get Up,0.99,375,68,2009-10-17 00:00:00
+124,R.E.M.,Green,Untitled,0.99,376,68,2009-10-17 00:00:00
+124,R.E.M.,New Adventures In Hi-Fi,Be Mine,0.99,377,68,2009-10-17 00:00:00
+124,R.E.M.,The Best Of R.E.M.: The IRS Years,Carnival Of Sorts,0.99,378,69,2009-10-25 00:00:00
+124,R.E.M.,The Best Of R.E.M.: The IRS Years,Radio Free Aurope,0.99,379,70,2009-11-07 00:00:00
+124,R.E.M.,The Best Of R.E.M.: The IRS Years,Perfect Circle,0.99,380,70,2009-11-07 00:00:00
+124,R.E.M.,The Best Of R.E.M.: The IRS Years,So Central Rain,0.99,381,71,2009-11-07 00:00:00
+124,R.E.M.,The Best Of R.E.M.: The IRS Years,Pretty Persuasion,0.99,382,71,2009-11-07 00:00:00
+124,R.E.M.,The Best Of R.E.M.: The IRS Years,Can't Get There From Here,0.99,383,72,2009-11-08 00:00:00
+124,R.E.M.,The Best Of R.E.M.: The IRS Years,Fall On Me,0.99,384,72,2009-11-08 00:00:00
+124,R.E.M.,The Best Of R.E.M.: The IRS Years,Cuyahoga,0.99,385,72,2009-11-08 00:00:00
+124,R.E.M.,The Best Of R.E.M.: The IRS Years,The Finest Worksong,0.99,386,72,2009-11-08 00:00:00
+125,Raimundos,Cesta B�sica,Papeau Nuky Doe,0.99,387,73,2009-11-09 00:00:00
+125,Raimundos,Cesta B�sica,Esporrei Na Manivela,0.99,388,73,2009-11-09 00:00:00
+126,Raul Seixas,Raul Seixas,Maluco Beleza,0.99,389,73,2009-11-09 00:00:00
+126,Raul Seixas,Raul Seixas,As Profecias,0.99,390,73,2009-11-09 00:00:00
+126,Raul Seixas,Raul Seixas,Que Luz � Essa,0.99,391,73,2009-11-09 00:00:00
+126,Raul Seixas,Raul Seixas,S�culo XXI,0.99,392,73,2009-11-09 00:00:00
+127,Red Hot Chili Peppers,Blood Sugar Sex Magik,Suck My Kiss,0.99,393,74,2009-11-12 00:00:00
+127,Red Hot Chili Peppers,Blood Sugar Sex Magik,Under The Bridge,0.99,394,74,2009-11-12 00:00:00
+127,Red Hot Chili Peppers,Blood Sugar Sex Magik,They're Red Hot,0.99,395,74,2009-11-12 00:00:00
+127,Red Hot Chili Peppers,By The Way,The Zephyr Song,0.99,396,74,2009-11-12 00:00:00
+127,Red Hot Chili Peppers,By The Way,Tear,0.99,397,74,2009-11-12 00:00:00
+127,Red Hot Chili Peppers,Californication,Parallel Universe,0.99,398,74,2009-11-12 00:00:00
+127,Red Hot Chili Peppers,Californication,Porcelain,0.99,399,74,2009-11-12 00:00:00
+127,Red Hot Chili Peppers,Californication,Right On Time,0.99,400,74,2009-11-12 00:00:00
+128,Rush,Retrospective I (1974-1980),Xanadu,0.99,401,74,2009-11-12 00:00:00
+128,Rush,Retrospective I (1974-1980),Finding My Way,0.99,402,75,2009-11-17 00:00:00
+59,Santana,Santana Live,Evil Ways,0.99,403,75,2009-11-17 00:00:00
+100,Lenny Kravitz,Greatest Hits,It's Only Love,0.99,404,75,2009-11-17 00:00:00
+100,Lenny Kravitz,Greatest Hits,So Beautiful,0.99,405,75,2009-11-17 00:00:00
+130,Skank,Maquinarama,Maquinarama,0.99,406,75,2009-11-17 00:00:00
+130,Skank,O Samba Pocon�,Garota Nacional,0.99,407,75,2009-11-17 00:00:00
+131,Smashing Pumpkins,Judas 0: B-Sides and Rarities,Aeroplane Flies High,0.99,408,75,2009-11-17 00:00:00
+131,Smashing Pumpkins,Judas 0: B-Sides and Rarities,Saturnine,0.99,409,75,2009-11-17 00:00:00
+131,Smashing Pumpkins,Rotten Apples: Greatest Hits,Cherub Rock,0.99,410,75,2009-11-17 00:00:00
+131,Smashing Pumpkins,Rotten Apples: Greatest Hits,Ava Adore,0.99,411,75,2009-11-17 00:00:00
+132,Soundgarden,A-Sides,Hands All Over,0.99,412,75,2009-11-17 00:00:00
+132,Soundgarden,A-Sides,Pretty Noose,0.99,413,75,2009-11-17 00:00:00
+53,Spyro Gyra,Morning Dance,Starburst,0.99,414,75,2009-11-17 00:00:00
+133,Stevie Ray Vaughan & Double Trouble,In Step,Leave My Girl Alone,0.99,415,75,2009-11-17 00:00:00
+134,Stone Temple Pilots,Core,Plush,0.99,416,76,2009-11-25 00:00:00
+134,Stone Temple Pilots,Core,Wet My Bed,0.99,417,77,2009-12-08 00:00:00
+134,Stone Temple Pilots,Core,Crackerman,0.99,418,77,2009-12-08 00:00:00
+135,System Of A Down,Mezmerize,Soldier Side - Intro,0.99,419,78,2009-12-08 00:00:00
+135,System Of A Down,Mezmerize,Revenga,0.99,420,78,2009-12-08 00:00:00
+135,System Of A Down,Mezmerize,Radio/Video,0.99,421,79,2009-12-09 00:00:00
+135,System Of A Down,Mezmerize,Violent Pornography,0.99,422,79,2009-12-09 00:00:00
+135,System Of A Down,Mezmerize,Sad Statue,0.99,423,79,2009-12-09 00:00:00
+135,System Of A Down,Mezmerize,Lost in Hollywood,0.99,424,79,2009-12-09 00:00:00
+136,"Terry Bozzio, Tony Levin & Steve Stevens",[1997] Black Light Syndrome,Black Light Syndrome,0.99,425,80,2009-12-10 00:00:00
+137,The Black Crowes,Live [Disc 1],Midnight From The Inside Out,0.99,426,80,2009-12-10 00:00:00
+137,The Black Crowes,Live [Disc 1],Sometimes Salvation,0.99,427,80,2009-12-10 00:00:00
+137,The Black Crowes,Live [Disc 1],Girl From A Pawnshop,0.99,428,80,2009-12-10 00:00:00
+137,The Black Crowes,Live [Disc 2],Title Song,0.99,429,80,2009-12-10 00:00:00
+137,The Black Crowes,Live [Disc 2],Soul Singing,0.99,430,80,2009-12-10 00:00:00
+138,The Clash,The Singles,Clash City Rockers,0.99,431,81,2009-12-13 00:00:00
+138,The Clash,The Singles,Train In Vain,0.99,432,81,2009-12-13 00:00:00
+138,The Clash,The Singles,Know Your Rights,0.99,433,81,2009-12-13 00:00:00
+139,The Cult,Beyond Good And Evil,Take The Power,0.99,434,81,2009-12-13 00:00:00
+139,The Cult,Beyond Good And Evil,Speed Of Light,0.99,435,81,2009-12-13 00:00:00
+139,The Cult,"Pure Cult: The Best Of The Cult (For Rockers, Ravers, Lovers & Sinners) [UK]",Spirit Walker,0.99,436,81,2009-12-13 00:00:00
+139,The Cult,"Pure Cult: The Best Of The Cult (For Rockers, Ravers, Lovers & Sinners) [UK]",Edie (Ciao Baby),0.99,437,81,2009-12-13 00:00:00
+139,The Cult,"Pure Cult: The Best Of The Cult (For Rockers, Ravers, Lovers & Sinners) [UK]",Sun King,0.99,438,81,2009-12-13 00:00:00
+140,The Doors,The Doors,Twentienth Century Fox,0.99,439,81,2009-12-13 00:00:00
+141,The Police,The Police Greatest Hits,Can't Stand Losing You,0.99,440,82,2009-12-18 00:00:00
+141,The Police,The Police Greatest Hits,King Of Pain,0.99,441,82,2009-12-18 00:00:00
+142,The Rolling Stones,"Hot Rocks, 1964-1971 (Disc 1)",Get Off Of My Cloud,0.99,442,82,2009-12-18 00:00:00
+142,The Rolling Stones,No Security,Gimmie Shelters,0.99,443,82,2009-12-18 00:00:00
+142,The Rolling Stones,No Security,Thief In The Night,0.99,444,82,2009-12-18 00:00:00
+142,The Rolling Stones,Voodoo Lounge,Out Of Tears,0.99,445,82,2009-12-18 00:00:00
+143,The Tea Party,Tangents,Walking Wounded,0.99,446,82,2009-12-18 00:00:00
+143,The Tea Party,Tangents,Heaven Coming Down,0.99,447,82,2009-12-18 00:00:00
+143,The Tea Party,Transmission,Gyroscope,0.99,448,82,2009-12-18 00:00:00
+144,The Who,My Generation - The Very Best Of The Who,"Anyway, Anyhow, Anywhere",0.99,449,82,2009-12-18 00:00:00
+144,The Who,My Generation - The Very Best Of The Who,Pinball Wizard,0.99,450,82,2009-12-18 00:00:00
+144,The Who,My Generation - The Very Best Of The Who,You Better You Bet,0.99,451,82,2009-12-18 00:00:00
+145,Tim Maia,Serie Sem Limite (Disc 1),M�sica No Ar,0.99,452,82,2009-12-18 00:00:00
+145,Tim Maia,Serie Sem Limite (Disc 2),Voc�,0.99,453,82,2009-12-18 00:00:00
+146,Tit�s,Ac�stico,Go Back,0.99,454,83,2009-12-26 00:00:00
+146,Tit�s,Ac�stico,Pr� Dizer Adeus,0.99,455,84,2010-01-08 00:00:00
+146,Tit�s,Ac�stico,Fam�lia,0.99,456,84,2010-01-08 00:00:00
+146,Tit�s,Ac�stico,O Pulso,0.99,457,85,2010-01-08 00:00:00
+146,Tit�s,Ac�stico,Nem 5 Minutos Guardados,0.99,458,85,2010-01-08 00:00:00
+146,Tit�s,Ac�stico,Palavras,0.99,459,86,2010-01-09 00:00:00
+146,Tit�s,Ac�stico,A Melhor Forma,0.99,460,86,2010-01-09 00:00:00
+146,Tit�s,Ac�stico,32 Dentes,0.99,461,86,2010-01-09 00:00:00
+146,Tit�s,Ac�stico,N�o Vou Lutar,0.99,462,86,2010-01-09 00:00:00
+146,Tit�s,Ac�stico,Querem Meu Sangue,0.99,463,87,2010-01-10 00:00:00
+146,Tit�s,Volume Dois,Lugar Nenhum,0.99,464,87,2010-01-10 00:00:00
+146,Tit�s,Volume Dois,Domingo,0.99,465,87,2010-01-10 00:00:00
+146,Tit�s,Volume Dois,Era Uma Vez,0.99,466,87,2010-01-10 00:00:00
+146,Tit�s,Volume Dois,Toda Cor,0.99,467,87,2010-01-10 00:00:00
+147,Battlestar Galactica,"Battlestar Galactica, Season 3",Occupation / Precipice,1.99,468,87,2010-01-10 00:00:00
+147,Battlestar Galactica,"Battlestar Galactica, Season 3",Hero,1.99,469,88,2010-01-13 00:00:00
+147,Battlestar Galactica,"Battlestar Galactica, Season 3",The Woman King,1.99,470,88,2010-01-13 00:00:00
+147,Battlestar Galactica,"Battlestar Galactica, Season 3","Crossroads, Pt. 2",1.99,471,88,2010-01-13 00:00:00
+148,Heroes,"Heroes, Season 1",Better Halves,1.99,472,88,2010-01-13 00:00:00
+148,Heroes,"Heroes, Season 1",The Fix,1.99,473,88,2010-01-13 00:00:00
+148,Heroes,"Heroes, Season 1",Parasite,1.99,474,88,2010-01-13 00:00:00
+149,Lost,"Lost, Season 3",The Glass Ballerina,1.99,475,88,2010-01-13 00:00:00
+149,Lost,"Lost, Season 1",Walkabout,1.99,476,88,2010-01-13 00:00:00
+149,Lost,"Lost, Season 3",I Do,1.99,477,88,2010-01-13 00:00:00
+149,Lost,"Lost, Season 1",Solitary,1.99,478,89,2010-01-18 00:00:00
+149,Lost,"Lost, Season 2",Fire + Water,1.99,479,89,2010-01-18 00:00:00
+149,Lost,"Lost, Season 1",Homecoming,1.99,480,89,2010-01-18 00:00:00
+149,Lost,"Lost, Season 2",Dave,1.99,481,89,2010-01-18 00:00:00
+149,Lost,"Lost, Season 1",Born to Run,1.99,482,89,2010-01-18 00:00:00
+150,U2,Achtung Baby,One,0.99,483,89,2010-01-18 00:00:00
+150,U2,Achtung Baby,Love Is Blindness,0.99,484,89,2010-01-18 00:00:00
+150,U2,All That You Can't Leave Behind,When I Look At The World,0.99,485,89,2010-01-18 00:00:00
+150,U2,B-Sides 1980-1990,Everlasting Love,0.99,486,89,2010-01-18 00:00:00
+150,U2,How To Dismantle An Atomic Bomb,Vertigo,0.99,487,89,2010-01-18 00:00:00
+150,U2,How To Dismantle An Atomic Bomb,Original Of The Species,0.99,488,89,2010-01-18 00:00:00
+150,U2,Pop,Miami,0.99,489,89,2010-01-18 00:00:00
+150,U2,Rattle And Hum,All Along The Watchtower,0.99,490,89,2010-01-18 00:00:00
+150,U2,Rattle And Hum,God Part II,0.99,491,89,2010-01-18 00:00:00
+150,U2,The Best Of 1980-1990,Desire,0.99,492,90,2010-01-26 00:00:00
+150,U2,The Best Of 1980-1990,When Love Comes To Town,0.99,493,91,2010-02-08 00:00:00
+150,U2,The Best Of 1980-1990,Angel Of Harlem,0.99,494,91,2010-02-08 00:00:00
+150,U2,War,Sunday Bloody Sunday,0.99,495,92,2010-02-08 00:00:00
+150,U2,War,New Year's Day,0.99,496,92,2010-02-08 00:00:00
+150,U2,War,Drowning Man,0.99,497,93,2010-02-09 00:00:00
+150,U2,War,Two Hearts Beat As One,0.99,498,93,2010-02-09 00:00:00
+150,U2,War,Surrender,0.99,499,93,2010-02-09 00:00:00
+150,U2,Zooropa,Zooropa,0.99,500,93,2010-02-09 00:00:00
+150,U2,Zooropa,"Stay (Faraway, So Close!)",0.99,501,94,2010-02-10 00:00:00
+150,U2,Zooropa,Dirty Day,0.99,502,94,2010-02-10 00:00:00
+151,UB40,UB40 The Best Of - Volume Two [UK],I Would Do For You,0.99,503,94,2010-02-10 00:00:00
+151,UB40,UB40 The Best Of - Volume Two [UK],Wear You To The Ball,0.99,504,94,2010-02-10 00:00:00
+151,UB40,UB40 The Best Of - Volume Two [UK],C'est La Vie,0.99,505,94,2010-02-10 00:00:00
+152,Van Halen,Diver Down,Where Have All The Good Times Gone?,0.99,506,94,2010-02-10 00:00:00
+152,Van Halen,Diver Down,Dancing In The Street,0.99,507,95,2010-02-13 00:00:00
+152,Van Halen,"The Best Of Van Halen, Vol. I",Eruption,0.99,508,95,2010-02-13 00:00:00
+152,Van Halen,"The Best Of Van Halen, Vol. I",Jump,0.99,509,95,2010-02-13 00:00:00
+152,Van Halen,"The Best Of Van Halen, Vol. I",Right Now,0.99,510,95,2010-02-13 00:00:00
+152,Van Halen,Van Halen,Eruption,0.99,511,95,2010-02-13 00:00:00
+152,Van Halen,Van Halen,Feel Your Love Tonight,0.99,512,95,2010-02-13 00:00:00
+152,Van Halen,Van Halen III,One I Want,0.99,513,95,2010-02-13 00:00:00
+152,Van Halen,Van Halen III,Year to the Day,0.99,514,95,2010-02-13 00:00:00
+153,Velvet Revolver,Contraband,Big Machine,0.99,515,95,2010-02-13 00:00:00
+153,Velvet Revolver,Contraband,Dirty Little Thing,0.99,516,96,2010-02-18 00:00:00
+72,Vin�cius De Moraes,Vinicius De Moraes,So Por Amor,0.99,517,96,2010-02-18 00:00:00
+100,Lenny Kravitz,Greatest Hits,Here I Go Again,0.99,518,96,2010-02-18 00:00:00
+100,Lenny Kravitz,Greatest Hits,The Deeper The Love,0.99,519,96,2010-02-18 00:00:00
+155,Zeca Pagodinho,Ao Vivo [IMPORT],Seu Balanc�,0.99,520,96,2010-02-18 00:00:00
+155,Zeca Pagodinho,Ao Vivo [IMPORT],Sapopemba e Maxambomba,0.99,521,96,2010-02-18 00:00:00
+149,Lost,"Lost, Season 3",The Man Behind the Curtain,1.99,522,96,2010-02-18 00:00:00
+156,The Office,"The Office, Season 2",The Dundies,1.99,523,96,2010-02-18 00:00:00
+156,The Office,"The Office, Season 2",Christmas Party,1.99,524,96,2010-02-18 00:00:00
+156,The Office,"The Office, Season 2",Michael's Birthday,1.99,525,96,2010-02-18 00:00:00
+156,The Office,"The Office, Season 3",Diwali,1.99,526,96,2010-02-18 00:00:00
+156,The Office,"The Office, Season 3",Phyllis's Wedding,1.99,527,96,2010-02-18 00:00:00
+148,Heroes,"Heroes, Season 1",How to Stop an Exploding Man,1.99,528,96,2010-02-18 00:00:00
+158,Battlestar Galactica (Classic),"Battlestar Galactica (Classic), Season 1",The Long Patrol,1.99,529,96,2010-02-18 00:00:00
+158,Battlestar Galactica (Classic),"Battlestar Galactica (Classic), Season 1",Baltar's Escape,1.99,530,97,2010-02-26 00:00:00
+158,Battlestar Galactica (Classic),"Battlestar Galactica (Classic), Season 1",Experiment In Terra,1.99,531,98,2010-03-11 00:00:00
+158,Battlestar Galactica (Classic),"Battlestar Galactica (Classic), Season 1",Take the Celestra,1.99,532,98,2010-03-11 00:00:00
+159,Aquaman,Aquaman,Pilot,1.99,533,99,2010-03-11 00:00:00
+149,Lost,"Lost, Season 3","Through the Looking Glass, Pt. 1",1.99,534,99,2010-03-11 00:00:00
+150,U2,Instant Karma: The Amnesty International Campaign to Save Darfur,#9 Dream,0.99,535,100,2010-03-12 00:00:00
+150,U2,Instant Karma: The Amnesty International Campaign to Save Darfur,Give Peace a Chance,0.99,536,100,2010-03-12 00:00:00
+150,U2,Instant Karma: The Amnesty International Campaign to Save Darfur,Whatever Gets You Thru the Night,0.99,537,100,2010-03-12 00:00:00
+150,U2,Instant Karma: The Amnesty International Campaign to Save Darfur,Gimme Some Truth,0.99,538,100,2010-03-12 00:00:00
+13,Body Count,Body Count,Voodoo,0.99,603,110,2010-04-21 00:00:00
+150,U2,Instant Karma: The Amnesty International Campaign to Save Darfur,Jealous Guy,0.99,539,101,2010-03-13 00:00:00
+150,U2,Instant Karma: The Amnesty International Campaign to Save Darfur,Beautiful Boy,0.99,540,101,2010-03-13 00:00:00
+150,U2,Instant Karma: The Amnesty International Campaign to Save Darfur,Gimme Some Truth,0.99,541,101,2010-03-13 00:00:00
+114,Ozzy Osbourne,Speak of the Devil,Sympton of the Universe,0.99,542,101,2010-03-13 00:00:00
+114,Ozzy Osbourne,Speak of the Devil,War Pigs,0.99,543,101,2010-03-13 00:00:00
+114,Ozzy Osbourne,Speak of the Devil,Never Say Die,0.99,544,101,2010-03-13 00:00:00
+179,Scorpions,20th Century Masters - The Millennium Collection: The Best of Scorpions,The Zoo,0.99,545,102,2010-03-16 00:00:00
+179,Scorpions,20th Century Masters - The Millennium Collection: The Best of Scorpions,I Can't Explain,0.99,546,102,2010-03-16 00:00:00
+180,House Of Pain,House of Pain,Put Your Head Out,0.99,547,102,2010-03-16 00:00:00
+180,House Of Pain,House of Pain,"Danny Boy, Danny Boy",0.99,548,102,2010-03-16 00:00:00
+180,House Of Pain,House of Pain,One For The Road,0.99,549,102,2010-03-16 00:00:00
+36,O Rappa,Radio Brasil (O Som da Jovem Vanguarda) - Seleccao de Henrique Amaro,Chapa o Coco,0.99,550,102,2010-03-16 00:00:00
+36,O Rappa,Radio Brasil (O Som da Jovem Vanguarda) - Seleccao de Henrique Amaro,Todo o Carnaval tem seu Fim,0.99,551,102,2010-03-16 00:00:00
+36,O Rappa,Radio Brasil (O Som da Jovem Vanguarda) - Seleccao de Henrique Amaro,Funk de Bamba,0.99,552,102,2010-03-16 00:00:00
+149,Lost,"LOST, Season 4",The Beginning of the End,1.99,553,102,2010-03-16 00:00:00
+149,Lost,"LOST, Season 4",Meet Kevin Johnson,1.99,554,103,2010-03-21 00:00:00
+201,Luciana Souza/Romero Lubambo,Duos II,Muita Bobeira,0.99,555,103,2010-03-21 00:00:00
+204,Temple of the Dog,Temple of the Dog,Say Hello 2 Heaven,0.99,556,103,2010-03-21 00:00:00
+204,Temple of the Dog,Temple of the Dog,All Night Thing,0.99,557,103,2010-03-21 00:00:00
+205,Chris Cornell,Carry On,Scar On the Sky,0.99,558,103,2010-03-21 00:00:00
+8,Audioslave,Revelations,Until We Fall,0.99,559,103,2010-03-21 00:00:00
+8,Audioslave,Revelations,Show Me How to Live (Live at the Quart Festival),0.99,560,103,2010-03-21 00:00:00
+213,Scholars Baroque Ensemble,Handel: The Messiah (Highlights),"The Messiah: Behold, I Tell You a Mystery... The Trumpet Shall Sound",0.99,561,103,2010-03-21 00:00:00
+222,"Academy of St. Martin in the Fields, John Birch, Sir Neville Marriner & Sylvia McNair","Faur�: Requiem, Ravel: Pavane & Others","Requiem, Op.48: 4. Pie Jesu",0.99,562,103,2010-03-21 00:00:00
+156,The Office,"The Office, Season 3",Branch Closing,1.99,563,103,2010-03-21 00:00:00
+238,Maurizio Pollini,Beethoven Piano Sonatas: Moonlight & Pastorale,"Piano Sonata No. 14 in C Sharp Minor, Op. 27, No. 2, ""Moonlight"": I. Adagio sostenuto",0.99,564,103,2010-03-21 00:00:00
+245,Michael Tilson Thomas & San Francisco Symphony,Berlioz: Symphonie Fantastique,"Symphonie Fantastique, Op. 14: V. Songe d'une nuit du sabbat",0.99,565,103,2010-03-21 00:00:00
+252,Amy Winehouse,Back to Black,Rehab,0.99,566,103,2010-03-21 00:00:00
+252,Amy Winehouse,Back to Black,He Can Only Hold Her,0.99,567,103,2010-03-21 00:00:00
+253,Calexico,Carried to Dust (Bonus Track Version),Slowness,0.99,568,104,2010-03-29 00:00:00
+254,Otto Klemperer & Philharmonia Orchestra,Beethoven: Symphony No. 6 'Pastoral' Etc.,"Prometheus Overture, Op. 43",0.99,569,105,2010-04-11 00:00:00
+255,Yehudi Menuhin,Bartok: Violin & Viola Concertos,Sonata for Solo Violin: IV: Presto,0.99,570,105,2010-04-11 00:00:00
+257,"Academy of St. Martin in the Fields, Sir Neville Marriner & Thurston Dart",Bach: Orchestral Suites Nos. 1 - 4,"Suite No. 3 in D, BWV 1068: III. Gavotte I & II",0.99,571,106,2010-04-11 00:00:00
+259,The 12 Cellists of The Berlin Philharmonic,South American Getaway,Adios nonino,0.99,572,106,2010-04-11 00:00:00
+261,"Roger Norrington, London Classical Players",Purcell: The Fairy Queen,"Act IV, Symphony",0.99,573,107,2010-04-12 00:00:00
+263,"Equale Brass Ensemble, John Eliot Gardiner & Munich Monteverdi Orchestra and Choir",Purcell: Music for the Queen Mary,"Music for the Funeral of Queen Mary: VI. ""Thou Knowest, Lord, the Secrets of Our Hearts""",0.99,574,107,2010-04-12 00:00:00
+265,Julian Bream,"J.S. Bach: Chaconne, Suite in E Minor, Partita in E Major & Prelude, Fugue and Allegro","Partita in E Major, BWV 1006A: I. Prelude",0.99,575,107,2010-04-12 00:00:00
+247,The King's Singers,English Renaissance,Sing Joyfully,0.99,576,107,2010-04-12 00:00:00
+269,Michele Campanella,Liszt - 12 �tudes D'Execution Transcendante,"�tude 1, In C Major - Preludio (Presto) - Liszt",0.99,577,108,2010-04-13 00:00:00
+272,Emerson String Quartet,Schubert: The Late String Quartets & String Quintet (3 CD's),"String Quartet No. 12 in C Minor, D. 703 ""Quartettsatz"": II. Andante - Allegro assai",0.99,578,108,2010-04-13 00:00:00
+1,AC/DC,For Those About To Rock We Salute You,For Those About To Rock (We Salute You),0.99,579,108,2010-04-13 00:00:00
+2,Accept,Restless and Wild,Princess of the Dawn,0.99,580,108,2010-04-13 00:00:00
+1,AC/DC,For Those About To Rock We Salute You,Snowballed,0.99,581,108,2010-04-13 00:00:00
+1,AC/DC,For Those About To Rock We Salute You,Night Of The Long Knives,0.99,582,108,2010-04-13 00:00:00
+1,AC/DC,Let There Be Rock,Problem Child,0.99,583,109,2010-04-16 00:00:00
+3,Aerosmith,Big Ones,Rag Doll,0.99,584,109,2010-04-16 00:00:00
+3,Aerosmith,Big Ones,Blind Man,0.99,585,109,2010-04-16 00:00:00
+3,Aerosmith,Big Ones,Livin' On The Edge,0.99,586,109,2010-04-16 00:00:00
+4,Alanis Morissette,Jagged Little Pill,Forgiven,0.99,587,109,2010-04-16 00:00:00
+4,Alanis Morissette,Jagged Little Pill,Wake Up,0.99,588,109,2010-04-16 00:00:00
+5,Alice In Chains,Facelift,I Can't Remember,0.99,589,109,2010-04-16 00:00:00
+5,Alice In Chains,Facelift,I Know Somethin (Bout You),0.99,590,109,2010-04-16 00:00:00
+6,Ant�nio Carlos Jobim,Warner 25 Anos,Ligia,0.99,591,109,2010-04-16 00:00:00
+6,Ant�nio Carlos Jobim,Warner 25 Anos,"Canta, Canta Mais",0.99,592,110,2010-04-21 00:00:00
+8,Audioslave,Audioslave,Cochise,0.99,593,110,2010-04-21 00:00:00
+8,Audioslave,Audioslave,Hypnotize,0.99,594,110,2010-04-21 00:00:00
+8,Audioslave,Out Of Exile,Drown Me Slowly,0.99,595,110,2010-04-21 00:00:00
+9,BackBeat,BackBeat Soundtrack,Long Tall Sally,0.99,596,110,2010-04-21 00:00:00
+9,BackBeat,BackBeat Soundtrack,Good Golly Miss Molly,0.99,597,110,2010-04-21 00:00:00
+10,Billy Cobham,The Best Of Billy Cobham,Do what cha wanna,0.99,598,110,2010-04-21 00:00:00
+11,Black Label Society,Alcohol Fueled Brewtality Live! [Disc 1],A.N.D.R.O.T.A.Z.,0.99,599,110,2010-04-21 00:00:00
+11,Black Label Society,Alcohol Fueled Brewtality Live! [Disc 2],The Beginning...At Last,0.99,600,110,2010-04-21 00:00:00
+12,Black Sabbath,Black Sabbath Vol. 4 (Remaster),Tomorrow's Dream,0.99,601,110,2010-04-21 00:00:00
+13,Body Count,Body Count,Smoked Pork,0.99,602,110,2010-04-21 00:00:00
+14,Bruce Dickinson,Chemical Wedding,Chemical Wedding,0.99,604,110,2010-04-21 00:00:00
+14,Bruce Dickinson,Chemical Wedding,Realword,0.99,605,110,2010-04-21 00:00:00
+16,Caetano Veloso,Prenda Minha,Medita��o,0.99,606,111,2010-04-29 00:00:00
+16,Caetano Veloso,Prenda Minha,Terra,0.99,607,112,2010-05-12 00:00:00
+16,Caetano Veloso,Prenda Minha,Eclipse Oculto,0.99,608,112,2010-05-12 00:00:00
+16,Caetano Veloso,Prenda Minha,Bem Devagar,0.99,609,113,2010-05-12 00:00:00
+16,Caetano Veloso,Prenda Minha,Saudosismo,0.99,610,113,2010-05-12 00:00:00
+16,Caetano Veloso,Prenda Minha,Sozinho,0.99,611,114,2010-05-13 00:00:00
+16,Caetano Veloso,Prenda Minha,Mel,0.99,612,114,2010-05-13 00:00:00
+16,Caetano Veloso,Prenda Minha,Odara,0.99,613,114,2010-05-13 00:00:00
+16,Caetano Veloso,Prenda Minha,Atr�s Da Verd-E-Rosa S� N�o Vai Quem J� Morreu,0.99,614,114,2010-05-13 00:00:00
+16,Caetano Veloso,Sozinho Remix Ao Vivo,Sozinho (Ca�drum 'n' Bass),0.99,615,115,2010-05-14 00:00:00
+17,Chico Buarque,Minha Historia,Samba De Orly,0.99,616,115,2010-05-14 00:00:00
+17,Chico Buarque,Minha Historia,O Que Ser� (� Flor Da Terra),0.99,617,115,2010-05-14 00:00:00
+17,Chico Buarque,Minha Historia,Minha Historia,0.99,618,115,2010-05-14 00:00:00
+17,Chico Buarque,Minha Historia,Geni E O Zepelim,0.99,619,115,2010-05-14 00:00:00
+17,Chico Buarque,Minha Historia,Constru��o / Deus Lhe Pague,0.99,620,115,2010-05-14 00:00:00
+18,Chico Science & Na��o Zumbi,Afrociberdelia,Um Passeio No Mundo Livre,0.99,621,116,2010-05-17 00:00:00
+18,Chico Science & Na��o Zumbi,Afrociberdelia,Manguetown,0.99,622,116,2010-05-17 00:00:00
+18,Chico Science & Na��o Zumbi,Afrociberdelia,Crian�a De Domingo,0.99,623,116,2010-05-17 00:00:00
+18,Chico Science & Na��o Zumbi,Da Lama Ao Caos,Banditismo Por Uma Questa,0.99,624,116,2010-05-17 00:00:00
+18,Chico Science & Na��o Zumbi,Da Lama Ao Caos,Da Lama Ao Caos,0.99,625,116,2010-05-17 00:00:00
+18,Chico Science & Na��o Zumbi,Da Lama Ao Caos,Computadores Fazem Arte,0.99,626,116,2010-05-17 00:00:00
+19,Cidade Negra,Ac�stico MTV [Live],Extra,0.99,627,116,2010-05-17 00:00:00
+19,Cidade Negra,Ac�stico MTV [Live],Onde Voc� Mora?,0.99,628,116,2010-05-17 00:00:00
+19,Cidade Negra,Cidade Negra - Hits,Onde Voc� Mora?,0.99,629,116,2010-05-17 00:00:00
+19,Cidade Negra,Cidade Negra - Hits,Na Frente Da TV,0.99,630,117,2010-05-22 00:00:00
+20,Cl�udio Zoli,Na Pista,Amor Demais,0.99,631,117,2010-05-22 00:00:00
+21,Various Artists,Ax� Bahia 2001,"Tapa Aqui, Descobre Ali",0.99,632,117,2010-05-22 00:00:00
+21,Various Artists,Ax� Bahia 2001,My Love,0.99,633,117,2010-05-22 00:00:00
+22,Led Zeppelin,BBC Sessions [Disc 1] [Live],Travelling Riverside Blues,0.99,634,117,2010-05-22 00:00:00
+23,Frank Zappa & Captain Beefheart,Bongo Fury,Sam With The Showing Scalp Flat Top,0.99,635,117,2010-05-22 00:00:00
+21,Various Artists,Carnaval 2001,Gavioes 2001,0.99,636,117,2010-05-22 00:00:00
+21,Various Artists,Carnaval 2001,Morro Da Casa Verde 2001,0.99,637,117,2010-05-22 00:00:00
+24,Marcos Valle,Chill: Brazil (Disc 1),Samba da Ben�aco,0.99,638,117,2010-05-22 00:00:00
+24,Marcos Valle,Chill: Brazil (Disc 1),Maria Fuma�a,0.99,639,117,2010-05-22 00:00:00
+6,Ant�nio Carlos Jobim,Chill: Brazil (Disc 2),Only A Dream In Rio,0.99,640,117,2010-05-22 00:00:00
+6,Ant�nio Carlos Jobim,Chill: Brazil (Disc 2),S� Tinha De Ser Com Voc�,0.99,641,117,2010-05-22 00:00:00
+50,Metallica,Garage Inc. (Disc 1),Whiskey In The Jar,0.99,642,117,2010-05-22 00:00:00
+51,Queen,Greatest Hits II,It's A Hard Life,0.99,643,117,2010-05-22 00:00:00
+52,Kiss,Greatest Kiss,Sure Know Something,0.99,644,118,2010-05-30 00:00:00
+52,Kiss,Greatest Kiss,Love Gun,0.99,645,119,2010-06-12 00:00:00
+52,Kiss,Greatest Kiss,Deuce,0.99,646,119,2010-06-12 00:00:00
+52,Kiss,Greatest Kiss,Shock Me,0.99,647,120,2010-06-12 00:00:00
+52,Kiss,Greatest Kiss,She,0.99,648,120,2010-06-12 00:00:00
+52,Kiss,Greatest Kiss,Shout It Out Loud,0.99,649,121,2010-06-13 00:00:00
+52,Kiss,Greatest Kiss,Calling Dr. Love,0.99,650,121,2010-06-13 00:00:00
+52,Kiss,Greatest Kiss,Strutter,0.99,651,121,2010-06-13 00:00:00
+52,Kiss,Greatest Kiss,Cold Gin,0.99,652,121,2010-06-13 00:00:00
+53,Spyro Gyra,Heart of the Night,De La Luz,0.99,653,122,2010-06-14 00:00:00
+53,Spyro Gyra,Heart of the Night,Surrender,0.99,654,122,2010-06-14 00:00:00
+53,Spyro Gyra,Heart of the Night,When Evening Falls,0.99,655,122,2010-06-14 00:00:00
+54,Green Day,International Superhits,Poprocks And Coke,0.99,656,122,2010-06-14 00:00:00
+54,Green Day,International Superhits,When I Come Around,0.99,657,122,2010-06-14 00:00:00
+54,Green Day,International Superhits,Brain Stew,0.99,658,122,2010-06-14 00:00:00
+54,Green Day,International Superhits,Redundant,0.99,659,123,2010-06-17 00:00:00
+55,David Coverdale,Into The Light,Into The Light,0.99,660,123,2010-06-17 00:00:00
+55,David Coverdale,Into The Light,Cry For Love,0.99,661,123,2010-06-17 00:00:00
+56,Gonzaguinha,Meus Momentos,Grito De Alerta,0.99,662,123,2010-06-17 00:00:00
+56,Gonzaguinha,Meus Momentos,Lindo Lago Do Amor,0.99,663,123,2010-06-17 00:00:00
+56,Gonzaguinha,Meus Momentos,Ponto De Interroga��o,0.99,664,123,2010-06-17 00:00:00
+17,Chico Buarque,Minha Historia,Voce Nao Entende Nada - Cotidiano,0.99,665,123,2010-06-17 00:00:00
+17,Chico Buarque,Minha Historia,O Leaozinho,0.99,666,123,2010-06-17 00:00:00
+57,Os Mutantes,Minha Hist�ria,Top Top,0.99,667,123,2010-06-17 00:00:00
+57,Os Mutantes,Minha Hist�ria,"Posso Perder Minha Mulher, Minha M�e, Desde Que Eu Tenha O Rock And Roll",0.99,668,124,2010-06-22 00:00:00
+58,Deep Purple,MK III The Final Concerts [Disc 1],You Fool No One,0.99,669,124,2010-06-22 00:00:00
+21,Various Artists,Sambas De Enredo 2001,Viradouro,0.99,670,124,2010-06-22 00:00:00
+21,Various Artists,Sambas De Enredo 2001,Tradi��o,0.99,671,124,2010-06-22 00:00:00
+59,Santana,Supernatural,Maria Maria,0.99,672,124,2010-06-22 00:00:00
+37,Ed Motta,The Best of Ed Motta,Entre E Ou�a,0.99,673,124,2010-06-22 00:00:00
+37,Ed Motta,The Best of Ed Motta,Agora Que O Dia Acordou,0.99,674,124,2010-06-22 00:00:00
+68,Miles Davis,The Essential Miles Davis [Disc 1],Bye Bye Blackbird,0.99,675,124,2010-06-22 00:00:00
+68,Miles Davis,The Essential Miles Davis [Disc 2],Nefertiti,0.99,676,124,2010-06-22 00:00:00
+58,Deep Purple,The Final Concerts (Disc 2),Going Down / Highway Star,0.99,677,124,2010-06-22 00:00:00
+69,Gene Krupa,Up An' Atom,Boogie Blues,0.99,678,124,2010-06-22 00:00:00
+69,Gene Krupa,Up An' Atom,Don't Take Your Love From Me,0.99,679,124,2010-06-22 00:00:00
+70,Toquinho & Vin�cius,Vin�cius De Moraes - Sem Limite,Onde Anda Voc�,0.99,680,124,2010-06-22 00:00:00
+70,Toquinho & Vin�cius,Vin�cius De Moraes - Sem Limite,Deixa,0.99,681,124,2010-06-22 00:00:00
+21,Various Artists,Vozes do MPB,As Rosas N�o Falam (Beth Carvalho),0.99,682,125,2010-06-30 00:00:00
+21,Various Artists,Vozes do MPB,Wave (Os Cariocas),0.99,683,126,2010-07-13 00:00:00
+21,Various Artists,Vozes do MPB,Garota de Ipanema (Dick Farney),0.99,684,126,2010-07-13 00:00:00
+76,Creedence Clearwater Revival,"Chronicle, Vol. 1",Susie Q,0.99,685,127,2010-07-13 00:00:00
+76,Creedence Clearwater Revival,"Chronicle, Vol. 1",Proud Mary,0.99,686,127,2010-07-13 00:00:00
+76,Creedence Clearwater Revival,"Chronicle, Vol. 1",Lodi,0.99,687,128,2010-07-14 00:00:00
+76,Creedence Clearwater Revival,"Chronicle, Vol. 1",Commotion,0.99,688,128,2010-07-14 00:00:00
+76,Creedence Clearwater Revival,"Chronicle, Vol. 1",Fortunate Son,0.99,689,128,2010-07-14 00:00:00
+76,Creedence Clearwater Revival,"Chronicle, Vol. 1",Who'll Stop The Rain,0.99,690,128,2010-07-14 00:00:00
+76,Creedence Clearwater Revival,"Chronicle, Vol. 1",Long As I Can See The Light,0.99,691,129,2010-07-15 00:00:00
+76,Creedence Clearwater Revival,"Chronicle, Vol. 1",Sweet Hitch-Hiker,0.99,692,129,2010-07-15 00:00:00
+76,Creedence Clearwater Revival,"Chronicle, Vol. 2",Born On The Bayou,0.99,693,129,2010-07-15 00:00:00
+76,Creedence Clearwater Revival,"Chronicle, Vol. 2",Night Time Is The Right Time,0.99,694,129,2010-07-15 00:00:00
+76,Creedence Clearwater Revival,"Chronicle, Vol. 2",The Midnight Special,0.99,695,129,2010-07-15 00:00:00
+76,Creedence Clearwater Revival,"Chronicle, Vol. 2",(Wish I Could) Hideaway,0.99,696,129,2010-07-15 00:00:00
+77,C�ssia Eller,C�ssia Eller - Cole��o Sem Limite [Disc 2],Gatas Extraordin�rias,0.99,697,130,2010-07-18 00:00:00
+77,C�ssia Eller,C�ssia Eller - Cole��o Sem Limite [Disc 2],"Voc� Passa, Eu Acho Gra�a (Ao Vivo)",0.99,698,130,2010-07-18 00:00:00
+77,C�ssia Eller,C�ssia Eller - Cole��o Sem Limite [Disc 2],N�o Sei O Que Eu Quero Da Vida,0.99,699,130,2010-07-18 00:00:00
+77,C�ssia Eller,C�ssia Eller - Sem Limite [Disc 1],E.C.T.,0.99,700,130,2010-07-18 00:00:00
+77,C�ssia Eller,C�ssia Eller - Sem Limite [Disc 1],Eleanor Rigby,0.99,701,130,2010-07-18 00:00:00
+58,Deep Purple,Come Taste The Band,Comin' Home,0.99,702,130,2010-07-18 00:00:00
+58,Deep Purple,Come Taste The Band,Love Child,0.99,703,130,2010-07-18 00:00:00
+58,Deep Purple,Deep Purple In Rock,Flight Of The Rat,0.99,704,130,2010-07-18 00:00:00
+58,Deep Purple,Fireball,Strange Kind Of Woman,0.99,705,130,2010-07-18 00:00:00
+58,Deep Purple,Knocking at Your Back Door: The Best Of Deep Purple in the 80's,Black Night,0.99,706,131,2010-07-23 00:00:00
+58,Deep Purple,Machine Head,Pictures Of Home,0.99,707,131,2010-07-23 00:00:00
+58,Deep Purple,Purpendicular,Cascades : I'm Not Your Lover,0.99,708,131,2010-07-23 00:00:00
+58,Deep Purple,Slaves And Masters,The Cut Runs Deep,0.99,709,131,2010-07-23 00:00:00
+58,Deep Purple,Stormbringer,Love Don't Mean a Thing,0.99,710,131,2010-07-23 00:00:00
+58,Deep Purple,The Battle Rages On,Lick It Up,0.99,711,131,2010-07-23 00:00:00
+78,Def Leppard,Vault: Def Leppard's Greatest Hits,Pour Some Sugar On Me,0.99,712,131,2010-07-23 00:00:00
+78,Def Leppard,Vault: Def Leppard's Greatest Hits,Action,0.99,713,131,2010-07-23 00:00:00
+79,Dennis Chambers,Outbreak,Groovus Interruptus,0.99,714,131,2010-07-23 00:00:00
+80,Djavan,Djavan Ao Vivo - Vol. 02,Cigano,0.99,715,131,2010-07-23 00:00:00
+80,Djavan,Djavan Ao Vivo - Vol. 02,Acelerou,0.99,716,131,2010-07-23 00:00:00
+80,Djavan,Djavan Ao Vivo - Vol. 1,Azul,0.99,717,131,2010-07-23 00:00:00
+41,Elis Regina,Elis Regina-Minha Hist�ria,"Dois Pra L�, Dois Pra C�",0.99,718,131,2010-07-23 00:00:00
+41,Elis Regina,Elis Regina-Minha Hist�ria,Maria Rosa,0.99,719,131,2010-07-23 00:00:00
+81,Eric Clapton,The Cream Of Clapton,Lay Down Sally,0.99,720,132,2010-07-31 00:00:00
+81,Eric Clapton,The Cream Of Clapton,Knockin On Heavens Door,0.99,721,133,2010-08-13 00:00:00
+81,Eric Clapton,The Cream Of Clapton,Wonderful Tonight,0.99,722,133,2010-08-13 00:00:00
+81,Eric Clapton,The Cream Of Clapton,Promises,0.99,723,134,2010-08-13 00:00:00
+81,Eric Clapton,Unplugged,Signe,0.99,724,134,2010-08-13 00:00:00
+81,Eric Clapton,Unplugged,Hey Hey,0.99,725,135,2010-08-14 00:00:00
+81,Eric Clapton,Unplugged,Lonely Stranger,0.99,726,135,2010-08-14 00:00:00
+81,Eric Clapton,Unplugged,Layla,0.99,727,135,2010-08-14 00:00:00
+81,Eric Clapton,Unplugged,Walkin' Blues,0.99,728,135,2010-08-14 00:00:00
+81,Eric Clapton,Unplugged,Old Love,0.99,729,136,2010-08-15 00:00:00
+82,Faith No More,Album Of The Year,Last Cup Of Sorrow,0.99,730,136,2010-08-15 00:00:00
+82,Faith No More,Album Of The Year,Ashes To Ashes,0.99,731,136,2010-08-15 00:00:00
+82,Faith No More,Album Of The Year,Home Sick Home,0.99,732,136,2010-08-15 00:00:00
+82,Faith No More,Angel Dust,Midlife Crisis,0.99,733,136,2010-08-15 00:00:00
+82,Faith No More,Angel Dust,Malpractice,0.99,734,136,2010-08-15 00:00:00
+82,Faith No More,Angel Dust,Midnight Cowboy,0.99,735,137,2010-08-18 00:00:00
+82,Faith No More,King For A Day Fool For A Lifetime,Star A.D.,0.99,736,137,2010-08-18 00:00:00
+82,Faith No More,King For A Day Fool For A Lifetime,King For A Day,0.99,737,137,2010-08-18 00:00:00
+82,Faith No More,The Real Thing,Epic,0.99,738,137,2010-08-18 00:00:00
+82,Faith No More,The Real Thing,The Morning After,0.99,739,137,2010-08-18 00:00:00
+83,Falamansa,Deixa Entrar,Xote Dos Milagres,0.99,740,137,2010-08-18 00:00:00
+83,Falamansa,Deixa Entrar,Principiando/Decolagem,0.99,741,137,2010-08-18 00:00:00
+84,Foo Fighters,In Your Honor [Disc 1],In Your Honor,0.99,742,137,2010-08-18 00:00:00
+84,Foo Fighters,In Your Honor [Disc 1],Free Me,0.99,743,137,2010-08-18 00:00:00
+84,Foo Fighters,In Your Honor [Disc 2],Over And Out,0.99,744,138,2010-08-23 00:00:00
+84,Foo Fighters,One By One,Disenchanted Lullaby,0.99,745,138,2010-08-23 00:00:00
+84,Foo Fighters,The Colour And The Shape,"Hey, Johnny Park!",0.99,746,138,2010-08-23 00:00:00
+84,Foo Fighters,The Colour And The Shape,Walking After You,0.99,747,138,2010-08-23 00:00:00
+85,Frank Sinatra,My Way: The Best Of Frank Sinatra [Disc 1],Summer Love,0.99,748,138,2010-08-23 00:00:00
+85,Frank Sinatra,My Way: The Best Of Frank Sinatra [Disc 1],Come Fly With Me,0.99,749,138,2010-08-23 00:00:00
+86,Funk Como Le Gusta,Roda De Funk,Nervosa,0.99,750,138,2010-08-23 00:00:00
+86,Funk Como Le Gusta,Roda De Funk,Meu Guarda-Chuva,0.99,751,138,2010-08-23 00:00:00
+27,Gilberto Gil,As Can��es de Eu Tu Eles,Juazeiro,0.99,752,138,2010-08-23 00:00:00
+27,Gilberto Gil,As Can��es de Eu Tu Eles,Lamento Sertanejo,0.99,753,138,2010-08-23 00:00:00
+27,Gilberto Gil,Quanta Gente Veio Ver (Live),Estrela (Live),0.99,754,138,2010-08-23 00:00:00
+27,Gilberto Gil,Quanta Gente Veio ver--B�nus De Carnaval,Lamento De Carnaval,0.99,755,138,2010-08-23 00:00:00
+81,Eric Clapton,Unplugged,Beira Mar,0.99,756,138,2010-08-23 00:00:00
+87,Godsmack,Faceless,Straight Out Of Line,0.99,757,138,2010-08-23 00:00:00
+54,Green Day,American Idiot,Holiday,0.99,758,139,2010-08-31 00:00:00
+54,Green Day,American Idiot,Boulevard Of Broken Dreams,0.99,759,140,2010-09-13 00:00:00
+54,Green Day,American Idiot,Are We The Waiting,0.99,760,140,2010-09-13 00:00:00
+54,Green Day,American Idiot,Give Me Novacaine,0.99,761,141,2010-09-13 00:00:00
+54,Green Day,American Idiot,Extraordinary Girl,0.99,762,141,2010-09-13 00:00:00
+54,Green Day,American Idiot,Wake Me Up When September Ends,0.99,763,142,2010-09-14 00:00:00
+54,Green Day,American Idiot,Whatsername,0.99,764,142,2010-09-14 00:00:00
+88,Guns N' Roses,Appetite for Destruction,It's So Easy,0.99,765,142,2010-09-14 00:00:00
+88,Guns N' Roses,Appetite for Destruction,Out Ta Get Me,0.99,766,142,2010-09-14 00:00:00
+88,Guns N' Roses,Appetite for Destruction,Think About You,0.99,767,143,2010-09-15 00:00:00
+88,Guns N' Roses,Appetite for Destruction,Rocket Queen,0.99,768,143,2010-09-15 00:00:00
+88,Guns N' Roses,Use Your Illusion I,Don't Cry (Original),0.99,769,143,2010-09-15 00:00:00
+88,Guns N' Roses,Use Your Illusion I,Back off Bitch,0.99,770,143,2010-09-15 00:00:00
+88,Guns N' Roses,Use Your Illusion I,Garden of Eden,0.99,771,143,2010-09-15 00:00:00
+88,Guns N' Roses,Use Your Illusion I,Coma,0.99,772,143,2010-09-15 00:00:00
+88,Guns N' Roses,Use Your Illusion II,Shotgun Blues,0.99,773,144,2010-09-18 00:00:00
+88,Guns N' Roses,Use Your Illusion II,You Could Be Mine,0.99,774,144,2010-09-18 00:00:00
+89,Incognito,Blue Moods,Deep Waters,0.99,775,144,2010-09-18 00:00:00
+89,Incognito,Blue Moods,Thinking 'Bout Tomorrow,0.99,776,144,2010-09-18 00:00:00
+90,Iron Maiden,A Matter of Life and Death,Brighter Than a Thousand Suns,0.99,777,144,2010-09-18 00:00:00
+90,Iron Maiden,A Matter of Life and Death,Lord of Light,0.99,778,144,2010-09-18 00:00:00
+90,Iron Maiden,A Real Dead One,Transylvania,0.99,779,144,2010-09-18 00:00:00
+90,Iron Maiden,A Real Dead One,2 Minutes To Midnight,0.99,780,144,2010-09-18 00:00:00
+90,Iron Maiden,A Real Live One,Wasting Love,0.99,781,144,2010-09-18 00:00:00
+90,Iron Maiden,Brave New World,Ghost Of The Navigator,0.99,782,145,2010-09-23 00:00:00
+90,Iron Maiden,Dance Of Death,Wildest Dreams,0.99,783,145,2010-09-23 00:00:00
+90,Iron Maiden,Dance Of Death,Age Of Innocence,0.99,784,145,2010-09-23 00:00:00
+90,Iron Maiden,Fear Of The Dark,Chains Of Misery,0.99,785,145,2010-09-23 00:00:00
+90,Iron Maiden,Iron Maiden,05 - Phantom of the Opera,0.99,786,145,2010-09-23 00:00:00
+90,Iron Maiden,Killers,Genghis Khan,0.99,787,145,2010-09-23 00:00:00
+90,Iron Maiden,Live After Death,The Trooper,0.99,788,145,2010-09-23 00:00:00
+90,Iron Maiden,Live After Death,Running Free,0.99,789,145,2010-09-23 00:00:00
+90,Iron Maiden,Live At Donington 1992 (Disc 1),From Here To Eternity,0.99,790,145,2010-09-23 00:00:00
+90,Iron Maiden,Live At Donington 1992 (Disc 2),Heaven Can Wait,0.99,791,145,2010-09-23 00:00:00
+90,Iron Maiden,No Prayer For The Dying,Holy Smoke,0.99,792,145,2010-09-23 00:00:00
+90,Iron Maiden,Piece Of Mind,Where Eagles Dare,0.99,793,145,2010-09-23 00:00:00
+90,Iron Maiden,Powerslave,Aces High,0.99,794,145,2010-09-23 00:00:00
+90,Iron Maiden,Rock In Rio [CD1],The Wicker Man,0.99,795,145,2010-09-23 00:00:00
+90,Iron Maiden,Rock In Rio [CD2],The Number Of The Beast,0.99,796,146,2010-10-01 00:00:00
+90,Iron Maiden,Rock In Rio [CD2],Hallowed Be Thy Name,0.99,797,147,2010-10-14 00:00:00
+90,Iron Maiden,Rock In Rio [CD2],Sanctuary,0.99,798,147,2010-10-14 00:00:00
+90,Iron Maiden,Seventh Son of a Seventh Son,Moonchild,0.99,799,148,2010-10-14 00:00:00
+90,Iron Maiden,Seventh Son of a Seventh Son,Can I Play With Madness,0.99,800,148,2010-10-14 00:00:00
+90,Iron Maiden,Seventh Son of a Seventh Son,Seventh Son of a Seventh Son,0.99,801,149,2010-10-15 00:00:00
+90,Iron Maiden,Seventh Son of a Seventh Son,The Clairvoyant,0.99,802,149,2010-10-15 00:00:00
+90,Iron Maiden,Somewhere in Time,Caught Somewhere in Time,0.99,803,149,2010-10-15 00:00:00
+90,Iron Maiden,Somewhere in Time,Sea of Madness,0.99,804,149,2010-10-15 00:00:00
+90,Iron Maiden,Somewhere in Time,De Ja Vu,0.99,805,150,2010-10-16 00:00:00
+90,Iron Maiden,The Number of The Beast,Gangland,0.99,806,150,2010-10-16 00:00:00
+90,Iron Maiden,The Number of The Beast,The Number Of The Beast,0.99,807,150,2010-10-16 00:00:00
+90,Iron Maiden,The X Factor,Man On The Edge,0.99,808,150,2010-10-16 00:00:00
+90,Iron Maiden,The X Factor,Judgement Of Heaven,0.99,809,150,2010-10-16 00:00:00
+90,Iron Maiden,The X Factor,The Unbeliever,0.99,810,150,2010-10-16 00:00:00
+90,Iron Maiden,Virtual XI,The Educated Fool,0.99,811,151,2010-10-19 00:00:00
+91,James Brown,Sex Machine,Out Of Sight,0.99,812,151,2010-10-19 00:00:00
+91,James Brown,Sex Machine,Get Up (I Feel Like Being A) Sex Machine,0.99,813,151,2010-10-19 00:00:00
+91,James Brown,Sex Machine,It's Too Funky In Here,0.99,814,151,2010-10-19 00:00:00
+92,Jamiroquai,Emergency On Planet Earth,Too Young To Die,0.99,815,151,2010-10-19 00:00:00
+92,Jamiroquai,Emergency On Planet Earth,Blow Your Mind,0.99,816,151,2010-10-19 00:00:00
+92,Jamiroquai,Synkronized,Soul Education,0.99,817,151,2010-10-19 00:00:00
+92,Jamiroquai,Synkronized,King For A Day,0.99,818,151,2010-10-19 00:00:00
+92,Jamiroquai,The Return Of The Space Cowboy,Manifest Destiny,0.99,819,151,2010-10-19 00:00:00
+93,JET,Get Born,Rollover D.J.,0.99,820,152,2010-10-24 00:00:00
+93,JET,Get Born,Lazy Gun,0.99,821,152,2010-10-24 00:00:00
+94,Jimi Hendrix,Are You Experienced?,Fire,0.99,822,152,2010-10-24 00:00:00
+94,Jimi Hendrix,Are You Experienced?,Highway Chile,0.99,823,152,2010-10-24 00:00:00
+95,Joe Satriani,Surfing with the Alien (Remastered),Midnight,0.99,824,152,2010-10-24 00:00:00
+46,Jorge Ben,Jorge Ben Jor 25 Anos,Charles Anjo 45,0.99,825,152,2010-10-24 00:00:00
+96,Jota Quest,Jota Quest-1995,Vou Pra Ai,0.99,826,152,2010-10-24 00:00:00
+96,Jota Quest,Jota Quest-1995,Onibusfobia,0.99,827,152,2010-10-24 00:00:00
+97,Jo�o Suplicy,Cafezinho,Papel�o,0.99,828,152,2010-10-24 00:00:00
+98,Judas Priest,Living After Midnight,Hot Rockin',0.99,829,152,2010-10-24 00:00:00
+98,Judas Priest,Living After Midnight,Ram It Down,0.99,830,152,2010-10-24 00:00:00
+52,Kiss,Unplugged [Live],Sure Know Something,0.99,831,152,2010-10-24 00:00:00
+52,Kiss,Unplugged [Live],Rock And Roll All Nite,0.99,832,152,2010-10-24 00:00:00
+22,Led Zeppelin,BBC Sessions [Disc 2] [Live],Whole Lotta Love (Medley),0.99,833,152,2010-10-24 00:00:00
+22,Led Zeppelin,Houses Of The Holy,Dancing Days,0.99,834,153,2010-11-01 00:00:00
+22,Led Zeppelin,Houses Of The Holy,D'Yer Mak'er,0.99,835,154,2010-11-14 00:00:00
+22,Led Zeppelin,Houses Of The Holy,No Quarter,0.99,836,154,2010-11-14 00:00:00
+22,Led Zeppelin,In Through The Out Door,In The Evening,0.99,837,155,2010-11-14 00:00:00
+22,Led Zeppelin,In Through The Out Door,Fool In The Rain,0.99,838,155,2010-11-14 00:00:00
+22,Led Zeppelin,In Through The Out Door,Carouselambra,0.99,839,156,2010-11-15 00:00:00
+22,Led Zeppelin,In Through The Out Door,I'm Gonna Crawl,0.99,840,156,2010-11-15 00:00:00
+22,Led Zeppelin,IV,Rock & Roll,0.99,841,156,2010-11-15 00:00:00
+22,Led Zeppelin,IV,Stairway To Heaven,0.99,842,156,2010-11-15 00:00:00
+22,Led Zeppelin,IV,When The Levee Breaks,0.99,843,157,2010-11-16 00:00:00
+22,Led Zeppelin,Led Zeppelin I,Dazed and Confused,0.99,844,157,2010-11-16 00:00:00
+22,Led Zeppelin,Led Zeppelin I,I Can't Quit You Baby,0.99,845,157,2010-11-16 00:00:00
+22,Led Zeppelin,Led Zeppelin II,The Lemon Song,0.99,846,157,2010-11-16 00:00:00
+22,Led Zeppelin,Led Zeppelin II,Ramble On,0.99,847,157,2010-11-16 00:00:00
+22,Led Zeppelin,Led Zeppelin III,Friends,0.99,848,157,2010-11-16 00:00:00
+22,Led Zeppelin,Led Zeppelin III,That's The Way,0.99,849,158,2010-11-19 00:00:00
+22,Led Zeppelin,Physical Graffiti [Disc 2],Ten Years Gone,0.99,850,158,2010-11-19 00:00:00
+22,Led Zeppelin,Presence,Achilles Last Stand,0.99,851,158,2010-11-19 00:00:00
+22,Led Zeppelin,Presence,Tea For One,0.99,852,158,2010-11-19 00:00:00
+22,Led Zeppelin,The Song Remains The Same (Disc 2),No Quarter,0.99,853,158,2010-11-19 00:00:00
+99,Legi�o Urbana,A TempestadeTempestade Ou O Livro Dos Dias,M�sica De Trabalho,0.99,854,158,2010-11-19 00:00:00
+99,Legi�o Urbana,A TempestadeTempestade Ou O Livro Dos Dias,Dezesseis,0.99,855,158,2010-11-19 00:00:00
+99,Legi�o Urbana,A TempestadeTempestade Ou O Livro Dos Dias,O Livro Dos Dias,0.99,856,158,2010-11-19 00:00:00
+99,Legi�o Urbana,Mais Do Mesmo,Indios,0.99,857,158,2010-11-19 00:00:00
+99,Legi�o Urbana,Mais Do Mesmo,Dezesseis,0.99,858,159,2010-11-24 00:00:00
+100,Lenny Kravitz,Greatest Hits,American Woman,0.99,859,159,2010-11-24 00:00:00
+101,Lulu Santos,Lulu Santos - RCA 100 Anos De M�sica - �lbum 02,Honolulu,0.99,860,159,2010-11-24 00:00:00
+101,Lulu Santos,Lulu Santos - RCA 100 Anos De M�sica - �lbum 01,Brum�rio,0.99,861,159,2010-11-24 00:00:00
+101,Lulu Santos,Lulu Santos - RCA 100 Anos De M�sica - �lbum 01,Tudo Bem,0.99,862,159,2010-11-24 00:00:00
+102,Marillion,Misplaced Childhood,Pseudo Silk Kimono,0.99,863,159,2010-11-24 00:00:00
+102,Marillion,Misplaced Childhood,White Feather,0.99,864,159,2010-11-24 00:00:00
+103,Marisa Monte,Barulhinho Bom,De Noite Na Cama,0.99,865,159,2010-11-24 00:00:00
+103,Marisa Monte,Barulhinho Bom,O Xote Das Meninas,0.99,866,159,2010-11-24 00:00:00
+104,Marvin Gaye,Seek And Shall Find: More Of The Best (1963-1981),Seek And You Shall Find,0.99,867,159,2010-11-24 00:00:00
+104,Marvin Gaye,Seek And Shall Find: More Of The Best (1963-1981),Heavy Love Affair,0.99,868,159,2010-11-24 00:00:00
+105,Men At Work,The Best Of Men At Work,Shakes and Ladders,0.99,869,159,2010-11-24 00:00:00
+50,Metallica,Black Album,Nothing Else Matters,0.99,870,159,2010-11-24 00:00:00
+50,Metallica,Garage Inc. (Disc 2),Last Caress/Green Hell,0.99,871,159,2010-11-24 00:00:00
+50,Metallica,Kill 'Em All,Motorbreath,0.99,872,160,2010-12-02 00:00:00
+50,Metallica,Kill 'Em All,Jump In The Fire,0.99,873,161,2010-12-15 00:00:00
+50,Metallica,Kill 'Em All,(Anesthesia) Pulling Teeth,0.99,874,161,2010-12-15 00:00:00
+50,Metallica,Kill 'Em All,Phantom Lord,0.99,875,162,2010-12-15 00:00:00
+50,Metallica,Kill 'Em All,Seek & Destroy,0.99,876,162,2010-12-15 00:00:00
+50,Metallica,Load,Ain't My Bitch,0.99,877,163,2010-12-16 00:00:00
+50,Metallica,Load,The House Jack Built,0.99,878,163,2010-12-16 00:00:00
+50,Metallica,Load,King Nothing,0.99,879,163,2010-12-16 00:00:00
+50,Metallica,Load,Bleeding Me,0.99,880,163,2010-12-16 00:00:00
+50,Metallica,Load,Mama Said,0.99,881,164,2010-12-17 00:00:00
+50,Metallica,Master Of Puppets,Battery,0.99,882,164,2010-12-17 00:00:00
+50,Metallica,Master Of Puppets,Disposable Heroes,0.99,883,164,2010-12-17 00:00:00
+50,Metallica,ReLoad,Fuel,0.99,884,164,2010-12-17 00:00:00
+50,Metallica,ReLoad,Better Than You,0.99,885,164,2010-12-17 00:00:00
+50,Metallica,ReLoad,Where The Wild Things Are,0.99,886,164,2010-12-17 00:00:00
+50,Metallica,Ride The Lightning,Ride The Lightning,0.99,887,165,2010-12-20 00:00:00
+50,Metallica,Ride The Lightning,The Call Of Ktulu,0.99,888,165,2010-12-20 00:00:00
+50,Metallica,St. Anger,My World,0.99,889,165,2010-12-20 00:00:00
+50,Metallica,...And Justice For All,Blackened,0.99,890,165,2010-12-20 00:00:00
+50,Metallica,...And Justice For All,The Frayed Ends Of Sanity,0.99,891,165,2010-12-20 00:00:00
+68,Miles Davis,Miles Ahead,My Ship,0.99,892,165,2010-12-20 00:00:00
+68,Miles Davis,Miles Ahead,I Don't Wanna Be Kissed (By Anyone But You),0.99,893,165,2010-12-20 00:00:00
+42,Milton Nascimento,Milton Nascimento Ao Vivo,A Noite Do Meu Bem,0.99,894,165,2010-12-20 00:00:00
+42,Milton Nascimento,Milton Nascimento Ao Vivo,Brasil,0.99,895,165,2010-12-20 00:00:00
+42,Milton Nascimento,Minas,Saudade Dos Avi�es Da Panair (Conversando No Bar),0.99,896,166,2010-12-25 00:00:00
+42,Milton Nascimento,Minas,Caso Voc� Queira Saber,0.99,897,166,2010-12-25 00:00:00
+106,Mot�rhead,Ace Of Spades,Dance,0.99,898,166,2010-12-25 00:00:00
+108,M�nica Marianno,Demorou...,Aos Le�es,0.99,899,166,2010-12-25 00:00:00
+108,M�nica Marianno,Demorou...,Demorou!,0.99,900,166,2010-12-25 00:00:00
+109,M�tley Cr�e,Motley Crue Greatest Hits,Home Sweet Home,0.99,901,166,2010-12-25 00:00:00
+110,Nirvana,From The Muddy Banks Of The Wishkah [Live],Intro,0.99,902,166,2010-12-25 00:00:00
+110,Nirvana,From The Muddy Banks Of The Wishkah [Live],Scentless Apprentice,0.99,903,166,2010-12-25 00:00:00
+110,Nirvana,Nevermind,In Bloom,0.99,904,166,2010-12-25 00:00:00
+110,Nirvana,Nevermind,On A Plain,0.99,905,166,2010-12-25 00:00:00
+111,O Ter�o,Compositores,Mundar�u,0.99,906,166,2010-12-25 00:00:00
+112,Olodum,Olodum,Nossa Gente (Avisa L�),0.99,907,166,2010-12-25 00:00:00
+112,Olodum,Olodum,Revolta Olodum,0.99,908,166,2010-12-25 00:00:00
+53,Spyro Gyra,Morning Dance,Heliopolis,0.99,987,182,2011-03-18 00:00:00
+113,Os Paralamas Do Sucesso,Ac�stico MTV,Vai Valer,0.99,909,166,2010-12-25 00:00:00
+113,Os Paralamas Do Sucesso,Ac�stico MTV,Nebulosa Do Amor,0.99,910,167,2011-01-02 00:00:00
+113,Os Paralamas Do Sucesso,Ac�stico MTV,Caleidosc�pio,0.99,911,168,2011-01-15 00:00:00
+113,Os Paralamas Do Sucesso,Arquivo II,Trac Trac,0.99,912,168,2011-01-15 00:00:00
+113,Os Paralamas Do Sucesso,Arquivo II,Mensagen De Amor (2000),0.99,913,169,2011-01-15 00:00:00
+113,Os Paralamas Do Sucesso,Arquivo II,La Bella Luna,0.99,914,169,2011-01-15 00:00:00
+113,Os Paralamas Do Sucesso,Arquivo II,Uma Brasileira,0.99,915,170,2011-01-16 00:00:00
+113,Os Paralamas Do Sucesso,Arquivo II,Saber Amar,0.99,916,170,2011-01-16 00:00:00
+113,Os Paralamas Do Sucesso,Arquivo II,O Amor Nao Sabe Esperar,0.99,917,170,2011-01-16 00:00:00
+113,Os Paralamas Do Sucesso,Arquivo Os Paralamas Do Sucesso,Caleidosc�pio,0.99,918,170,2011-01-16 00:00:00
+113,Os Paralamas Do Sucesso,Arquivo Os Paralamas Do Sucesso,Lanterna Dos Afogados,0.99,919,171,2011-01-17 00:00:00
+113,Os Paralamas Do Sucesso,Arquivo Os Paralamas Do Sucesso,Meu Erro,0.99,920,171,2011-01-17 00:00:00
+113,Os Paralamas Do Sucesso,Arquivo Os Paralamas Do Sucesso,Selvagem,0.99,921,171,2011-01-17 00:00:00
+114,Ozzy Osbourne,Bark at the Moon (Remastered),Bark at the Moon,0.99,922,171,2011-01-17 00:00:00
+114,Ozzy Osbourne,No More Tears (Remastered),"Mama, I'm Coming Home",0.99,923,171,2011-01-17 00:00:00
+114,Ozzy Osbourne,Tribute,Believer,0.99,924,171,2011-01-17 00:00:00
+114,Ozzy Osbourne,Tribute,Iron Man,0.99,925,172,2011-01-20 00:00:00
+115,Page & Plant,Walking Into Clarksdale,Shining In The Light,0.99,926,172,2011-01-20 00:00:00
+115,Page & Plant,Walking Into Clarksdale,Heart In Your Hand,0.99,927,172,2011-01-20 00:00:00
+116,Passengers,Original Soundtracks 1,United Colours,0.99,928,172,2011-01-20 00:00:00
+116,Passengers,Original Soundtracks 1,Miss Sarajevo,0.99,929,172,2011-01-20 00:00:00
+116,Passengers,Original Soundtracks 1,Theme From The Swan,0.99,930,172,2011-01-20 00:00:00
+117,Paul D'Ianno,The Beast Live,Women In Uniform,0.99,931,172,2011-01-20 00:00:00
+118,Pearl Jam,Live On Two Legs [Live],Corduroy,0.99,932,172,2011-01-20 00:00:00
+118,Pearl Jam,Live On Two Legs [Live],MFC,0.99,933,172,2011-01-20 00:00:00
+118,Pearl Jam,Live On Two Legs [Live],F*Ckin' Up,0.99,934,173,2011-01-25 00:00:00
+118,Pearl Jam,Pearl Jam,Gone,0.99,935,173,2011-01-25 00:00:00
+118,Pearl Jam,Riot Act,Ghost,0.99,936,173,2011-01-25 00:00:00
+118,Pearl Jam,Riot Act,Arc,0.99,937,173,2011-01-25 00:00:00
+118,Pearl Jam,Ten,Porch,0.99,938,173,2011-01-25 00:00:00
+118,Pearl Jam,Vs.,W.M.A.,0.99,939,173,2011-01-25 00:00:00
+100,Lenny Kravitz,Greatest Hits,Jah Seh No,0.99,940,173,2011-01-25 00:00:00
+100,Lenny Kravitz,Greatest Hits,Crystal Ball,0.99,941,173,2011-01-25 00:00:00
+120,Pink Floyd,Dark Side Of The Moon,Brain Damage,0.99,942,173,2011-01-25 00:00:00
+121,Planet Hemp,Os C�es Ladram Mas A Caravana N�o P�ra,O Bicho T� Pregando,0.99,943,173,2011-01-25 00:00:00
+51,Queen,Greatest Hits I,Bohemian Rhapsody,0.99,944,173,2011-01-25 00:00:00
+51,Queen,Greatest Hits I,Somebody To Love,0.99,945,173,2011-01-25 00:00:00
+51,Queen,News Of The World,We Are The Champions,0.99,946,173,2011-01-25 00:00:00
+51,Queen,News Of The World,My Melancholy Blues,0.99,947,173,2011-01-25 00:00:00
+124,R.E.M.,Green,Untitled,0.99,948,174,2011-02-02 00:00:00
+124,R.E.M.,New Adventures In Hi-Fi,How The West Was Won And Where It Got Us,0.99,949,175,2011-02-15 00:00:00
+124,R.E.M.,New Adventures In Hi-Fi,The Wake-Up Bomb,0.99,950,175,2011-02-15 00:00:00
+124,R.E.M.,New Adventures In Hi-Fi,Undertow,0.99,951,176,2011-02-15 00:00:00
+124,R.E.M.,New Adventures In Hi-Fi,Leave,0.99,952,176,2011-02-15 00:00:00
+124,R.E.M.,New Adventures In Hi-Fi,Bittersweet Me,0.99,953,177,2011-02-16 00:00:00
+124,R.E.M.,New Adventures In Hi-Fi,Binky The Doormat,0.99,954,177,2011-02-16 00:00:00
+124,R.E.M.,New Adventures In Hi-Fi,"So Fast, So Numb",0.99,955,177,2011-02-16 00:00:00
+124,R.E.M.,New Adventures In Hi-Fi,Electrolite,0.99,956,177,2011-02-16 00:00:00
+122,R.E.M. Feat. Kate Pearson,Out Of Time,Endgame,0.99,957,178,2011-02-17 00:00:00
+122,R.E.M. Feat. Kate Pearson,Out Of Time,Country Feedback,0.99,958,178,2011-02-17 00:00:00
+124,R.E.M.,The Best Of R.E.M.: The IRS Years,Talk About The Passion,0.99,959,178,2011-02-17 00:00:00
+124,R.E.M.,The Best Of R.E.M.: The IRS Years,Green Grow The Rushes,0.99,960,178,2011-02-17 00:00:00
+124,R.E.M.,The Best Of R.E.M.: The IRS Years,I Believe,0.99,961,178,2011-02-17 00:00:00
+124,R.E.M.,The Best Of R.E.M.: The IRS Years,It's The End Of The World As We Know It (And I Feel Fine),0.99,962,178,2011-02-17 00:00:00
+125,Raimundos,Cesta B�sica,Puteiro Em Jo�o Pessoa,0.99,963,179,2011-02-20 00:00:00
+126,Raul Seixas,Raul Seixas,O Dia Em Que A Terra Parou,0.99,964,179,2011-02-20 00:00:00
+126,Raul Seixas,Raul Seixas,Todo Mundo Explica,0.99,965,179,2011-02-20 00:00:00
+126,Raul Seixas,Raul Seixas,Rock Das Aranhas (Ao Vivo) (Live),0.99,966,179,2011-02-20 00:00:00
+127,Red Hot Chili Peppers,Blood Sugar Sex Magik,I Could Have Lied,0.99,967,179,2011-02-20 00:00:00
+127,Red Hot Chili Peppers,Blood Sugar Sex Magik,Naked In The Rain,0.99,968,179,2011-02-20 00:00:00
+127,Red Hot Chili Peppers,By The Way,By The Way,0.99,969,179,2011-02-20 00:00:00
+127,Red Hot Chili Peppers,By The Way,Can't Stop,0.99,970,179,2011-02-20 00:00:00
+127,Red Hot Chili Peppers,By The Way,On Mercury,0.99,971,179,2011-02-20 00:00:00
+127,Red Hot Chili Peppers,Californication,Californication,0.99,972,180,2011-02-25 00:00:00
+127,Red Hot Chili Peppers,Californication,Road Trippin',0.99,973,180,2011-02-25 00:00:00
+128,Rush,Retrospective I (1974-1980),Closer To The Heart,0.99,974,180,2011-02-25 00:00:00
+59,Santana,Santana - As Years Go By,Persuasion,0.99,975,180,2011-02-25 00:00:00
+59,Santana,Santana Live,Funky Piano,0.99,976,180,2011-02-25 00:00:00
+100,Lenny Kravitz,Greatest Hits,Stars,0.99,977,180,2011-02-25 00:00:00
+130,Skank,Maquinarama,Tr�s Lados,0.99,978,180,2011-02-25 00:00:00
+130,Skank,Maquinarama,Ali,0.99,979,180,2011-02-25 00:00:00
+130,Skank,O Samba Pocon�,Um Dia Qualquer,0.99,980,180,2011-02-25 00:00:00
+131,Smashing Pumpkins,Judas 0: B-Sides and Rarities,My Mistake,0.99,981,180,2011-02-25 00:00:00
+131,Smashing Pumpkins,Judas 0: B-Sides and Rarities,Soot & Stars,0.99,982,180,2011-02-25 00:00:00
+131,Smashing Pumpkins,Rotten Apples: Greatest Hits,Bullet With Butterfly Wings,0.99,983,180,2011-02-25 00:00:00
+131,Smashing Pumpkins,Rotten Apples: Greatest Hits,Real Love,0.99,984,180,2011-02-25 00:00:00
+132,Soundgarden,A-Sides,Rusty Cage,0.99,985,180,2011-02-25 00:00:00
+53,Spyro Gyra,Morning Dance,Starburst,0.99,986,181,2011-03-05 00:00:00
+53,Spyro Gyra,Morning Dance,It Doesn't Matter,0.99,988,182,2011-03-18 00:00:00
+53,Spyro Gyra,Morning Dance,End Of Romanticism,0.99,989,183,2011-03-18 00:00:00
+133,Stevie Ray Vaughan & Double Trouble,In Step,Crossfire,0.99,990,183,2011-03-18 00:00:00
+133,Stevie Ray Vaughan & Double Trouble,In Step,Let Me Love You Baby,0.99,991,184,2011-03-19 00:00:00
+133,Stevie Ray Vaughan & Double Trouble,In Step,Travis Walk,0.99,992,184,2011-03-19 00:00:00
+133,Stevie Ray Vaughan & Double Trouble,In Step,Scratch-N-Sniff,0.99,993,184,2011-03-19 00:00:00
+133,Stevie Ray Vaughan & Double Trouble,In Step,Riviera Paradise,0.99,994,184,2011-03-19 00:00:00
+134,Stone Temple Pilots,Core,No Memory,0.99,995,185,2011-03-20 00:00:00
+134,Stone Temple Pilots,Core,Piece Of Pie,0.99,996,185,2011-03-20 00:00:00
+134,Stone Temple Pilots,Core,Where The River Goes,0.99,997,185,2011-03-20 00:00:00
+135,System Of A Down,Mezmerize,Cigaro,0.99,998,185,2011-03-20 00:00:00
+135,System Of A Down,Mezmerize,Question!,0.99,999,185,2011-03-20 00:00:00
+136,"Terry Bozzio, Tony Levin & Steve Stevens",[1997] Black Light Syndrome,The Sun Road,0.99,1000,185,2011-03-20 00:00:00
+136,"Terry Bozzio, Tony Levin & Steve Stevens",[1997] Black Light Syndrome,Chaos-Control,0.99,1001,186,2011-03-23 00:00:00
+137,The Black Crowes,Live [Disc 1],Cursed Diamonds,0.99,1002,186,2011-03-23 00:00:00
+137,The Black Crowes,Live [Disc 2],High Head Blues,0.99,1003,186,2011-03-23 00:00:00
+137,The Black Crowes,Live [Disc 2],Hard To Handle,0.99,1004,186,2011-03-23 00:00:00
+138,The Clash,The Singles,(White Man) In Hammersmith Palais,0.99,1005,186,2011-03-23 00:00:00
+138,The Clash,The Singles,Bankrobber,0.99,1006,186,2011-03-23 00:00:00
+138,The Clash,The Singles,Rock The Casbah,0.99,1007,186,2011-03-23 00:00:00
+139,The Cult,Beyond Good And Evil,Breathe,0.99,1008,186,2011-03-23 00:00:00
+139,The Cult,Beyond Good And Evil,True Believers,0.99,1009,186,2011-03-23 00:00:00
+139,The Cult,"Pure Cult: The Best Of The Cult (For Rockers, Ravers, Lovers & Sinners) [UK]",Love Removal Machine,0.99,1010,187,2011-03-28 00:00:00
+139,The Cult,"Pure Cult: The Best Of The Cult (For Rockers, Ravers, Lovers & Sinners) [UK]",Sweet Soul Sister,0.99,1011,187,2011-03-28 00:00:00
+140,The Doors,The Doors,I Looked At You,0.99,1012,187,2011-03-28 00:00:00
+141,The Police,The Police Greatest Hits,"De Do Do Do, De Da Da Da",0.99,1013,187,2011-03-28 00:00:00
+142,The Rolling Stones,"Hot Rocks, 1964-1971 (Disc 1)",Time Is On My Side,0.99,1014,187,2011-03-28 00:00:00
+142,The Rolling Stones,"Hot Rocks, 1964-1971 (Disc 1)",Under My Thumb,0.99,1015,187,2011-03-28 00:00:00
+142,The Rolling Stones,No Security,Saint Of Me,0.99,1016,187,2011-03-28 00:00:00
+142,The Rolling Stones,Voodoo Lounge,You Got Me Rocking,0.99,1017,187,2011-03-28 00:00:00
+142,The Rolling Stones,Voodoo Lounge,Suck On The Jugular,0.99,1018,187,2011-03-28 00:00:00
+143,The Tea Party,Tangents,Sister Awake,0.99,1019,187,2011-03-28 00:00:00
+143,The Tea Party,Tangents,Life Line,0.99,1020,187,2011-03-28 00:00:00
+143,The Tea Party,Transmission,Babylon,0.99,1021,187,2011-03-28 00:00:00
+144,The Who,My Generation - The Very Best Of The Who,Boris The Spider,0.99,1022,187,2011-03-28 00:00:00
+144,The Who,My Generation - The Very Best Of The Who,Let's See Action,0.99,1023,187,2011-03-28 00:00:00
+145,Tim Maia,Serie Sem Limite (Disc 1),M�sica No Ar,0.99,1024,188,2011-04-05 00:00:00
+145,Tim Maia,Serie Sem Limite (Disc 1),Salve Nossa Senhora,0.99,1025,189,2011-04-18 00:00:00
+145,Tim Maia,Serie Sem Limite (Disc 1),Voc� Fugiu,0.99,1026,189,2011-04-18 00:00:00
+145,Tim Maia,Serie Sem Limite (Disc 1),Compadre,0.99,1027,190,2011-04-18 00:00:00
+145,Tim Maia,Serie Sem Limite (Disc 1),R�u Confesso,0.99,1028,190,2011-04-18 00:00:00
+145,Tim Maia,Serie Sem Limite (Disc 2),Gostava Tanto De Voc�,0.99,1029,191,2011-04-19 00:00:00
+145,Tim Maia,Serie Sem Limite (Disc 2),N�o Quero Dinheiro,0.99,1030,191,2011-04-19 00:00:00
+145,Tim Maia,Serie Sem Limite (Disc 2),A Festa Do Santo Reis,0.99,1031,191,2011-04-19 00:00:00
+145,Tim Maia,Serie Sem Limite (Disc 2),Padre C�cero,0.99,1032,191,2011-04-19 00:00:00
+145,Tim Maia,Serie Sem Limite (Disc 2),Balan�o,0.99,1033,192,2011-04-20 00:00:00
+146,Tit�s,Ac�stico,Comida,0.99,1034,192,2011-04-20 00:00:00
+146,Tit�s,Ac�stico,Os Cegos Do Castelo,0.99,1035,192,2011-04-20 00:00:00
+146,Tit�s,Ac�stico,Flores,0.99,1036,192,2011-04-20 00:00:00
+146,Tit�s,Ac�stico,Cabe�a Dinossauro,0.99,1037,192,2011-04-20 00:00:00
+146,Tit�s,Ac�stico,Homem Primata (Vinheta),0.99,1038,192,2011-04-20 00:00:00
+146,Tit�s,Volume Dois,Sonifera Ilha,0.99,1039,193,2011-04-23 00:00:00
+146,Tit�s,Volume Dois,Amanh� N�o Se Sabe,0.99,1040,193,2011-04-23 00:00:00
+146,Tit�s,Volume Dois,Eu E Ela,0.99,1041,193,2011-04-23 00:00:00
+147,Battlestar Galactica,"Battlestar Galactica, Season 3","Exodus, Pt. 1",1.99,1042,193,2011-04-23 00:00:00
+147,Battlestar Galactica,"Battlestar Galactica, Season 3",Unfinished Business,1.99,1043,193,2011-04-23 00:00:00
+147,Battlestar Galactica,"Battlestar Galactica, Season 3",A Day In the Life,1.99,1044,193,2011-04-23 00:00:00
+148,Heroes,"Heroes, Season 1",Genesis,1.99,1045,193,2011-04-23 00:00:00
+148,Heroes,"Heroes, Season 1",Nothing to Hide,1.99,1046,193,2011-04-23 00:00:00
+148,Heroes,"Heroes, Season 1",Distractions,1.99,1047,193,2011-04-23 00:00:00
+149,Lost,"Lost, Season 2",Adrift,1.99,1048,194,2011-04-28 00:00:00
+149,Lost,"Lost, Season 2",...And Found,1.99,1049,194,2011-04-28 00:00:00
+149,Lost,"Lost, Season 2",The Other 48 Days,1.99,1050,194,2011-04-28 00:00:00
+149,Lost,"Lost, Season 2",The 23rd Psalm,1.99,1051,194,2011-04-28 00:00:00
+149,Lost,"Lost, Season 2",The Long Con,1.99,1052,194,2011-04-28 00:00:00
+149,Lost,"Lost, Season 2",The Whole Truth,1.99,1053,194,2011-04-28 00:00:00
+149,Lost,"Lost, Season 2",S.O.S.,1.99,1054,194,2011-04-28 00:00:00
+149,Lost,"Lost, Season 1",Exodus (Part 2) [Season Finale],1.99,1055,194,2011-04-28 00:00:00
+150,U2,Achtung Baby,The Fly,0.99,1056,194,2011-04-28 00:00:00
+150,U2,All That You Can't Leave Behind,Walk On,0.99,1057,194,2011-04-28 00:00:00
+150,U2,B-Sides 1980-1990,Spanish Eyes,0.99,1058,194,2011-04-28 00:00:00
+150,U2,B-Sides 1980-1990,Hallelujah Here She Comes,0.99,1059,194,2011-04-28 00:00:00
+150,U2,How To Dismantle An Atomic Bomb,City Of Blinding Lights,0.99,1060,194,2011-04-28 00:00:00
+150,U2,Pop,Mofo,0.99,1061,194,2011-04-28 00:00:00
+150,U2,Rattle And Hum,All Along The Watchtower,0.99,1062,195,2011-05-06 00:00:00
+150,U2,Rattle And Hum,I Still Haven't Found What I'm Looking for,0.99,1063,196,2011-05-19 00:00:00
+150,U2,Rattle And Hum,Freedom For My People,0.99,1064,196,2011-05-19 00:00:00
+150,U2,Rattle And Hum,Pride (In The Name Of Love),0.99,1065,197,2011-05-19 00:00:00
+150,U2,Rattle And Hum,Love Rescue Me,0.99,1066,197,2011-05-19 00:00:00
+150,U2,Rattle And Hum,Heartland,0.99,1067,198,2011-05-20 00:00:00
+150,U2,Rattle And Hum,The Star Spangled Banner,0.99,1068,198,2011-05-20 00:00:00
+150,U2,Rattle And Hum,All I Want Is You,0.99,1069,198,2011-05-20 00:00:00
+150,U2,The Best Of 1980-1990,New Year's Day,0.99,1070,198,2011-05-20 00:00:00
+150,U2,The Best Of 1980-1990,Bad,0.99,1071,199,2011-05-21 00:00:00
+150,U2,The Best Of 1980-1990,Sweetest Thing,0.99,1072,199,2011-05-21 00:00:00
+150,U2,The Best Of 1980-1990,All I Want Is You,0.99,1073,199,2011-05-21 00:00:00
+150,U2,War,Like A Song...,0.99,1074,199,2011-05-21 00:00:00
+150,U2,War,Red Light,0.99,1075,199,2011-05-21 00:00:00
+150,U2,Zooropa,Babyface,0.99,1076,199,2011-05-21 00:00:00
+150,U2,Zooropa,The First Time,0.99,1077,200,2011-05-24 00:00:00
+151,UB40,UB40 The Best Of - Volume Two [UK],Homely Girl,0.99,1078,200,2011-05-24 00:00:00
+151,UB40,UB40 The Best Of - Volume Two [UK],Bring Me Your Cup,0.99,1079,200,2011-05-24 00:00:00
+152,Van Halen,Diver Down,Hang 'Em High,0.99,1080,200,2011-05-24 00:00:00
+152,Van Halen,Diver Down,Little Guitars (Intro),0.99,1081,200,2011-05-24 00:00:00
+152,Van Halen,"The Best Of Van Halen, Vol. I",Ain't Talkin' 'bout Love,0.99,1082,200,2011-05-24 00:00:00
+152,Van Halen,"The Best Of Van Halen, Vol. I",Panama,0.99,1083,200,2011-05-24 00:00:00
+152,Van Halen,"The Best Of Van Halen, Vol. I",Can't Stop Loving You,0.99,1084,200,2011-05-24 00:00:00
+152,Van Halen,Van Halen,You Really Got Me,0.99,1085,200,2011-05-24 00:00:00
+152,Van Halen,Van Halen III,Neworld,0.99,1086,201,2011-05-29 00:00:00
+152,Van Halen,Van Halen III,Primary,0.99,1087,201,2011-05-29 00:00:00
+153,Velvet Revolver,Contraband,Headspace,0.99,1088,201,2011-05-29 00:00:00
+72,Vin�cius De Moraes,Vinicius De Moraes,Tudo Na Mais Santa Paz,0.99,1089,201,2011-05-29 00:00:00
+72,Vin�cius De Moraes,Vinicius De Moraes,Samba Do Jato,0.99,1090,201,2011-05-29 00:00:00
+100,Lenny Kravitz,Greatest Hits,Now You're Gone,0.99,1091,201,2011-05-29 00:00:00
+155,Zeca Pagodinho,Ao Vivo [IMPORT],Faixa Amarela,0.99,1092,201,2011-05-29 00:00:00
+155,Zeca Pagodinho,Ao Vivo [IMPORT],Sem Essa de Malandro Agulha,0.99,1093,201,2011-05-29 00:00:00
+155,Zeca Pagodinho,Ao Vivo [IMPORT],Verdade,0.99,1094,201,2011-05-29 00:00:00
+156,The Office,"The Office, Season 1",Diversity Day,1.99,1095,201,2011-05-29 00:00:00
+156,The Office,"The Office, Season 2",Halloween,1.99,1096,201,2011-05-29 00:00:00
+156,The Office,"The Office, Season 2",The Carpet,1.99,1097,201,2011-05-29 00:00:00
+156,The Office,"The Office, Season 3",Gay Witch Hunt,1.99,1098,201,2011-05-29 00:00:00
+156,The Office,"The Office, Season 3","A Benihana Christmas, Pts. 1 & 2",1.99,1099,201,2011-05-29 00:00:00
+148,Heroes,"Heroes, Season 1",How to Stop an Exploding Man,1.99,1100,202,2011-06-06 00:00:00
+149,Lost,"Lost, Season 3",Through a Looking Glass,1.99,1101,203,2011-06-19 00:00:00
+157,Dread Zeppelin,Un-Led-Ed,Your Time Is Gonna Come,0.99,1102,203,2011-06-19 00:00:00
+158,Battlestar Galactica (Classic),"Battlestar Galactica (Classic), Season 1","Battlestar Galactica, Pt. 2",1.99,1103,204,2011-06-19 00:00:00
+158,Battlestar Galactica (Classic),"Battlestar Galactica (Classic), Season 1","Lost Planet of the Gods, Pt. 1",1.99,1104,204,2011-06-19 00:00:00
+158,Battlestar Galactica (Classic),"Battlestar Galactica (Classic), Season 1",The Lost Warrior,1.99,1105,205,2011-06-20 00:00:00
+158,Battlestar Galactica (Classic),"Battlestar Galactica (Classic), Season 1","The Gun On Ice Planet Zero, Pt. 1",1.99,1106,205,2011-06-20 00:00:00
+158,Battlestar Galactica (Classic),"Battlestar Galactica (Classic), Season 1",The Magnificent Warriors,1.99,1107,205,2011-06-20 00:00:00
+158,Battlestar Galactica (Classic),"Battlestar Galactica (Classic), Season 1","The Living Legend, Pt. 1",1.99,1108,205,2011-06-20 00:00:00
+158,Battlestar Galactica (Classic),"Battlestar Galactica (Classic), Season 1","War of the Gods, Pt. 2",1.99,1109,206,2011-06-21 00:00:00
+158,Battlestar Galactica (Classic),"Battlestar Galactica (Classic), Season 1","Greetings from Earth, Pt. 2",1.99,1110,206,2011-06-21 00:00:00
+158,Battlestar Galactica (Classic),"Battlestar Galactica (Classic), Season 1",The Hand of God,1.99,1111,206,2011-06-21 00:00:00
+150,U2,Instant Karma: The Amnesty International Campaign to Save Darfur,Instant Karma,0.99,1112,206,2011-06-21 00:00:00
+150,U2,Instant Karma: The Amnesty International Campaign to Save Darfur,Cold Turkey,0.99,1113,206,2011-06-21 00:00:00
+150,U2,Instant Karma: The Amnesty International Campaign to Save Darfur,"Oh, My Love",0.99,1114,206,2011-06-21 00:00:00
+150,U2,Instant Karma: The Amnesty International Campaign to Save Darfur,Imagine,0.99,1115,207,2011-06-24 00:00:00
+150,U2,Instant Karma: The Amnesty International Campaign to Save Darfur,[Just Like] Starting Over,0.99,1116,207,2011-06-24 00:00:00
+114,Ozzy Osbourne,Speak of the Devil,Fairies Wear Boots,0.99,1117,207,2011-06-24 00:00:00
+114,Ozzy Osbourne,Speak of the Devil,"Sabbath, Bloody Sabbath",0.99,1118,207,2011-06-24 00:00:00
+179,Scorpions,20th Century Masters - The Millennium Collection: The Best of Scorpions,Loving You Sunday Morning,0.99,1119,207,2011-06-24 00:00:00
+179,Scorpions,20th Century Masters - The Millennium Collection: The Best of Scorpions,Tease Me Please Me,0.99,1120,207,2011-06-24 00:00:00
+180,House Of Pain,House of Pain,Top O' The Morning To Ya,0.99,1121,207,2011-06-24 00:00:00
+180,House Of Pain,House of Pain,Guess Who's Back,0.99,1122,207,2011-06-24 00:00:00
+180,House Of Pain,House of Pain,Feel It,0.99,1123,207,2011-06-24 00:00:00
+36,O Rappa,Radio Brasil (O Som da Jovem Vanguarda) - Seleccao de Henrique Amaro,Um Lugar ao Sol,0.99,1124,208,2011-06-29 00:00:00
+36,O Rappa,Radio Brasil (O Som da Jovem Vanguarda) - Seleccao de Henrique Amaro,Chega no Suingue,0.99,1125,208,2011-06-29 00:00:00
+149,Lost,"LOST, Season 4",The Economist,1.99,1126,208,2011-06-29 00:00:00
+198,Habib Koit� and Bamada,Muso Ko,Din Din Wo (Little Child),0.99,1127,208,2011-06-29 00:00:00
+149,Lost,"LOST, Season 4",Something Nice Back Home,1.99,1128,208,2011-06-29 00:00:00
+204,Temple of the Dog,Temple of the Dog,Call Me a Dog,0.99,1129,208,2011-06-29 00:00:00
+205,Chris Cornell,Carry On,Safe and Sound,0.99,1130,208,2011-06-29 00:00:00
+205,Chris Cornell,Carry On,Disappearing Act,0.99,1131,208,2011-06-29 00:00:00
+8,Audioslave,Revelations,Shape of Things to Come,0.99,1132,208,2011-06-29 00:00:00
+208,English Concert & Trevor Pinnock,Pachelbel: Canon & Gigue,Canon and Gigue in D Major: I. Canon,0.99,1133,208,2011-06-29 00:00:00
+217,Royal Philharmonic Orchestra & Sir Thomas Beecham,Haydn: Symphonies 99 - 104,"Symphony No. 104 in D Major ""London"": IV. Finale: Spiritoso",0.99,1134,208,2011-06-29 00:00:00
+226,Eugene Ormandy,"Holst: The Planets, Op. 32 & Vaughan Williams: Fantasies","Jupiter, the Bringer of Jollity",0.99,1135,208,2011-06-29 00:00:00
+233,Chicago Symphony Orchestra & Fritz Reiner,Scheherazade,"Scheherazade, Op. 35: I. The Sea and Sindbad's Ship",0.99,1136,208,2011-06-29 00:00:00
+242,Edo de Waart & San Francisco Symphony,"Adams, John: The Chairman Dances",Two Fanfares for Orchestra: II. Short Ride in a Fast Machine,0.99,1137,208,2011-06-29 00:00:00
+252,Amy Winehouse,Back to Black,Rehab,0.99,1138,209,2011-07-07 00:00:00
+252,Amy Winehouse,Back to Black,You Know I'm No Good,0.99,1139,210,2011-07-20 00:00:00
+252,Amy Winehouse,Back to Black,Me & Mr. Jones,0.99,1140,210,2011-07-20 00:00:00
+252,Amy Winehouse,Back to Black,Back to Black,0.99,1141,211,2011-07-20 00:00:00
+252,Amy Winehouse,Back to Black,Tears Dry On Their Own,0.99,1142,211,2011-07-20 00:00:00
+252,Amy Winehouse,Back to Black,Some Unholy War,0.99,1143,212,2011-07-21 00:00:00
+252,Amy Winehouse,Back to Black,You Know I'm No Good (feat. Ghostface Killah),0.99,1144,212,2011-07-21 00:00:00
+252,Amy Winehouse,Frank,Intro / Stronger Than Me,0.99,1145,212,2011-07-21 00:00:00
+252,Amy Winehouse,Frank,F**k Me Pumps,0.99,1146,212,2011-07-21 00:00:00
+252,Amy Winehouse,Frank,Take the Box,0.99,1147,213,2011-07-22 00:00:00
+252,Amy Winehouse,Frank,Amy Amy Amy (Outro),0.99,1148,213,2011-07-22 00:00:00
+256,Philharmonia Orchestra & Sir Neville Marriner,Mendelssohn: A Midsummer Night's Dream,"A Midsummer Night's Dream, Op.61 Incidental Music: No.7 Notturno",0.99,1149,213,2011-07-22 00:00:00
+260,Adrian Leaper & Doreen de Feis,G�recki: Symphony No. 3,"Symphony No. 3 Op. 36 for Orchestra and Soprano ""Symfonia Piesni Zalosnych"" \ Lento E Largo - Tranquillissimo",0.99,1150,213,2011-07-22 00:00:00
+264,Kent Nagano and Orchestre de l'Op�ra de Lyon,Weill: The Seven Deadly Sins,Symphony No. 2: III. Allegro vivace,0.99,1151,213,2011-07-22 00:00:00
+266,Martin Roscoe,"Szymanowski: Piano Works, Vol. 1","Metopes, Op. 29: Calypso",0.99,1152,213,2011-07-22 00:00:00
+226,Eugene Ormandy,Respighi:Pines of Rome,Pini Di Roma (Pinien Von Rom) \ I Pini Della Via Appia,0.99,1153,214,2011-07-25 00:00:00
+2,Accept,Balls to the Wall,Balls to the Wall,0.99,1154,214,2011-07-25 00:00:00
+1,AC/DC,For Those About To Rock We Salute You,Inject The Venom,0.99,1155,214,2011-07-25 00:00:00
+1,AC/DC,For Those About To Rock We Salute You,Spellbound,0.99,1156,214,2011-07-25 00:00:00
+1,AC/DC,Let There Be Rock,Overdose,0.99,1157,214,2011-07-25 00:00:00
+3,Aerosmith,Big Ones,What It Takes,0.99,1158,214,2011-07-25 00:00:00
+3,Aerosmith,Big Ones,Deuces Are Wild,0.99,1159,214,2011-07-25 00:00:00
+4,Alanis Morissette,Jagged Little Pill,All I Really Want,0.99,1160,214,2011-07-25 00:00:00
+4,Alanis Morissette,Jagged Little Pill,You Learn,0.99,1161,214,2011-07-25 00:00:00
+5,Alice In Chains,Facelift,Sea Of Sorrow,0.99,1162,215,2011-07-30 00:00:00
+5,Alice In Chains,Facelift,Real Thing,0.99,1163,215,2011-07-30 00:00:00
+6,Ant�nio Carlos Jobim,Warner 25 Anos,Falando De Amor,0.99,1164,215,2011-07-30 00:00:00
+7,Apocalyptica,Plays Metallica By Four Cellos,The Unforgiven,0.99,1165,215,2011-07-30 00:00:00
+8,Audioslave,Audioslave,Like a Stone,0.99,1166,215,2011-07-30 00:00:00
+8,Audioslave,Audioslave,The Last Remaining Light,0.99,1167,215,2011-07-30 00:00:00
+8,Audioslave,Out Of Exile,Yesterday To Tomorrow,0.99,1168,215,2011-07-30 00:00:00
+9,BackBeat,BackBeat Soundtrack,C'Mon Everybody,0.99,1169,215,2011-07-30 00:00:00
+10,Billy Cobham,The Best Of Billy Cobham,"Spanish moss-""A sound portrait""-Spanish moss",0.99,1170,215,2011-07-30 00:00:00
+11,Black Label Society,Alcohol Fueled Brewtality Live! [Disc 1],All For You,0.99,1171,215,2011-07-30 00:00:00
+11,Black Label Society,Alcohol Fueled Brewtality Live! [Disc 1],The Begining... At Last,0.99,1172,215,2011-07-30 00:00:00
+12,Black Sabbath,Black Sabbath,N.I.B.,0.99,1173,215,2011-07-30 00:00:00
+12,Black Sabbath,Black Sabbath Vol. 4 (Remaster),Snowblind,0.99,1174,215,2011-07-30 00:00:00
+13,Body Count,Body Count,A Statistic,0.99,1175,215,2011-07-30 00:00:00
+14,Bruce Dickinson,Chemical Wedding,Chemical Wedding,0.99,1176,216,2011-08-07 00:00:00
+14,Bruce Dickinson,Chemical Wedding,The Tower,0.99,1177,217,2011-08-20 00:00:00
+14,Bruce Dickinson,Chemical Wedding,Killing Floor,0.99,1178,217,2011-08-20 00:00:00
+14,Bruce Dickinson,Chemical Wedding,Gates Of Urizen,0.99,1179,218,2011-08-20 00:00:00
+14,Bruce Dickinson,Chemical Wedding,Trupets Of Jericho,0.99,1180,218,2011-08-20 00:00:00
+14,Bruce Dickinson,Chemical Wedding,The Alchemist,0.99,1181,219,2011-08-21 00:00:00
+15,Buddy Guy,The Best Of Buddy Guy - The Millenium Collection,First Time I Met The Blues,0.99,1182,219,2011-08-21 00:00:00
+15,Buddy Guy,The Best Of Buddy Guy - The Millenium Collection,Stone Crazy,0.99,1183,219,2011-08-21 00:00:00
+15,Buddy Guy,The Best Of Buddy Guy - The Millenium Collection,When My Left Eye Jumps,0.99,1184,219,2011-08-21 00:00:00
+15,Buddy Guy,The Best Of Buddy Guy - The Millenium Collection,My Time After Awhile,0.99,1185,220,2011-08-22 00:00:00
+16,Caetano Veloso,Prenda Minha,Prenda Minha,0.99,1186,220,2011-08-22 00:00:00
+16,Caetano Veloso,Prenda Minha,"Texto ""Verdade Tropical""",0.99,1187,220,2011-08-22 00:00:00
+16,Caetano Veloso,Prenda Minha,Carolina,0.99,1188,220,2011-08-22 00:00:00
+16,Caetano Veloso,Prenda Minha,Linha Do Equador,0.99,1189,220,2011-08-22 00:00:00
+16,Caetano Veloso,Prenda Minha,Vida Boa,0.99,1190,220,2011-08-22 00:00:00
+17,Chico Buarque,Minha Historia,Vai Passar,0.99,1191,221,2011-08-25 00:00:00
+17,Chico Buarque,Minha Historia,Morena De Angola,0.99,1192,221,2011-08-25 00:00:00
+17,Chico Buarque,Minha Historia,Meu Caro Amigo,0.99,1193,221,2011-08-25 00:00:00
+18,Chico Science & Na��o Zumbi,Afrociberdelia,Mateus Enter,0.99,1194,221,2011-08-25 00:00:00
+18,Chico Science & Na��o Zumbi,Afrociberdelia,Samba Do Lado,0.99,1195,221,2011-08-25 00:00:00
+18,Chico Science & Na��o Zumbi,Afrociberdelia,Um Sat�lite Na Cabe�a,0.99,1196,221,2011-08-25 00:00:00
+18,Chico Science & Na��o Zumbi,Afrociberdelia,Amor De Muito,0.99,1197,221,2011-08-25 00:00:00
+18,Chico Science & Na��o Zumbi,Da Lama Ao Caos,Banditismo Por Uma Questa,0.99,1198,221,2011-08-25 00:00:00
+18,Chico Science & Na��o Zumbi,Da Lama Ao Caos,Maracatu De Tiro Certeiro,0.99,1199,221,2011-08-25 00:00:00
+19,Cidade Negra,Ac�stico MTV [Live],Soldado Da Paz,0.99,1200,222,2011-08-30 00:00:00
+19,Cidade Negra,Ac�stico MTV [Live],Pensamento,0.99,1201,222,2011-08-30 00:00:00
+19,Cidade Negra,Cidade Negra - Hits,Falar A Verdade,0.99,1202,222,2011-08-30 00:00:00
+19,Cidade Negra,Cidade Negra - Hits,Eu Tamb�m Quero Beijar,0.99,1203,222,2011-08-30 00:00:00
+20,Cl�udio Zoli,Na Pista,Felicidade Urgente,0.99,1204,222,2011-08-30 00:00:00
+21,Various Artists,Ax� Bahia 2001,Levada do Amor (Ailoviu),0.99,1205,222,2011-08-30 00:00:00
+22,Led Zeppelin,BBC Sessions [Disc 1] [Live],Communication Breakdown,0.99,1206,222,2011-08-30 00:00:00
+22,Led Zeppelin,BBC Sessions [Disc 1] [Live],I Can't Quit You Baby(2),0.99,1207,222,2011-08-30 00:00:00
+23,Frank Zappa & Captain Beefheart,Bongo Fury,Advance Romance,0.99,1208,222,2011-08-30 00:00:00
+21,Various Artists,Carnaval 2001,Camisa Verde 2001,0.99,1209,222,2011-08-30 00:00:00
+24,Marcos Valle,Chill: Brazil (Disc 1),Mas Que Nada,0.99,1210,222,2011-08-30 00:00:00
+24,Marcos Valle,Chill: Brazil (Disc 1),Mist�rio da Ra�a,0.99,1211,222,2011-08-30 00:00:00
+6,Ant�nio Carlos Jobim,Chill: Brazil (Disc 2),Tarde Em Itapo�,0.99,1212,222,2011-08-30 00:00:00
+6,Ant�nio Carlos Jobim,Chill: Brazil (Disc 2),Um Jantar Pra Dois,0.99,1213,222,2011-08-30 00:00:00
+50,Metallica,Garage Inc. (Disc 1),Whiskey In The Jar,0.99,1214,223,2011-09-07 00:00:00
+50,Metallica,Garage Inc. (Disc 1),Tuesday's Gone,0.99,1215,224,2011-09-20 00:00:00
+50,Metallica,Garage Inc. (Disc 1),The More I See,0.99,1216,224,2011-09-20 00:00:00
+51,Queen,Greatest Hits II,Under Pressure,0.99,1217,225,2011-09-20 00:00:00
+51,Queen,Greatest Hits II,I Want It All,0.99,1218,225,2011-09-20 00:00:00
+51,Queen,Greatest Hits II,Innuendo,0.99,1219,226,2011-09-21 00:00:00
+51,Queen,Greatest Hits II,Breakthru,0.99,1220,226,2011-09-21 00:00:00
+51,Queen,Greatest Hits II,Headlong,0.99,1221,226,2011-09-21 00:00:00
+51,Queen,Greatest Hits II,I'm Going Slightly Mad,0.99,1222,226,2011-09-21 00:00:00
+51,Queen,Greatest Hits II,The Show Must Go On,0.99,1223,227,2011-09-22 00:00:00
+52,Kiss,Greatest Kiss,Hard Luck Woman,0.99,1224,227,2011-09-22 00:00:00
+52,Kiss,Greatest Kiss,Goin' Blind,0.99,1225,227,2011-09-22 00:00:00
+52,Kiss,Greatest Kiss,I Was Made For Loving You,0.99,1226,227,2011-09-22 00:00:00
+52,Kiss,Greatest Kiss,Beth,0.99,1227,227,2011-09-22 00:00:00
+52,Kiss,Greatest Kiss,Plaster Caster,0.99,1228,227,2011-09-22 00:00:00
+53,Spyro Gyra,Heart of the Night,Playtime,0.99,1229,228,2011-09-25 00:00:00
+53,Spyro Gyra,Heart of the Night,J Squared,0.99,1230,228,2011-09-25 00:00:00
+54,Green Day,International Superhits,Basket Case,0.99,1231,228,2011-09-25 00:00:00
+54,Green Day,International Superhits,Jaded,0.99,1232,228,2011-09-25 00:00:00
+54,Green Day,International Superhits,Nice Guys Finish Last,0.99,1233,228,2011-09-25 00:00:00
+55,David Coverdale,Into The Light,River Song,0.99,1234,228,2011-09-25 00:00:00
+55,David Coverdale,Into The Light,Living On Love,0.99,1235,228,2011-09-25 00:00:00
+56,Gonzaguinha,Meus Momentos,N�o D� Mais Pra Segurar (Explode Cora��o),0.99,1236,228,2011-09-25 00:00:00
+56,Gonzaguinha,Meus Momentos,Eu Apenas Queria Que Vo�� Soubesse,0.99,1237,228,2011-09-25 00:00:00
+17,Chico Buarque,Minha Historia,Um Indio,0.99,1238,229,2011-09-30 00:00:00
+17,Chico Buarque,Minha Historia,Fora Da Ordem,0.99,1239,229,2011-09-30 00:00:00
+57,Os Mutantes,Minha Hist�ria,Ch�o De Estrelas,0.99,1240,229,2011-09-30 00:00:00
+58,Deep Purple,MK III The Final Concerts [Disc 1],Stormbringer,0.99,1241,229,2011-09-30 00:00:00
+22,Led Zeppelin,Physical Graffiti [Disc 1],Houses Of The Holy,0.99,1242,229,2011-09-30 00:00:00
+21,Various Artists,Sambas De Enredo 2001,Mangueira,0.99,1243,229,2011-09-30 00:00:00
+59,Santana,Supernatural,Love Of My Life,0.99,1244,229,2011-09-30 00:00:00
+59,Santana,Supernatural,El Farol,0.99,1245,229,2011-09-30 00:00:00
+37,Ed Motta,The Best of Ed Motta,Um Love,0.99,1246,229,2011-09-30 00:00:00
+68,Miles Davis,The Essential Miles Davis [Disc 1],Jeru,0.99,1247,229,2011-09-30 00:00:00
+68,Miles Davis,The Essential Miles Davis [Disc 1],So What,0.99,1248,229,2011-09-30 00:00:00
+68,Miles Davis,The Essential Miles Davis [Disc 2],Black Satin,0.99,1249,229,2011-09-30 00:00:00
+69,Gene Krupa,Up An' Atom,Blue Rythm Fantasy,0.99,1250,229,2011-09-30 00:00:00
+69,Gene Krupa,Up An' Atom,Bop Boogie,0.99,1251,229,2011-09-30 00:00:00
+70,Toquinho & Vin�cius,Vin�cius De Moraes - Sem Limite,Onde Anda Voc�,0.99,1252,230,2011-10-08 00:00:00
+70,Toquinho & Vin�cius,Vin�cius De Moraes - Sem Limite,Samba Da Volta,0.99,1253,231,2011-10-21 00:00:00
+70,Toquinho & Vin�cius,Vin�cius De Moraes - Sem Limite,Canto De Ossanha,0.99,1254,231,2011-10-21 00:00:00
+70,Toquinho & Vin�cius,Vin�cius De Moraes - Sem Limite,Formosa,0.99,1255,232,2011-10-21 00:00:00
+70,Toquinho & Vin�cius,Vin�cius De Moraes - Sem Limite,Minha Namorada,0.99,1256,232,2011-10-21 00:00:00
+70,Toquinho & Vin�cius,Vin�cius De Moraes - Sem Limite,Berimbau,0.99,1257,233,2011-10-22 00:00:00
+70,Toquinho & Vin�cius,Vin�cius De Moraes - Sem Limite,Pot-Pourri N.� 2,0.99,1258,233,2011-10-22 00:00:00
+70,Toquinho & Vin�cius,Vin�cius De Moraes - Sem Limite,Carta Ao Tom 74,0.99,1259,233,2011-10-22 00:00:00
+21,Various Artists,Vozes do MPB,Pela Luz dos Olhos Teus (Mi�cha e Tom Jobim),0.99,1260,233,2011-10-22 00:00:00
+21,Various Artists,Vozes do MPB,Cora��o do Agreste (Faf� de Bel�m),0.99,1261,234,2011-10-23 00:00:00
+21,Various Artists,Vozes do MPB,Romaria (Renato Teixeira),0.99,1262,234,2011-10-23 00:00:00
+21,Various Artists,Vozes do MPB,Preciso Apender a Viver S� (Maysa),0.99,1263,234,2011-10-23 00:00:00
+76,Creedence Clearwater Revival,"Chronicle, Vol. 1",Bad Moon Rising,0.99,1264,234,2011-10-23 00:00:00
+76,Creedence Clearwater Revival,"Chronicle, Vol. 1",Down On The Corner,0.99,1265,234,2011-10-23 00:00:00
+76,Creedence Clearwater Revival,"Chronicle, Vol. 1",Up Around The Bend,0.99,1266,234,2011-10-23 00:00:00
+76,Creedence Clearwater Revival,"Chronicle, Vol. 1",Hey Tonight,0.99,1267,235,2011-10-26 00:00:00
+76,Creedence Clearwater Revival,"Chronicle, Vol. 2",Good Golly Miss Molly,0.99,1268,235,2011-10-26 00:00:00
+76,Creedence Clearwater Revival,"Chronicle, Vol. 2",Don't Look Now,0.99,1269,235,2011-10-26 00:00:00
+76,Creedence Clearwater Revival,"Chronicle, Vol. 2",It's Just A Thought,0.99,1270,235,2011-10-26 00:00:00
+77,C�ssia Eller,C�ssia Eller - Cole��o Sem Limite [Disc 2],Brasil,0.99,1271,235,2011-10-26 00:00:00
+77,C�ssia Eller,C�ssia Eller - Cole��o Sem Limite [Disc 2],Meu Mundo Fica Completo (Com Voc�),0.99,1272,235,2011-10-26 00:00:00
+77,C�ssia Eller,C�ssia Eller - Cole��o Sem Limite [Disc 2],Woman Of The World (Ao Vivo),0.99,1273,235,2011-10-26 00:00:00
+77,C�ssia Eller,C�ssia Eller - Sem Limite [Disc 1],Todo Amor Que Houver Nesta Vida,0.99,1274,235,2011-10-26 00:00:00
+77,C�ssia Eller,C�ssia Eller - Sem Limite [Disc 1],Socorro,0.99,1275,235,2011-10-26 00:00:00
+58,Deep Purple,Come Taste The Band,I Need Love,0.99,1276,236,2011-10-31 00:00:00
+58,Deep Purple,Deep Purple In Rock,Into The Fire,0.99,1277,236,2011-10-31 00:00:00
+58,Deep Purple,Fireball,No One Came,0.99,1278,236,2011-10-31 00:00:00
+58,Deep Purple,Knocking at Your Back Door: The Best Of Deep Purple in the 80's,Hush,0.99,1279,236,2011-10-31 00:00:00
+58,Deep Purple,Machine Head,Space Truckin',0.99,1280,236,2011-10-31 00:00:00
+58,Deep Purple,Purpendicular,A Touch Away,0.99,1281,236,2011-10-31 00:00:00
+58,Deep Purple,Slaves And Masters,Love Conquers All,0.99,1282,236,2011-10-31 00:00:00
+58,Deep Purple,Stormbringer,You Can't Do it Right (With the One You Love),0.99,1283,236,2011-10-31 00:00:00
+58,Deep Purple,The Battle Rages On,Ramshackle Man,0.99,1284,236,2011-10-31 00:00:00
+78,Def Leppard,Vault: Def Leppard's Greatest Hits,Two Steps Behind [Acoustic Version],0.99,1285,236,2011-10-31 00:00:00
+78,Def Leppard,Vault: Def Leppard's Greatest Hits,Rock Of Ages,0.99,1286,236,2011-10-31 00:00:00
+79,Dennis Chambers,Outbreak,Outbreak,0.99,1287,236,2011-10-31 00:00:00
+80,Djavan,Djavan Ao Vivo - Vol. 02,�libi,0.99,1288,236,2011-10-31 00:00:00
+80,Djavan,Djavan Ao Vivo - Vol. 1,Oceano,0.99,1289,236,2011-10-31 00:00:00
+41,Elis Regina,Elis Regina-Minha Hist�ria,"Dois Pra L�, Dois Pra C�",0.99,1290,237,2011-11-08 00:00:00
+41,Elis Regina,Elis Regina-Minha Hist�ria,Casa no Campo,0.99,1291,238,2011-11-21 00:00:00
+41,Elis Regina,Elis Regina-Minha Hist�ria,Romaria,0.99,1292,238,2011-11-21 00:00:00
+41,Elis Regina,Elis Regina-Minha Hist�ria,Me Deixas Louca,0.99,1293,239,2011-11-21 00:00:00
+41,Elis Regina,Elis Regina-Minha Hist�ria,Saudosa Maloca,0.99,1294,239,2011-11-21 00:00:00
+41,Elis Regina,Elis Regina-Minha Hist�ria,Madalena,0.99,1295,240,2011-11-22 00:00:00
+41,Elis Regina,Elis Regina-Minha Hist�ria,Aprendendo A Jogar,0.99,1296,240,2011-11-22 00:00:00
+81,Eric Clapton,The Cream Of Clapton,Badge,0.99,1297,240,2011-11-22 00:00:00
+81,Eric Clapton,The Cream Of Clapton,Sunshine Of Your Love,0.99,1298,240,2011-11-22 00:00:00
+81,Eric Clapton,The Cream Of Clapton,Bell Bottom Blues,0.99,1299,241,2011-11-23 00:00:00
+81,Eric Clapton,The Cream Of Clapton,Swing Low Sweet Chariot,0.99,1300,241,2011-11-23 00:00:00
+81,Eric Clapton,The Cream Of Clapton,Let It Grow,0.99,1301,241,2011-11-23 00:00:00
+81,Eric Clapton,Unplugged,Before You Accuse Me,0.99,1302,241,2011-11-23 00:00:00
+81,Eric Clapton,Unplugged,Nobody Knows You When You're Down & Out,0.99,1303,241,2011-11-23 00:00:00
+81,Eric Clapton,Unplugged,Alberta,0.99,1304,241,2011-11-23 00:00:00
+82,Faith No More,Album Of The Year,Stripsearch,0.99,1305,242,2011-11-26 00:00:00
+82,Faith No More,Album Of The Year,She Loves Me Not,0.99,1306,242,2011-11-26 00:00:00
+82,Faith No More,Angel Dust,Caffeine,0.99,1307,242,2011-11-26 00:00:00
+82,Faith No More,Angel Dust,Kindergarten,0.99,1308,242,2011-11-26 00:00:00
+82,Faith No More,Angel Dust,Easy,0.99,1309,242,2011-11-26 00:00:00
+82,Faith No More,King For A Day Fool For A Lifetime,Cuckoo For Caca,0.99,1310,242,2011-11-26 00:00:00
+82,Faith No More,King For A Day Fool For A Lifetime,What A Day,0.99,1311,242,2011-11-26 00:00:00
+82,Faith No More,The Real Thing,Falling To Pieces,0.99,1312,242,2011-11-26 00:00:00
+82,Faith No More,The Real Thing,Woodpecker From Mars,0.99,1313,242,2011-11-26 00:00:00
+83,Falamansa,Deixa Entrar,Zeca Violeiro,0.99,1314,243,2011-12-01 00:00:00
+84,Foo Fighters,In Your Honor [Disc 1],No Way Back,0.99,1315,243,2011-12-01 00:00:00
+84,Foo Fighters,In Your Honor [Disc 2],Still,0.99,1316,243,2011-12-01 00:00:00
+84,Foo Fighters,In Your Honor [Disc 2],Razor,0.99,1317,243,2011-12-01 00:00:00
+84,Foo Fighters,One By One,Overdrive,0.99,1318,243,2011-12-01 00:00:00
+84,Foo Fighters,The Colour And The Shape,My Hero,0.99,1319,243,2011-12-01 00:00:00
+85,Frank Sinatra,My Way: The Best Of Frank Sinatra [Disc 1],"New York, New York",0.99,1320,243,2011-12-01 00:00:00
+85,Frank Sinatra,My Way: The Best Of Frank Sinatra [Disc 1],My Kind Of Town,0.99,1321,243,2011-12-01 00:00:00
+85,Frank Sinatra,My Way: The Best Of Frank Sinatra [Disc 1],"Bad, Bad Leroy Brown",0.99,1322,243,2011-12-01 00:00:00
+86,Funk Como Le Gusta,Roda De Funk,Zamba��o,0.99,1323,243,2011-12-01 00:00:00
+86,Funk Como Le Gusta,Roda De Funk,Divirta-Se (Saindo Da Sua),0.99,1324,243,2011-12-01 00:00:00
+27,Gilberto Gil,As Can��es de Eu Tu Eles,Assum Preto,0.99,1325,243,2011-12-01 00:00:00
+27,Gilberto Gil,Quanta Gente Veio Ver (Live),Is This Love (Live),0.99,1326,243,2011-12-01 00:00:00
+27,Gilberto Gil,Quanta Gente Veio Ver (Live),Copacabana (Live),0.99,1327,243,2011-12-01 00:00:00
+81,Eric Clapton,Unplugged,Beira Mar,0.99,1328,244,2011-12-09 00:00:00
+81,Eric Clapton,Unplugged,Sampa,0.99,1329,245,2011-12-22 00:00:00
+81,Eric Clapton,Unplugged,Parabolicamar�,0.99,1330,245,2011-12-22 00:00:00
+81,Eric Clapton,Unplugged,Expresso 2222,0.99,1331,246,2011-12-22 00:00:00
+81,Eric Clapton,Unplugged,Palco,0.99,1332,246,2011-12-22 00:00:00
+81,Eric Clapton,Unplugged,S�tio Do Pica-Pau Amarelo,0.99,1333,247,2011-12-23 00:00:00
+87,Godsmack,Faceless,Faceless,0.99,1334,247,2011-12-23 00:00:00
+87,Godsmack,Faceless,Make Me Believe,0.99,1335,247,2011-12-23 00:00:00
+87,Godsmack,Faceless,Re-Align,0.99,1336,247,2011-12-23 00:00:00
+87,Godsmack,Faceless,I Am,0.99,1337,248,2011-12-24 00:00:00
+54,Green Day,American Idiot,Jesus Of Suburbia / City Of The Damned / I Don't Care / Dearly Beloved / Tales Of Another Broken Home,0.99,1338,248,2011-12-24 00:00:00
+54,Green Day,American Idiot,St. Jimmy,0.99,1339,248,2011-12-24 00:00:00
+54,Green Day,American Idiot,Letterbomb,0.99,1340,248,2011-12-24 00:00:00
+88,Guns N' Roses,Appetite for Destruction,Welcome to the Jungle,0.99,1341,248,2011-12-24 00:00:00
+88,Guns N' Roses,Appetite for Destruction,Mr. Brownstone,0.99,1342,248,2011-12-24 00:00:00
+88,Guns N' Roses,Appetite for Destruction,Anything Goes,0.99,1343,249,2011-12-27 00:00:00
+88,Guns N' Roses,Use Your Illusion I,Perfect Crime,0.99,1344,249,2011-12-27 00:00:00
+88,Guns N' Roses,Use Your Illusion I,The Garden,0.99,1345,249,2011-12-27 00:00:00
+88,Guns N' Roses,Use Your Illusion II,Civil War,0.99,1346,249,2011-12-27 00:00:00
+88,Guns N' Roses,Use Your Illusion II,Breakdown,0.99,1347,249,2011-12-27 00:00:00
+88,Guns N' Roses,Use Your Illusion II,Don't Cry,0.99,1348,249,2011-12-27 00:00:00
+89,Incognito,Blue Moods,L'Arc En Ciel De Miles,0.99,1349,249,2011-12-27 00:00:00
+89,Incognito,Blue Moods,Jacob's Ladder,0.99,1350,249,2011-12-27 00:00:00
+90,Iron Maiden,A Matter of Life and Death,The Pilgrim,0.99,1351,249,2011-12-27 00:00:00
+90,Iron Maiden,A Real Dead One,The Trooper,0.99,1352,250,2012-01-01 00:00:00
+90,Iron Maiden,A Real Dead One,Iron Maiden,0.99,1353,250,2012-01-01 00:00:00
+90,Iron Maiden,A Real Live One,Bring Your Daughter... To The Slaughter,0.99,1354,250,2012-01-01 00:00:00
+90,Iron Maiden,Brave New World,Dream Of Mirrors,0.99,1355,250,2012-01-01 00:00:00
+90,Iron Maiden,Dance Of Death,Dance Of Death,0.99,1356,250,2012-01-01 00:00:00
+90,Iron Maiden,Fear Of The Dark,Afraid To Shoot Strangers,0.99,1357,250,2012-01-01 00:00:00
+90,Iron Maiden,Fear Of The Dark,Fear Of The Dark,0.99,1358,250,2012-01-01 00:00:00
+90,Iron Maiden,Iron Maiden,09 - Iron Maiden,0.99,1359,250,2012-01-01 00:00:00
+90,Iron Maiden,Killers,Purgatory,0.99,1360,250,2012-01-01 00:00:00
+90,Iron Maiden,Live After Death,Powerslave,0.99,1361,250,2012-01-01 00:00:00
+90,Iron Maiden,Live After Death,Die With Your Boots On,0.99,1362,250,2012-01-01 00:00:00
+90,Iron Maiden,Live At Donington 1992 (Disc 1),The Evil That Men Do,0.99,1363,250,2012-01-01 00:00:00
+90,Iron Maiden,Live At Donington 1992 (Disc 2),Hallowed Be Thy Name,0.99,1364,250,2012-01-01 00:00:00
+90,Iron Maiden,No Prayer For The Dying,The Assassin,0.99,1365,250,2012-01-01 00:00:00
+90,Iron Maiden,Powerslave,Aces High,0.99,1366,251,2012-01-09 00:00:00
+90,Iron Maiden,Powerslave,2 Minutes To Midnight,0.99,1367,252,2012-01-22 00:00:00
+90,Iron Maiden,Powerslave,Losfer Words,0.99,1368,252,2012-01-22 00:00:00
+90,Iron Maiden,Powerslave,Duelists,0.99,1369,253,2012-01-22 00:00:00
+90,Iron Maiden,Powerslave,Powerslave,0.99,1370,253,2012-01-22 00:00:00
+90,Iron Maiden,Rock In Rio [CD1],Intro,0.99,1371,254,2012-01-23 00:00:00
+90,Iron Maiden,Rock In Rio [CD1],Ghost Of The Navigator,0.99,1372,254,2012-01-23 00:00:00
+90,Iron Maiden,Rock In Rio [CD1],Wrathchild,0.99,1373,254,2012-01-23 00:00:00
+90,Iron Maiden,Rock In Rio [CD1],Blood Brothers,0.99,1374,254,2012-01-23 00:00:00
+90,Iron Maiden,Rock In Rio [CD2],Dream Of Mirrors,0.99,1375,255,2012-01-24 00:00:00
+90,Iron Maiden,Rock In Rio [CD2],Iron Maiden,0.99,1376,255,2012-01-24 00:00:00
+90,Iron Maiden,Rock In Rio [CD2],Run To The Hills,0.99,1377,255,2012-01-24 00:00:00
+90,Iron Maiden,Seventh Son of a Seventh Son,The Evil That Men Do,0.99,1378,255,2012-01-24 00:00:00
+90,Iron Maiden,Seventh Son of a Seventh Son,Only the Good Die Young,0.99,1379,255,2012-01-24 00:00:00
+90,Iron Maiden,Somewhere in Time,Heaven Can Wait,0.99,1380,255,2012-01-24 00:00:00
+90,Iron Maiden,The Number of The Beast,Children of the Damned,0.99,1381,256,2012-01-27 00:00:00
+90,Iron Maiden,The Number of The Beast,The Prisoner,0.99,1382,256,2012-01-27 00:00:00
+90,Iron Maiden,The X Factor,The Aftermath,0.99,1383,256,2012-01-27 00:00:00
+90,Iron Maiden,Virtual XI,Futureal,0.99,1384,256,2012-01-27 00:00:00
+90,Iron Maiden,Virtual XI,Don't Look To The Eyes Of A Stranger,0.99,1385,256,2012-01-27 00:00:00
+91,James Brown,Sex Machine,Papa's Got A Brand New Bag Pt.1,0.99,1386,256,2012-01-27 00:00:00
+91,James Brown,Sex Machine,Hey America,0.99,1387,256,2012-01-27 00:00:00
+91,James Brown,Sex Machine,Living In America,0.99,1388,256,2012-01-27 00:00:00
+92,Jamiroquai,Emergency On Planet Earth,Hooked Up,0.99,1389,256,2012-01-27 00:00:00
+92,Jamiroquai,Synkronized,Planet Home,0.99,1390,257,2012-02-01 00:00:00
+92,Jamiroquai,Synkronized,Deeper Underground,0.99,1391,257,2012-02-01 00:00:00
+92,Jamiroquai,The Return Of The Space Cowboy,Journey To Arnhemland,0.99,1392,257,2012-02-01 00:00:00
+93,JET,Get Born,Radio Song,0.99,1393,257,2012-02-01 00:00:00
+94,Jimi Hendrix,Are You Experienced?,Red House,0.99,1394,257,2012-02-01 00:00:00
+94,Jimi Hendrix,Are You Experienced?,Hey Joe,0.99,1395,257,2012-02-01 00:00:00
+95,Joe Satriani,Surfing with the Alien (Remastered),"Always With Me, Always With You",0.99,1396,257,2012-02-01 00:00:00
+46,Jorge Ben,Jorge Ben Jor 25 Anos,Mama Africa,0.99,1397,257,2012-02-01 00:00:00
+46,Jorge Ben,Jorge Ben Jor 25 Anos,Santa Clara Clareou,0.99,1398,257,2012-02-01 00:00:00
+96,Jota Quest,Jota Quest-1995,Encontrar Algu�m,0.99,1399,257,2012-02-01 00:00:00
+97,Jo�o Suplicy,Cafezinho,No Futuro,0.99,1400,257,2012-02-01 00:00:00
+97,Jo�o Suplicy,Cafezinho,Cafezinho,0.99,1401,257,2012-02-01 00:00:00
+98,Judas Priest,Living After Midnight,You've Got Another Thing Comin',0.99,1402,257,2012-02-01 00:00:00
+52,Kiss,Unplugged [Live],Comin' Home,0.99,1403,257,2012-02-01 00:00:00
+52,Kiss,Unplugged [Live],Rock And Roll All Nite,0.99,1404,258,2012-02-09 00:00:00
+22,Led Zeppelin,BBC Sessions [Disc 2] [Live],Immigrant Song,0.99,1405,259,2012-02-22 00:00:00
+22,Led Zeppelin,BBC Sessions [Disc 2] [Live],Heartbreaker,0.99,1406,259,2012-02-22 00:00:00
+22,Led Zeppelin,BBC Sessions [Disc 2] [Live],Black Dog,0.99,1407,260,2012-02-22 00:00:00
+22,Led Zeppelin,BBC Sessions [Disc 2] [Live],Stairway To Heaven,0.99,1408,260,2012-02-22 00:00:00
+22,Led Zeppelin,BBC Sessions [Disc 2] [Live],That's The Way,0.99,1409,261,2012-02-23 00:00:00
+22,Led Zeppelin,BBC Sessions [Disc 2] [Live],Thank You,0.99,1410,261,2012-02-23 00:00:00
+22,Led Zeppelin,Coda,Poor Tom,0.99,1411,261,2012-02-23 00:00:00
+22,Led Zeppelin,Coda,Walter's Walk,0.99,1412,261,2012-02-23 00:00:00
+22,Led Zeppelin,Coda,Wearing And Tearing,0.99,1413,262,2012-02-24 00:00:00
+22,Led Zeppelin,Houses Of The Holy,The Crunge,0.99,1414,262,2012-02-24 00:00:00
+22,Led Zeppelin,Houses Of The Holy,The Ocean,0.99,1415,262,2012-02-24 00:00:00
+22,Led Zeppelin,In Through The Out Door,Hot Dog,0.99,1416,262,2012-02-24 00:00:00
+22,Led Zeppelin,IV,Black Dog,0.99,1417,262,2012-02-24 00:00:00
+22,Led Zeppelin,IV,Misty Mountain Hop,0.99,1418,262,2012-02-24 00:00:00
+22,Led Zeppelin,Led Zeppelin I,You Shook Me,0.99,1419,263,2012-02-27 00:00:00
+22,Led Zeppelin,Led Zeppelin I,How Many More Times,0.99,1420,263,2012-02-27 00:00:00
+22,Led Zeppelin,Led Zeppelin II,Living Loving Maid (She's Just A Woman),0.99,1421,263,2012-02-27 00:00:00
+22,Led Zeppelin,Led Zeppelin III,Celebration Day,0.99,1422,263,2012-02-27 00:00:00
+22,Led Zeppelin,Led Zeppelin III,Bron-Y-Aur Stomp,0.99,1423,263,2012-02-27 00:00:00
+22,Led Zeppelin,Physical Graffiti [Disc 2],Night Flight,0.99,1424,263,2012-02-27 00:00:00
+22,Led Zeppelin,Presence,For Your Life,0.99,1425,263,2012-02-27 00:00:00
+22,Led Zeppelin,The Song Remains The Same (Disc 1),Rock & Roll,0.99,1426,263,2012-02-27 00:00:00
+22,Led Zeppelin,The Song Remains The Same (Disc 2),Stairway To Heaven,0.99,1427,263,2012-02-27 00:00:00
+99,Legi�o Urbana,A TempestadeTempestade Ou O Livro Dos Dias,Aloha,0.99,1428,264,2012-03-03 00:00:00
+99,Legi�o Urbana,Mais Do Mesmo,Ser�,0.99,1429,264,2012-03-03 00:00:00
+99,Legi�o Urbana,Mais Do Mesmo,Pais E Filhos,0.99,1430,264,2012-03-03 00:00:00
+100,Lenny Kravitz,Greatest Hits,Rock And Roll Is Dead,0.99,1431,264,2012-03-03 00:00:00
+100,Lenny Kravitz,Greatest Hits,I Belong To You,0.99,1432,264,2012-03-03 00:00:00
+101,Lulu Santos,Lulu Santos - RCA 100 Anos De M�sica - �lbum 01,Casa,0.99,1433,264,2012-03-03 00:00:00
+101,Lulu Santos,Lulu Santos - RCA 100 Anos De M�sica - �lbum 01,A Cura,0.99,1434,264,2012-03-03 00:00:00
+101,Lulu Santos,Lulu Santos - RCA 100 Anos De M�sica - �lbum 01,Sereia,0.99,1435,264,2012-03-03 00:00:00
+102,Marillion,Misplaced Childhood,Heart Of Lothian: Wide Boy / Curtain Call,0.99,1436,264,2012-03-03 00:00:00
+103,Marisa Monte,Barulhinho Bom,C�rebro Eletr�nico,0.99,1437,264,2012-03-03 00:00:00
+103,Marisa Monte,Barulhinho Bom,A Menina Dan�a,0.99,1438,264,2012-03-03 00:00:00
+104,Marvin Gaye,Seek And Shall Find: More Of The Best (1963-1981),You've Been A Long Time Coming,0.99,1439,264,2012-03-03 00:00:00
+104,Marvin Gaye,Seek And Shall Find: More Of The Best (1963-1981),"Abraham, Martin And John",0.99,1440,264,2012-03-03 00:00:00
+105,Men At Work,The Best Of Men At Work,Everything I Need,0.99,1441,264,2012-03-03 00:00:00
+50,Metallica,Black Album,Nothing Else Matters,0.99,1442,265,2012-03-11 00:00:00
+50,Metallica,Black Album,Of Wolf And Man,0.99,1443,266,2012-03-24 00:00:00
+50,Metallica,Black Album,The God That Failed,0.99,1444,266,2012-03-24 00:00:00
+50,Metallica,Black Album,The Struggle Within,0.99,1445,267,2012-03-24 00:00:00
+50,Metallica,Garage Inc. (Disc 2),The Small Hours,0.99,1446,267,2012-03-24 00:00:00
+50,Metallica,Garage Inc. (Disc 2),Crash Course In Brain Surgery,0.99,1447,268,2012-03-25 00:00:00
+50,Metallica,Garage Inc. (Disc 2),Am I Evil?,0.99,1448,268,2012-03-25 00:00:00
+50,Metallica,Garage Inc. (Disc 2),Breadfan,0.99,1449,268,2012-03-25 00:00:00
+50,Metallica,Garage Inc. (Disc 2),Stone Cold Crazy,0.99,1450,268,2012-03-25 00:00:00
+50,Metallica,Garage Inc. (Disc 2),Damage Case,0.99,1451,269,2012-03-26 00:00:00
+50,Metallica,Kill 'Em All,The Four Horsemen,0.99,1452,269,2012-03-26 00:00:00
+50,Metallica,Kill 'Em All,Whiplash,0.99,1453,269,2012-03-26 00:00:00
+50,Metallica,Kill 'Em All,Metal Militia,0.99,1454,269,2012-03-26 00:00:00
+50,Metallica,Load,Until It Sleeps,0.99,1455,269,2012-03-26 00:00:00
+50,Metallica,Load,Cure,0.99,1456,269,2012-03-26 00:00:00
+50,Metallica,Load,The Outlaw Torn,0.99,1457,270,2012-03-29 00:00:00
+50,Metallica,Master Of Puppets,Leper Messiah,0.99,1458,270,2012-03-29 00:00:00
+50,Metallica,ReLoad,The Unforgiven II,0.99,1459,270,2012-03-29 00:00:00
+50,Metallica,ReLoad,Prince Charming,0.99,1460,270,2012-03-29 00:00:00
+50,Metallica,Ride The Lightning,For Whom The Bell Tolls,0.99,1461,270,2012-03-29 00:00:00
+50,Metallica,St. Anger,Frantic,0.99,1462,270,2012-03-29 00:00:00
+50,Metallica,St. Anger,Shoot Me Again,0.99,1463,270,2012-03-29 00:00:00
+50,Metallica,...And Justice For All,...And Justice For All,0.99,1464,270,2012-03-29 00:00:00
+50,Metallica,...And Justice For All,To Live Is To Die,0.99,1465,270,2012-03-29 00:00:00
+68,Miles Davis,Miles Ahead,The Meaning Of The Blues,0.99,1466,271,2012-04-03 00:00:00
+42,Milton Nascimento,Milton Nascimento Ao Vivo,Paisagem Na Janela,0.99,1467,271,2012-04-03 00:00:00
+42,Milton Nascimento,Milton Nascimento Ao Vivo,Para Lennon E McCartney,0.99,1468,271,2012-04-03 00:00:00
+42,Milton Nascimento,Minas,Idolatrada,0.99,1469,271,2012-04-03 00:00:00
+106,Mot�rhead,Ace Of Spades,Live To Win,0.99,1470,271,2012-04-03 00:00:00
+106,Mot�rhead,Ace Of Spades,Dirty Love,0.99,1471,271,2012-04-03 00:00:00
+108,M�nica Marianno,Demorou...,� Fogo,0.99,1472,271,2012-04-03 00:00:00
+109,M�tley Cr�e,Motley Crue Greatest Hits,Kickstart My Heart,0.99,1473,271,2012-04-03 00:00:00
+109,M�tley Cr�e,Motley Crue Greatest Hits,Smokin' in The Boys Room,0.99,1474,271,2012-04-03 00:00:00
+110,Nirvana,From The Muddy Banks Of The Wishkah [Live],Smells Like Teen Spirit,0.99,1475,271,2012-04-03 00:00:00
+110,Nirvana,From The Muddy Banks Of The Wishkah [Live],Polly,0.99,1476,271,2012-04-03 00:00:00
+110,Nirvana,Nevermind,Polly,0.99,1477,271,2012-04-03 00:00:00
+111,O Ter�o,Compositores,Sangue Latino,0.99,1478,271,2012-04-03 00:00:00
+111,O Ter�o,Compositores,�s Vezes,0.99,1479,271,2012-04-03 00:00:00
+112,Olodum,Olodum,Revolta Olodum,0.99,1480,272,2012-04-11 00:00:00
+112,Olodum,Olodum,Reggae Odoy�,0.99,1481,273,2012-04-24 00:00:00
+112,Olodum,Olodum,Protesto Do Olodum (Ao Vivo),0.99,1482,273,2012-04-24 00:00:00
+113,Os Paralamas Do Sucesso,Ac�stico MTV,Vulc�o Dub - Fui Eu,0.99,1483,274,2012-04-24 00:00:00
+113,Os Paralamas Do Sucesso,Ac�stico MTV,Manguetown,0.99,1484,274,2012-04-24 00:00:00
+113,Os Paralamas Do Sucesso,Ac�stico MTV,Bora-Bora,0.99,1485,275,2012-04-25 00:00:00
+113,Os Paralamas Do Sucesso,Ac�stico MTV,I Feel Good (I Got You) - Sossego,0.99,1486,275,2012-04-25 00:00:00
+113,Os Paralamas Do Sucesso,Ac�stico MTV,Sincero Breu,0.99,1487,275,2012-04-25 00:00:00
+113,Os Paralamas Do Sucesso,Ac�stico MTV,Selvagem,0.99,1488,275,2012-04-25 00:00:00
+113,Os Paralamas Do Sucesso,Ac�stico MTV,Navegar Impreciso,0.99,1489,276,2012-04-26 00:00:00
+113,Os Paralamas Do Sucesso,Ac�stico MTV,Life During Wartime,0.99,1490,276,2012-04-26 00:00:00
+113,Os Paralamas Do Sucesso,Arquivo II,Tendo A Lua,0.99,1491,276,2012-04-26 00:00:00
+113,Os Paralamas Do Sucesso,Arquivo II,Busca Vida,0.99,1492,276,2012-04-26 00:00:00
+113,Os Paralamas Do Sucesso,Arquivo II,Ela Disse Adeus,0.99,1493,276,2012-04-26 00:00:00
+113,Os Paralamas Do Sucesso,Arquivo Os Paralamas Do Sucesso,�culos,0.99,1494,276,2012-04-26 00:00:00
+113,Os Paralamas Do Sucesso,Arquivo Os Paralamas Do Sucesso,O Beco,0.99,1495,277,2012-04-29 00:00:00
+113,Os Paralamas Do Sucesso,Arquivo Os Paralamas Do Sucesso,Romance Ideal,0.99,1496,277,2012-04-29 00:00:00
+114,Ozzy Osbourne,Diary of a Madman (Remastered),Flying High Again,0.99,1497,277,2012-04-29 00:00:00
+114,Ozzy Osbourne,Tribute,Mr. Crowley,0.99,1498,277,2012-04-29 00:00:00
+114,Ozzy Osbourne,Tribute,Children Of The Grave,0.99,1499,277,2012-04-29 00:00:00
+115,Page & Plant,Walking Into Clarksdale,When The World Was Young,0.99,1500,277,2012-04-29 00:00:00
+115,Page & Plant,Walking Into Clarksdale,Walking Into Clarksdale,0.99,1501,277,2012-04-29 00:00:00
+116,Passengers,Original Soundtracks 1,Slug,0.99,1502,277,2012-04-29 00:00:00
+116,Passengers,Original Soundtracks 1,Ito Okashi,0.99,1503,277,2012-04-29 00:00:00
+117,Paul D'Ianno,The Beast Live,Prowler,0.99,1504,278,2012-05-04 00:00:00
+118,Pearl Jam,Live On Two Legs [Live],Given To Fly,0.99,1505,278,2012-05-04 00:00:00
+118,Pearl Jam,Live On Two Legs [Live],Off He Goes,0.99,1506,278,2012-05-04 00:00:00
+118,Pearl Jam,Pearl Jam,Severed Hand,0.99,1507,278,2012-05-04 00:00:00
+118,Pearl Jam,Pearl Jam,Inside Job,0.99,1508,278,2012-05-04 00:00:00
+118,Pearl Jam,Riot Act,Get Right,0.99,1509,278,2012-05-04 00:00:00
+118,Pearl Jam,Ten,Alive,0.99,1510,278,2012-05-04 00:00:00
+118,Pearl Jam,Vs.,Go,0.99,1511,278,2012-05-04 00:00:00
+118,Pearl Jam,Vs.,Elderly Woman Behind The Counter In A Small Town,0.99,1512,278,2012-05-04 00:00:00
+100,Lenny Kravitz,Greatest Hits,Bush Doctor,0.99,1513,278,2012-05-04 00:00:00
+120,Pink Floyd,Dark Side Of The Moon,Time,0.99,1514,278,2012-05-04 00:00:00
+121,Planet Hemp,Os C�es Ladram Mas A Caravana N�o P�ra,Hip Hop Rio,0.99,1515,278,2012-05-04 00:00:00
+121,Planet Hemp,Os C�es Ladram Mas A Caravana N�o P�ra,Rappers Reais,0.99,1516,278,2012-05-04 00:00:00
+51,Queen,Greatest Hits I,Bicycle Race,0.99,1517,278,2012-05-04 00:00:00
+51,Queen,News Of The World,We Are The Champions,0.99,1518,279,2012-05-12 00:00:00
+51,Queen,News Of The World,Sheer Heart Attack,0.99,1519,280,2012-05-25 00:00:00
+51,Queen,News Of The World,"All Dead, All Dead",0.99,1520,280,2012-05-25 00:00:00
+51,Queen,News Of The World,Fight From The Inside,0.99,1521,281,2012-05-25 00:00:00
+51,Queen,News Of The World,Sleep On The Sidewalk,0.99,1522,281,2012-05-25 00:00:00
+51,Queen,News Of The World,It's Late,0.99,1523,282,2012-05-26 00:00:00
+122,R.E.M. Feat. Kate Pearson,Out Of Time,Shiny Happy People,0.99,1524,282,2012-05-26 00:00:00
+122,R.E.M. Feat. Kate Pearson,Out Of Time,Radio Song,0.99,1525,282,2012-05-26 00:00:00
+124,R.E.M.,Green,Get Up,0.99,1526,282,2012-05-26 00:00:00
+124,R.E.M.,Green,The Wrong Child,0.99,1527,283,2012-05-27 00:00:00
+124,R.E.M.,Green,I Remember California,0.99,1528,283,2012-05-27 00:00:00
+124,R.E.M.,New Adventures In Hi-Fi,New Test Leper,0.99,1529,283,2012-05-27 00:00:00
+124,R.E.M.,New Adventures In Hi-Fi,Departure,0.99,1530,283,2012-05-27 00:00:00
+124,R.E.M.,New Adventures In Hi-Fi,Zither,0.99,1531,283,2012-05-27 00:00:00
+122,R.E.M. Feat. Kate Pearson,Out Of Time,Losing My Religion,0.99,1532,283,2012-05-27 00:00:00
+122,R.E.M. Feat. Kate Pearson,Out Of Time,Texarkana,0.99,1533,284,2012-05-30 00:00:00
+124,R.E.M.,The Best Of R.E.M.: The IRS Years,So Central Rain,0.99,1534,284,2012-05-30 00:00:00
+124,R.E.M.,The Best Of R.E.M.: The IRS Years,Fall On Me,0.99,1535,284,2012-05-30 00:00:00
+125,Raimundos,Cesta B�sica,Infeliz Natal,0.99,1536,284,2012-05-30 00:00:00
+125,Raimundos,Cesta B�sica,Esporrei Na Manivela,0.99,1537,284,2012-05-30 00:00:00
+126,Raul Seixas,Raul Seixas,No Fundo Do Quintal Da Escola,0.99,1538,284,2012-05-30 00:00:00
+126,Raul Seixas,Raul Seixas,Que Luz � Essa,0.99,1539,284,2012-05-30 00:00:00
+127,Red Hot Chili Peppers,Blood Sugar Sex Magik,The Power Of Equality,0.99,1540,284,2012-05-30 00:00:00
+127,Red Hot Chili Peppers,Blood Sugar Sex Magik,Mellowship Slinky In B Major,0.99,1541,284,2012-05-30 00:00:00
+127,Red Hot Chili Peppers,Blood Sugar Sex Magik,Sir Psycho Sexy,0.99,1542,285,2012-06-04 00:00:00
+127,Red Hot Chili Peppers,By The Way,I Could Die For You,0.99,1543,285,2012-06-04 00:00:00
+127,Red Hot Chili Peppers,Californication,Around The World,0.99,1544,285,2012-06-04 00:00:00
+127,Red Hot Chili Peppers,Californication,I Like Dirt,0.99,1545,285,2012-06-04 00:00:00
+128,Rush,Retrospective I (1974-1980),Freewill,0.99,1546,285,2012-06-04 00:00:00
+128,Rush,Retrospective I (1974-1980),Fly By Night,0.99,1547,285,2012-06-04 00:00:00
+59,Santana,Santana - As Years Go By,Santana Jam,0.99,1548,285,2012-06-04 00:00:00
+100,Lenny Kravitz,Greatest Hits,The Right Thing,0.99,1549,285,2012-06-04 00:00:00
+100,Lenny Kravitz,Greatest Hits,For Your Babies,0.99,1550,285,2012-06-04 00:00:00
+130,Skank,Maquinarama,Mu�ulmano,0.99,1551,285,2012-06-04 00:00:00
+130,Skank,O Samba Pocon�,Z� Trindade,0.99,1552,285,2012-06-04 00:00:00
+131,Smashing Pumpkins,Judas 0: B-Sides and Rarities,Lucky 13,0.99,1553,285,2012-06-04 00:00:00
+131,Smashing Pumpkins,Judas 0: B-Sides and Rarities,Waiting,0.99,1554,285,2012-06-04 00:00:00
+131,Smashing Pumpkins,Rotten Apples: Greatest Hits,Drown,0.99,1555,285,2012-06-04 00:00:00
+131,Smashing Pumpkins,Rotten Apples: Greatest Hits,Real Love,0.99,1556,286,2012-06-12 00:00:00
+131,Smashing Pumpkins,Rotten Apples: Greatest Hits,[Untitled],0.99,1557,287,2012-06-25 00:00:00
+132,Soundgarden,A-Sides,Nothing To Say,0.99,1558,287,2012-06-25 00:00:00
+132,Soundgarden,A-Sides,Loud Love,0.99,1559,288,2012-06-25 00:00:00
+132,Soundgarden,A-Sides,Get On The Snake,0.99,1560,288,2012-06-25 00:00:00
+132,Soundgarden,A-Sides,Outshined,0.99,1561,289,2012-06-26 00:00:00
+132,Soundgarden,A-Sides,Spoonman,0.99,1562,289,2012-06-26 00:00:00
+132,Soundgarden,A-Sides,Black Hole Sun,0.99,1563,289,2012-06-26 00:00:00
+132,Soundgarden,A-Sides,Pretty Noose,0.99,1564,289,2012-06-26 00:00:00
+132,Soundgarden,A-Sides,Bleed Together,0.99,1565,290,2012-06-27 00:00:00
+53,Spyro Gyra,Morning Dance,Song For Lorraine,0.99,1566,290,2012-06-27 00:00:00
+53,Spyro Gyra,Morning Dance,Little Linda,0.99,1567,290,2012-06-27 00:00:00
+133,Stevie Ray Vaughan & Double Trouble,In Step,Tightrope,0.99,1568,290,2012-06-27 00:00:00
+133,Stevie Ray Vaughan & Double Trouble,In Step,Wall Of Denial,0.99,1569,290,2012-06-27 00:00:00
+134,Stone Temple Pilots,Core,Dead And Bloated,0.99,1570,290,2012-06-27 00:00:00
+134,Stone Temple Pilots,Core,Creep,0.99,1571,291,2012-06-30 00:00:00
+135,System Of A Down,Mezmerize,Soldier Side - Intro,0.99,1572,291,2012-06-30 00:00:00
+135,System Of A Down,Mezmerize,Violent Pornography,0.99,1573,291,2012-06-30 00:00:00
+136,"Terry Bozzio, Tony Levin & Steve Stevens",[1997] Black Light Syndrome,Dark Corners,0.99,1574,291,2012-06-30 00:00:00
+137,The Black Crowes,Live [Disc 1],Midnight From The Inside Out,0.99,1575,291,2012-06-30 00:00:00
+137,The Black Crowes,Live [Disc 1],Miracle To Me,0.99,1576,291,2012-06-30 00:00:00
+137,The Black Crowes,Live [Disc 2],Title Song,0.99,1577,291,2012-06-30 00:00:00
+137,The Black Crowes,Live [Disc 2],Remedy,0.99,1578,291,2012-06-30 00:00:00
+138,The Clash,The Singles,Tommy Gun,0.99,1579,291,2012-06-30 00:00:00
+138,The Clash,The Singles,This Is Radio Clash,0.99,1580,292,2012-07-05 00:00:00
+139,The Cult,Beyond Good And Evil,Nico,0.99,1581,292,2012-07-05 00:00:00
+139,The Cult,"Pure Cult: The Best Of The Cult (For Rockers, Ravers, Lovers & Sinners) [UK]",Lil' Evil,0.99,1582,292,2012-07-05 00:00:00
+139,The Cult,"Pure Cult: The Best Of The Cult (For Rockers, Ravers, Lovers & Sinners) [UK]",Love,0.99,1583,292,2012-07-05 00:00:00
+140,The Doors,The Doors,The Crystal Ship,0.99,1584,292,2012-07-05 00:00:00
+141,The Police,The Police Greatest Hits,Roxanne,0.99,1585,292,2012-07-05 00:00:00
+141,The Police,The Police Greatest Hits,Every Breath You Take,0.99,1586,292,2012-07-05 00:00:00
+142,The Rolling Stones,"Hot Rocks, 1964-1971 (Disc 1)",As Tears Go By,0.99,1587,292,2012-07-05 00:00:00
+142,The Rolling Stones,No Security,You Got Me Rocking,0.99,1588,292,2012-07-05 00:00:00
+142,The Rolling Stones,No Security,Respectable,0.99,1589,292,2012-07-05 00:00:00
+142,The Rolling Stones,Voodoo Lounge,Moon Is Up,0.99,1590,292,2012-07-05 00:00:00
+142,The Rolling Stones,Voodoo Lounge,Mean Disposition,0.99,1591,292,2012-07-05 00:00:00
+143,The Tea Party,Tangents,Release,0.99,1592,292,2012-07-05 00:00:00
+143,The Tea Party,Transmission,Psychopomp,0.99,1593,292,2012-07-05 00:00:00
+144,The Who,My Generation - The Very Best Of The Who,Boris The Spider,0.99,1594,293,2012-07-13 00:00:00
+144,The Who,My Generation - The Very Best Of The Who,Happy Jack,0.99,1595,294,2012-07-26 00:00:00
+144,The Who,My Generation - The Very Best Of The Who,Pictures Of Lily,0.99,1596,294,2012-07-26 00:00:00
+144,The Who,My Generation - The Very Best Of The Who,Magic Bus,0.99,1597,295,2012-07-26 00:00:00
+144,The Who,My Generation - The Very Best Of The Who,The Seeker,0.99,1598,295,2012-07-26 00:00:00
+144,The Who,My Generation - The Very Best Of The Who,Won't Get Fooled Again (Full Length Version),0.99,1599,296,2012-07-27 00:00:00
+144,The Who,My Generation - The Very Best Of The Who,5.15,0.99,1600,296,2012-07-27 00:00:00
+144,The Who,My Generation - The Very Best Of The Who,Squeeze Box,0.99,1601,296,2012-07-27 00:00:00
+144,The Who,My Generation - The Very Best Of The Who,You Better You Bet,0.99,1602,296,2012-07-27 00:00:00
+145,Tim Maia,Serie Sem Limite (Disc 1),O Descobridor Dos Sete Mares,0.99,1603,297,2012-07-28 00:00:00
+145,Tim Maia,Serie Sem Limite (Disc 1),N�o Vou Ficar,0.99,1604,297,2012-07-28 00:00:00
+145,Tim Maia,Serie Sem Limite (Disc 1),Cristina N� 2,0.99,1605,297,2012-07-28 00:00:00
+145,Tim Maia,Serie Sem Limite (Disc 2),O Que Me Importa,0.99,1606,297,2012-07-28 00:00:00
+145,Tim Maia,Serie Sem Limite (Disc 2),Eu Amo Voc�,0.99,1607,297,2012-07-28 00:00:00
+145,Tim Maia,Serie Sem Limite (Disc 2),Nosso Adeus,0.99,1608,297,2012-07-28 00:00:00
+145,Tim Maia,Serie Sem Limite (Disc 2),Formigueiro,0.99,1609,298,2012-07-31 00:00:00
+146,Tit�s,Ac�stico,O Pulso,0.99,1610,298,2012-07-31 00:00:00
+146,Tit�s,Ac�stico,A Melhor Forma,0.99,1611,298,2012-07-31 00:00:00
+146,Tit�s,Ac�stico,Homem Primata,0.99,1612,298,2012-07-31 00:00:00
+146,Tit�s,Volume Dois,Lugar Nenhum,0.99,1613,298,2012-07-31 00:00:00
+146,Tit�s,Volume Dois,Caras Como Eu,0.99,1614,298,2012-07-31 00:00:00
+146,Tit�s,Volume Dois,Toda Cor,0.99,1615,298,2012-07-31 00:00:00
+147,Battlestar Galactica,"Battlestar Galactica, Season 3","Exodus, Pt. 2",1.99,1616,298,2012-07-31 00:00:00
+147,Battlestar Galactica,"Battlestar Galactica, Season 3",The Passage,1.99,1617,298,2012-07-31 00:00:00
+147,Battlestar Galactica,"Battlestar Galactica, Season 3","Crossroads, Pt. 1",1.99,1618,299,2012-08-05 00:00:00
+148,Heroes,"Heroes, Season 1",Seven Minutes to Midnight,1.99,1619,299,2012-08-05 00:00:00
+148,Heroes,"Heroes, Season 1",Company Man,1.99,1620,299,2012-08-05 00:00:00
+149,Lost,"Lost, Season 2",Orientation,1.99,1621,299,2012-08-05 00:00:00
+149,Lost,"Lost, Season 1",House of the Rising Sun,1.99,1622,299,2012-08-05 00:00:00
+149,Lost,"Lost, Season 3",Lost Survival Guide,1.99,1623,299,2012-08-05 00:00:00
+149,Lost,"Lost, Season 3",Enter 77,1.99,1624,299,2012-08-05 00:00:00
+149,Lost,"Lost, Season 3",Expos�,1.99,1625,299,2012-08-05 00:00:00
+149,Lost,"Lost, Season 3",Catch-22,1.99,1626,299,2012-08-05 00:00:00
+149,Lost,"Lost, Season 2","""?""",1.99,1627,299,2012-08-05 00:00:00
+150,U2,Achtung Baby,Even Better Than The Real Thing,0.99,1628,299,2012-08-05 00:00:00
+150,U2,Achtung Baby,Acrobat,0.99,1629,299,2012-08-05 00:00:00
+150,U2,All That You Can't Leave Behind,Peace On Earth,0.99,1630,299,2012-08-05 00:00:00
+150,U2,B-Sides 1980-1990,Dancing Barefoot,0.99,1631,299,2012-08-05 00:00:00
+150,U2,How To Dismantle An Atomic Bomb,City Of Blinding Lights,0.99,1632,300,2012-08-13 00:00:00
+150,U2,How To Dismantle An Atomic Bomb,All Because Of You,0.99,1633,301,2012-08-26 00:00:00
+150,U2,How To Dismantle An Atomic Bomb,A Man And A Woman,0.99,1634,301,2012-08-26 00:00:00
+150,U2,How To Dismantle An Atomic Bomb,One Step Closer,0.99,1635,302,2012-08-26 00:00:00
+150,U2,How To Dismantle An Atomic Bomb,Yahweh,0.99,1636,302,2012-08-26 00:00:00
+150,U2,Pop,Do You Feel Loved,0.99,1637,303,2012-08-27 00:00:00
+150,U2,Pop,If God Will Send His Angels,0.99,1638,303,2012-08-27 00:00:00
+150,U2,Pop,Last Night On Earth,0.99,1639,303,2012-08-27 00:00:00
+150,U2,Pop,Miami,0.99,1640,303,2012-08-27 00:00:00
+150,U2,Pop,Wake Up Dead Man,0.99,1641,304,2012-08-28 00:00:00
+150,U2,Rattle And Hum,Hawkmoon 269,0.99,1642,304,2012-08-28 00:00:00
+150,U2,Rattle And Hum,Silver And Gold,0.99,1643,304,2012-08-28 00:00:00
+150,U2,Rattle And Hum,When Love Comes To Town,0.99,1644,304,2012-08-28 00:00:00
+150,U2,Rattle And Hum,Bullet The Blue Sky,0.99,1645,304,2012-08-28 00:00:00
+150,U2,The Best Of 1980-1990,With Or Without You,0.99,1646,304,2012-08-28 00:00:00
+150,U2,The Best Of 1980-1990,The Unforgettable Fire,0.99,1647,305,2012-08-31 00:00:00
+150,U2,War,Sunday Bloody Sunday,0.99,1648,305,2012-08-31 00:00:00
+150,U2,War,Two Hearts Beat As One,0.99,1649,305,2012-08-31 00:00:00
+150,U2,Zooropa,Numb,0.99,1650,305,2012-08-31 00:00:00
+150,U2,Zooropa,Dirty Day,0.99,1651,305,2012-08-31 00:00:00
+151,UB40,UB40 The Best Of - Volume Two [UK],Here I Am (Come And Take Me),0.99,1652,305,2012-08-31 00:00:00
+151,UB40,UB40 The Best Of - Volume Two [UK],C'est La Vie,0.99,1653,305,2012-08-31 00:00:00
+152,Van Halen,Diver Down,Cathedral,0.99,1654,305,2012-08-31 00:00:00
+152,Van Halen,Diver Down,Little Guitars,0.99,1655,305,2012-08-31 00:00:00
+152,Van Halen,"The Best Of Van Halen, Vol. I",Unchained,0.99,1656,306,2012-09-05 00:00:00
+152,Van Halen,"The Best Of Van Halen, Vol. I",Humans Being,0.99,1657,306,2012-09-05 00:00:00
+152,Van Halen,Van Halen,Atomic Punk,0.99,1658,306,2012-09-05 00:00:00
+152,Van Halen,Van Halen III,Dirty Water Dog,0.99,1659,306,2012-09-05 00:00:00
+153,Velvet Revolver,Contraband,Do It For The Kids,0.99,1660,306,2012-09-05 00:00:00
+153,Velvet Revolver,Contraband,Slither,0.99,1661,306,2012-09-05 00:00:00
+72,Vin�cius De Moraes,Vinicius De Moraes,Samba Pra Endrigo,0.99,1662,306,2012-09-05 00:00:00
+100,Lenny Kravitz,Greatest Hits,Still Of The Night,0.99,1663,306,2012-09-05 00:00:00
+100,Lenny Kravitz,Greatest Hits,You're Gonna Break My Hart Again,0.99,1664,306,2012-09-05 00:00:00
+155,Zeca Pagodinho,Ao Vivo [IMPORT],Cora��o Em Desalinho,0.99,1665,306,2012-09-05 00:00:00
+155,Zeca Pagodinho,Ao Vivo [IMPORT],Camar�o que Dorme e Onda Leva,0.99,1666,306,2012-09-05 00:00:00
+148,Heroes,"Heroes, Season 1",The Hard Part,1.99,1667,306,2012-09-05 00:00:00
+156,The Office,"The Office, Season 1",Hot Girl,1.99,1668,306,2012-09-05 00:00:00
+156,The Office,"The Office, Season 2",Email Surveillance,1.99,1669,306,2012-09-05 00:00:00
+156,The Office,"The Office, Season 3",Gay Witch Hunt,1.99,1670,307,2012-09-13 00:00:00
+156,The Office,"The Office, Season 3",The Convention,1.99,1671,308,2012-09-26 00:00:00
+156,The Office,"The Office, Season 3",The Coup,1.99,1672,308,2012-09-26 00:00:00
+156,The Office,"The Office, Season 3",The Initiation,1.99,1673,309,2012-09-26 00:00:00
+156,The Office,"The Office, Season 3",Branch Closing,1.99,1674,309,2012-09-26 00:00:00
+156,The Office,"The Office, Season 3",The Convict,1.99,1675,310,2012-09-27 00:00:00
+156,The Office,"The Office, Season 3",Back from Vacation,1.99,1676,310,2012-09-27 00:00:00
+156,The Office,"The Office, Season 3",Producer's Cut: The Return,1.99,1677,310,2012-09-27 00:00:00
+156,The Office,"The Office, Season 3",Phyllis's Wedding,1.99,1678,310,2012-09-27 00:00:00
+156,The Office,"The Office, Season 3",Safety Training,1.99,1679,311,2012-09-28 00:00:00
+156,The Office,"The Office, Season 3",The Job,1.99,1680,311,2012-09-28 00:00:00
+158,Battlestar Galactica (Classic),"Battlestar Galactica (Classic), Season 1","Battlestar Galactica, Pt. 1",1.99,1681,311,2012-09-28 00:00:00
+158,Battlestar Galactica (Classic),"Battlestar Galactica (Classic), Season 1","Lost Planet of the Gods, Pt. 2",1.99,1682,311,2012-09-28 00:00:00
+158,Battlestar Galactica (Classic),"Battlestar Galactica (Classic), Season 1","The Gun On Ice Planet Zero, Pt. 2",1.99,1683,311,2012-09-28 00:00:00
+158,Battlestar Galactica (Classic),"Battlestar Galactica (Classic), Season 1","The Living Legend, Pt. 2",1.99,1684,311,2012-09-28 00:00:00
+158,Battlestar Galactica (Classic),"Battlestar Galactica (Classic), Season 1","Greetings from Earth, Pt. 1",1.99,1685,312,2012-10-01 00:00:00
+159,Aquaman,Aquaman,Pilot,1.99,1686,312,2012-10-01 00:00:00
+150,U2,Instant Karma: The Amnesty International Campaign to Save Darfur,Give Peace a Chance,0.99,1687,312,2012-10-01 00:00:00
+150,U2,Instant Karma: The Amnesty International Campaign to Save Darfur,Imagine,0.99,1688,312,2012-10-01 00:00:00
+150,U2,Instant Karma: The Amnesty International Campaign to Save Darfur,Beautiful Boy,0.99,1689,312,2012-10-01 00:00:00
+150,U2,Instant Karma: The Amnesty International Campaign to Save Darfur,God,0.99,1690,312,2012-10-01 00:00:00
+114,Ozzy Osbourne,Speak of the Devil,War Pigs,0.99,1691,312,2012-10-01 00:00:00
+114,Ozzy Osbourne,Speak of the Devil,Iron Man/Children of the Grave,0.99,1692,312,2012-10-01 00:00:00
+179,Scorpions,20th Century Masters - The Millennium Collection: The Best of Scorpions,Still Loving You,0.99,1693,312,2012-10-01 00:00:00
+180,House Of Pain,House of Pain,Salutations,0.99,1694,313,2012-10-06 00:00:00
+180,House Of Pain,House of Pain,Commercial 2,0.99,1695,313,2012-10-06 00:00:00
+36,O Rappa,Radio Brasil (O Som da Jovem Vanguarda) - Seleccao de Henrique Amaro,Instinto Colectivo,0.99,1696,313,2012-10-06 00:00:00
+36,O Rappa,Radio Brasil (O Som da Jovem Vanguarda) - Seleccao de Henrique Amaro,Armadura,0.99,1697,313,2012-10-06 00:00:00
+149,Lost,"LOST, Season 4","Past, Present, and Future",1.99,1698,313,2012-10-06 00:00:00
+149,Lost,"LOST, Season 4",Ji Yeon,1.99,1699,313,2012-10-06 00:00:00
+200,The Posies,Every Kind of Light,Love Comes,0.99,1700,313,2012-10-06 00:00:00
+149,Lost,"LOST, Season 4","There's No Place Like Home, Pt. 3",1.99,1701,313,2012-10-06 00:00:00
+204,Temple of the Dog,Temple of the Dog,Four Walled World,0.99,1702,313,2012-10-06 00:00:00
+205,Chris Cornell,Carry On,Billie Jean,0.99,1703,313,2012-10-06 00:00:00
+8,Audioslave,Revelations,Sound of a Gun,0.99,1704,313,2012-10-06 00:00:00
+8,Audioslave,Revelations,Moth,0.99,1705,313,2012-10-06 00:00:00
+212,Yo-Yo Ma,Bach: The Cello Suites,"Suite for Solo Cello No. 1 in G Major, BWV 1007: I. Pr�lude",0.99,1706,313,2012-10-06 00:00:00
+221,Sir Georg Solti & Wiener Philharmoniker,Wagner: Favourite Overtures,Die Walk�re: The Ride of the Valkyries,0.99,1707,313,2012-10-06 00:00:00
+233,Chicago Symphony Orchestra & Fritz Reiner,Scheherazade,"Scheherazade, Op. 35: I. The Sea and Sindbad's Ship",0.99,1708,314,2012-10-14 00:00:00
+234,Orchestra of The Age of Enlightenment,Bach: The Brandenburg Concertos,"Concerto No.2 in F Major, BWV1047, I. Allegro",0.99,1709,315,2012-10-27 00:00:00
+235,"Emanuel Ax, Eugene Ormandy & Philadelphia Orchestra",Chopin: Piano Concertos Nos. 1 & 2,"Concerto for Piano No. 2 in F Minor, Op. 21: II. Larghetto",0.99,1710,315,2012-10-27 00:00:00
+237,Berliner Philharmoniker & Hans Rosbaud,Sibelius: Finlandia,"Karelia Suite, Op.11: 2. Ballade (Tempo Di Menuetto)",0.99,1711,316,2012-10-27 00:00:00
+214,Academy of St. Martin in the Fields & Sir Neville Marriner,The World of Classical Favourites,Fantasia On Greensleeves,0.99,1712,316,2012-10-27 00:00:00
+241,"Felix Schmidt, London Symphony Orchestra & Rafael Fr�hbeck de Burgos",Elgar: Cello Concerto & Vaughan Williams: Fantasias,"Concerto for Cello and Orchestra in E minor, Op. 85: I. Adagio - Moderato",0.99,1713,317,2012-10-28 00:00:00
+243,Antal Dor�ti & London Symphony Orchestra,"Tchaikovsky: 1812 Festival Overture, Op.49, Capriccio Italien & Beethoven: Wellington's Victory","Wellington's Victory or the Battle Symphony, Op.91: 2. Symphony of Triumph",0.99,1714,317,2012-10-28 00:00:00
+245,Michael Tilson Thomas & San Francisco Symphony,Prokofiev: Romeo & Juliet,Romeo et Juliette: No. 11 - Danse des Chevaliers,0.99,1715,317,2012-10-28 00:00:00
+245,Michael Tilson Thomas & San Francisco Symphony,Berlioz: Symphonie Fantastique,"Symphonie Fantastique, Op. 14: V. Songe d'une nuit du sabbat",0.99,1716,317,2012-10-28 00:00:00
+248,Berliner Philharmoniker & Herbert Von Karajan,Grieg: Peer Gynt Suites & Sibelius: Pell�as et M�lisande,"Peer Gynt Suite No.1, Op.46: 1. Morning Mood",0.99,1717,318,2012-10-29 00:00:00
+248,Berliner Philharmoniker & Herbert Von Karajan,Mozart: Symphonies Nos. 40 & 41,"Symphony No. 41 in C Major, K. 551, ""Jupiter"": IV. Molto allegro",0.99,1718,318,2012-10-29 00:00:00
+252,Amy Winehouse,Back to Black,Just Friends,0.99,1719,318,2012-10-29 00:00:00
+252,Amy Winehouse,Back to Black,Wake Up Alone,0.99,1720,318,2012-10-29 00:00:00
+252,Amy Winehouse,Back to Black,Rehab (Hot Chip Remix),0.99,1721,318,2012-10-29 00:00:00
+252,Amy Winehouse,Frank,I Heard Love Is Blind,0.99,1722,318,2012-10-29 00:00:00
+252,Amy Winehouse,Frank,Help Yourself,0.99,1723,319,2012-11-01 00:00:00
+257,"Academy of St. Martin in the Fields, Sir Neville Marriner & Thurston Dart",Bach: Orchestral Suites Nos. 1 - 4,"Suite No. 3 in D, BWV 1068: III. Gavotte I & II",0.99,1724,319,2012-11-01 00:00:00
+263,"Equale Brass Ensemble, John Eliot Gardiner & Munich Monteverdi Orchestra and Choir",Purcell: Music for the Queen Mary,"Music for the Funeral of Queen Mary: VI. ""Thou Knowest, Lord, the Secrets of Our Hearts""",0.99,1725,319,2012-11-01 00:00:00
+267,G�teborgs Symfoniker & Neeme J�rvi,Nielsen: The Six Symphonies,"Symphony No. 2, Op. 16 -  ""The Four Temperaments"": II. Allegro Comodo e Flemmatico",0.99,1726,319,2012-11-01 00:00:00
+272,Emerson String Quartet,Schubert: The Late String Quartets & String Quintet (3 CD's),"String Quartet No. 12 in C Minor, D. 703 ""Quartettsatz"": II. Andante - Allegro assai",0.99,1727,319,2012-11-01 00:00:00
+2,Accept,Restless and Wild,Fast As a Shark,0.99,1728,319,2012-11-01 00:00:00
+1,AC/DC,For Those About To Rock We Salute You,Snowballed,0.99,1729,319,2012-11-01 00:00:00
+1,AC/DC,Let There Be Rock,Go Down,0.99,1730,319,2012-11-01 00:00:00
+1,AC/DC,Let There Be Rock,Hell Ain't A Bad Place To Be,0.99,1731,319,2012-11-01 00:00:00
+3,Aerosmith,Big Ones,Amazing,0.99,1732,320,2012-11-06 00:00:00
+4,Alanis Morissette,Jagged Little Pill,You Oughta Know,0.99,1733,320,2012-11-06 00:00:00
+4,Alanis Morissette,Jagged Little Pill,Not The Doctor,0.99,1734,320,2012-11-06 00:00:00
+5,Alice In Chains,Facelift,It Ain't Like That,0.99,1735,320,2012-11-06 00:00:00
+6,Ant�nio Carlos Jobim,Warner 25 Anos,Por Causa De Voc�,0.99,1736,320,2012-11-06 00:00:00
+6,Ant�nio Carlos Jobim,Warner 25 Anos,O Boto (B�to),0.99,1737,320,2012-11-06 00:00:00
+7,Apocalyptica,Plays Metallica By Four Cellos,Welcome Home (Sanitarium),0.99,1738,320,2012-11-06 00:00:00
+8,Audioslave,Audioslave,Exploder,0.99,1739,320,2012-11-06 00:00:00
+8,Audioslave,Out Of Exile,Doesn't Remind Me,0.99,1740,320,2012-11-06 00:00:00
+9,BackBeat,BackBeat Soundtrack,Money,0.99,1741,320,2012-11-06 00:00:00
+9,BackBeat,BackBeat Soundtrack,Carol,0.99,1742,320,2012-11-06 00:00:00
+10,Billy Cobham,The Best Of Billy Cobham,Solo-Panhandler,0.99,1743,320,2012-11-06 00:00:00
+11,Black Label Society,Alcohol Fueled Brewtality Live! [Disc 1],Bored To Tears,0.99,1744,320,2012-11-06 00:00:00
+11,Black Label Society,Alcohol Fueled Brewtality Live! [Disc 2],Blood In The Wall,0.99,1745,320,2012-11-06 00:00:00
+12,Black Sabbath,Black Sabbath Vol. 4 (Remaster),Snowblind,0.99,1746,321,2012-11-14 00:00:00
+12,Black Sabbath,Black Sabbath Vol. 4 (Remaster),Cornucopia,0.99,1747,322,2012-11-27 00:00:00
+12,Black Sabbath,Black Sabbath Vol. 4 (Remaster),Laguna Sunrise,0.99,1748,322,2012-11-27 00:00:00
+12,Black Sabbath,Black Sabbath Vol. 4 (Remaster),Under The Sun/Every Day Comes and Goes,0.99,1749,323,2012-11-27 00:00:00
+13,Body Count,Body Count,Body Count's In The House,0.99,1750,323,2012-11-27 00:00:00
+13,Body Count,Body Count,Body Count,0.99,1751,324,2012-11-28 00:00:00
+13,Body Count,Body Count,Bowels Of The Devil,0.99,1752,324,2012-11-28 00:00:00
+13,Body Count,Body Count,KKK Bitch,0.99,1753,324,2012-11-28 00:00:00
+13,Body Count,Body Count,Voodoo,0.99,1754,324,2012-11-28 00:00:00
+13,Body Count,Body Count,Evil Dick,0.99,1755,325,2012-11-29 00:00:00
+14,Bruce Dickinson,Chemical Wedding,King In Crimson,0.99,1756,325,2012-11-29 00:00:00
+14,Bruce Dickinson,Chemical Wedding,Book Of Thel,0.99,1757,325,2012-11-29 00:00:00
+14,Bruce Dickinson,Chemical Wedding,Machine Men,0.99,1758,325,2012-11-29 00:00:00
+15,Buddy Guy,The Best Of Buddy Guy - The Millenium Collection,Let Me Love You Baby,0.99,1759,325,2012-11-29 00:00:00
+15,Buddy Guy,The Best Of Buddy Guy - The Millenium Collection,Leave My Girl Alone,0.99,1760,325,2012-11-29 00:00:00
+16,Caetano Veloso,Prenda Minha,Jorge Da Capad�cia,0.99,1761,326,2012-12-02 00:00:00
+16,Caetano Veloso,Prenda Minha,Bem Devagar,0.99,1762,326,2012-12-02 00:00:00
+16,Caetano Veloso,Prenda Minha,Mel,0.99,1763,326,2012-12-02 00:00:00
+16,Caetano Veloso,Sozinho Remix Ao Vivo,Sozinho (Hitmakers Classic Mix),0.99,1764,326,2012-12-02 00:00:00
+17,Chico Buarque,Minha Historia,Samba De Orly,0.99,1765,326,2012-12-02 00:00:00
+17,Chico Buarque,Minha Historia,Apesar De Voc�,0.99,1766,326,2012-12-02 00:00:00
+17,Chico Buarque,Minha Historia,Geni E O Zepelim,0.99,1767,326,2012-12-02 00:00:00
+18,Chico Science & Na��o Zumbi,Afrociberdelia,O Cidad�o Do Mundo,0.99,1768,326,2012-12-02 00:00:00
+18,Chico Science & Na��o Zumbi,Afrociberdelia,Maracatu At�mico,0.99,1769,326,2012-12-02 00:00:00
+18,Chico Science & Na��o Zumbi,Afrociberdelia,Interlude Zumbi,0.99,1770,327,2012-12-07 00:00:00
+18,Chico Science & Na��o Zumbi,Da Lama Ao Caos,Rios Pontes & Overdrives,0.99,1771,327,2012-12-07 00:00:00
+18,Chico Science & Na��o Zumbi,Da Lama Ao Caos,Lixo Do Mangue,0.99,1772,327,2012-12-07 00:00:00
+19,Cidade Negra,Ac�stico MTV [Live],Podes Crer,0.99,1773,327,2012-12-07 00:00:00
+19,Cidade Negra,Ac�stico MTV [Live],A Cor Do Sol,0.99,1774,327,2012-12-07 00:00:00
+19,Cidade Negra,Cidade Negra - Hits,Doutor,0.99,1775,327,2012-12-07 00:00:00
+20,Cl�udio Zoli,Na Pista,Linha Do Equador,0.99,1776,327,2012-12-07 00:00:00
+21,Various Artists,Ax� Bahia 2001,TriboTchan,0.99,1777,327,2012-12-07 00:00:00
+21,Various Artists,Ax� Bahia 2001,Reggae Tchan,0.99,1778,327,2012-12-07 00:00:00
+22,Led Zeppelin,BBC Sessions [Disc 1] [Live],Communication Breakdown(2),0.99,1779,327,2012-12-07 00:00:00
+23,Frank Zappa & Captain Beefheart,Bongo Fury,Carolina Hard-Core Ecstasy,0.99,1780,327,2012-12-07 00:00:00
+21,Various Artists,Carnaval 2001,X-9 2001,0.99,1781,327,2012-12-07 00:00:00
+21,Various Artists,Carnaval 2001,Ipiranga 2001,0.99,1782,327,2012-12-07 00:00:00
+24,Marcos Valle,Chill: Brazil (Disc 1),�gua de Beber,0.99,1783,327,2012-12-07 00:00:00
+6,Ant�nio Carlos Jobim,Chill: Brazil (Disc 2),Tarde Em Itapo�,0.99,1784,328,2012-12-15 00:00:00
+6,Ant�nio Carlos Jobim,Chill: Brazil (Disc 2),Tanto Tempo,0.99,1785,329,2012-12-28 00:00:00
+6,Ant�nio Carlos Jobim,Chill: Brazil (Disc 2),Eu Vim Da Bahia - Live,0.99,1786,329,2012-12-28 00:00:00
+6,Ant�nio Carlos Jobim,Chill: Brazil (Disc 2),Linha Do Horizonte,0.99,1787,330,2012-12-28 00:00:00
+6,Ant�nio Carlos Jobim,Chill: Brazil (Disc 2),Abrir A Porta,0.99,1788,330,2012-12-28 00:00:00
+6,Ant�nio Carlos Jobim,Chill: Brazil (Disc 2),Momentos Que Marcam,0.99,1789,331,2012-12-29 00:00:00
+6,Ant�nio Carlos Jobim,Chill: Brazil (Disc 2),Bumbo Da Mangueira,0.99,1790,331,2012-12-29 00:00:00
+6,Ant�nio Carlos Jobim,Chill: Brazil (Disc 2),Santo Antonio,0.99,1791,331,2012-12-29 00:00:00
+6,Ant�nio Carlos Jobim,Chill: Brazil (Disc 2),S� Tinha De Ser Com Voc�,0.99,1792,331,2012-12-29 00:00:00
+50,Metallica,Garage Inc. (Disc 1),Turn The Page,0.99,1793,332,2012-12-30 00:00:00
+50,Metallica,Garage Inc. (Disc 1),Astronomy,0.99,1794,332,2012-12-30 00:00:00
+51,Queen,Greatest Hits II,A Kind Of Magic,0.99,1795,332,2012-12-30 00:00:00
+51,Queen,Greatest Hits II,I Want To Break Free,0.99,1796,332,2012-12-30 00:00:00
+51,Queen,Greatest Hits II,Who Wants To Live Forever,0.99,1797,332,2012-12-30 00:00:00
+51,Queen,Greatest Hits II,The Invisible Man,0.99,1798,332,2012-12-30 00:00:00
+52,Kiss,Greatest Kiss,Black Diamond,0.99,1799,333,2013-01-02 00:00:00
+52,Kiss,Greatest Kiss,Shock Me,0.99,1800,333,2013-01-02 00:00:00
+52,Kiss,Greatest Kiss,Calling Dr. Love,0.99,1801,333,2013-01-02 00:00:00
+52,Kiss,Greatest Kiss,God Gave Rock 'n' Roll To You,0.99,1802,333,2013-01-02 00:00:00
+53,Spyro Gyra,Heart of the Night,Surrender,0.99,1803,333,2013-01-02 00:00:00
+53,Spyro Gyra,Heart of the Night,Best Thing,0.99,1804,333,2013-01-02 00:00:00
+54,Green Day,International Superhits,When I Come Around,0.99,1805,333,2013-01-02 00:00:00
+54,Green Day,International Superhits,Walking Contradiction,0.99,1806,333,2013-01-02 00:00:00
+54,Green Day,International Superhits,Minority,0.99,1807,333,2013-01-02 00:00:00
+55,David Coverdale,Into The Light,Slave,0.99,1808,334,2013-01-07 00:00:00
+56,Gonzaguinha,Meus Momentos,Come�aria Tudo Outra Vez,0.99,1809,334,2013-01-07 00:00:00
+56,Gonzaguinha,Meus Momentos,Comportamento Geral,0.99,1810,334,2013-01-07 00:00:00
+17,Chico Buarque,Minha Historia,Menino Do Rio,0.99,1811,334,2013-01-07 00:00:00
+57,Os Mutantes,Minha Hist�ria,Ando Meio Desligado,0.99,1812,334,2013-01-07 00:00:00
+57,Os Mutantes,Minha Hist�ria,Rita Lee,0.99,1813,334,2013-01-07 00:00:00
+58,Deep Purple,MK III The Final Concerts [Disc 1],Smoke On The Water,0.99,1814,334,2013-01-07 00:00:00
+21,Various Artists,Sambas De Enredo 2001,Beija-Flor,0.99,1815,334,2013-01-07 00:00:00
+21,Various Artists,Sambas De Enredo 2001,Caprichosos,0.99,1816,334,2013-01-07 00:00:00
+59,Santana,Supernatural,Do You Like The Way,0.99,1817,334,2013-01-07 00:00:00
+37,Ed Motta,The Best of Ed Motta,Manuel,0.99,1818,334,2013-01-07 00:00:00
+37,Ed Motta,The Best of Ed Motta,Do You Have Other Loves?,0.99,1819,334,2013-01-07 00:00:00
+68,Miles Davis,The Essential Miles Davis [Disc 1],'Round Midnight,0.99,1820,334,2013-01-07 00:00:00
+68,Miles Davis,The Essential Miles Davis [Disc 2],E.S.P.,0.99,1821,334,2013-01-07 00:00:00
+69,Gene Krupa,Up An' Atom,Blue Rythm Fantasy,0.99,1822,335,2013-01-15 00:00:00
+69,Gene Krupa,Up An' Atom,Drum Boogie,0.99,1823,336,2013-01-28 00:00:00
+69,Gene Krupa,Up An' Atom,Let Me Off Uptown,0.99,1824,336,2013-01-28 00:00:00
+69,Gene Krupa,Up An' Atom,Opus No.1,0.99,1825,337,2013-01-28 00:00:00
+69,Gene Krupa,Up An' Atom,How High The Moon,0.99,1826,337,2013-01-28 00:00:00
+69,Gene Krupa,Up An' Atom,Up An' Atom,0.99,1827,338,2013-01-29 00:00:00
+69,Gene Krupa,Up An' Atom,Lemon Drop,0.99,1828,338,2013-01-29 00:00:00
+69,Gene Krupa,Up An' Atom,Overtime,0.99,1829,338,2013-01-29 00:00:00
+69,Gene Krupa,Up An' Atom,Don't Take Your Love From Me,0.99,1830,338,2013-01-29 00:00:00
+69,Gene Krupa,Up An' Atom,Jungle Drums,0.99,1831,339,2013-01-30 00:00:00
+70,Toquinho & Vin�cius,Vin�cius De Moraes - Sem Limite,Pot-Pourri N.� 4,0.99,1832,339,2013-01-30 00:00:00
+70,Toquinho & Vin�cius,Vin�cius De Moraes - Sem Limite,Pot-Pourri N.� 5,0.99,1833,339,2013-01-30 00:00:00
+70,Toquinho & Vin�cius,Vin�cius De Moraes - Sem Limite,Por Que Ser�,0.99,1834,339,2013-01-30 00:00:00
+70,Toquinho & Vin�cius,Vin�cius De Moraes - Sem Limite,Samba Em Prel�dio,0.99,1835,339,2013-01-30 00:00:00
+21,Various Artists,Vozes do MPB,Ch�o de Giz (Elba Ramalho),0.99,1836,339,2013-01-30 00:00:00
+21,Various Artists,Vozes do MPB,Ca�ador de Mim (S� & Guarabyra),0.99,1837,340,2013-02-02 00:00:00
+76,Creedence Clearwater Revival,"Chronicle, Vol. 1",Susie Q,0.99,1838,340,2013-02-02 00:00:00
+76,Creedence Clearwater Revival,"Chronicle, Vol. 1",Commotion,0.99,1839,340,2013-02-02 00:00:00
+76,Creedence Clearwater Revival,"Chronicle, Vol. 1",Run Through The Jungle,0.99,1840,340,2013-02-02 00:00:00
+76,Creedence Clearwater Revival,"Chronicle, Vol. 1",Sweet Hitch-Hiker,0.99,1841,340,2013-02-02 00:00:00
+76,Creedence Clearwater Revival,"Chronicle, Vol. 2",Tombstone Shadow,0.99,1842,340,2013-02-02 00:00:00
+76,Creedence Clearwater Revival,"Chronicle, Vol. 2",The Midnight Special,0.99,1843,340,2013-02-02 00:00:00
+76,Creedence Clearwater Revival,"Chronicle, Vol. 2",Molina,0.99,1844,340,2013-02-02 00:00:00
+77,C�ssia Eller,C�ssia Eller - Cole��o Sem Limite [Disc 2],Eu Sou Neguinha (Ao Vivo),0.99,1845,340,2013-02-02 00:00:00
+77,C�ssia Eller,C�ssia Eller - Cole��o Sem Limite [Disc 2],Palavras Ao Vento,0.99,1846,341,2013-02-07 00:00:00
+77,C�ssia Eller,C�ssia Eller - Sem Limite [Disc 1],Metr�. Linha 743,0.99,1847,341,2013-02-07 00:00:00
+77,C�ssia Eller,C�ssia Eller - Sem Limite [Disc 1],Mis Penas Lloraba Yo (Ao Vivo) Soy Gitano (Tangos),0.99,1848,341,2013-02-07 00:00:00
+58,Deep Purple,Come Taste The Band,You Keep On Moving,0.99,1849,341,2013-02-07 00:00:00
+58,Deep Purple,Fireball,No No No,0.99,1850,341,2013-02-07 00:00:00
+58,Deep Purple,Knocking at Your Back Door: The Best Of Deep Purple in the 80's,Nobody's Home,0.99,1851,341,2013-02-07 00:00:00
+58,Deep Purple,Machine Head,Maybe I'm A Leo,0.99,1852,341,2013-02-07 00:00:00
+58,Deep Purple,Purpendicular,Sometimes I Feel Like Screaming,0.99,1853,341,2013-02-07 00:00:00
+58,Deep Purple,Slaves And Masters,King Of Dreams,0.99,1854,341,2013-02-07 00:00:00
+58,Deep Purple,Stormbringer,Stormbringer,0.99,1855,341,2013-02-07 00:00:00
+58,Deep Purple,The Battle Rages On,The Battle Rages On,0.99,1856,341,2013-02-07 00:00:00
+58,Deep Purple,The Battle Rages On,One Man's Meat,0.99,1857,341,2013-02-07 00:00:00
+78,Def Leppard,Vault: Def Leppard's Greatest Hits,When Love & Hate Collide,0.99,1858,341,2013-02-07 00:00:00
+79,Dennis Chambers,Outbreak,Otay,0.99,1859,341,2013-02-07 00:00:00
+80,Djavan,Djavan Ao Vivo - Vol. 02,�libi,0.99,1860,342,2013-02-15 00:00:00
+80,Djavan,Djavan Ao Vivo - Vol. 02,Esquinas,0.99,1861,343,2013-02-28 00:00:00
+80,Djavan,Djavan Ao Vivo - Vol. 02,Se...,0.99,1862,343,2013-02-28 00:00:00
+80,Djavan,Djavan Ao Vivo - Vol. 02,Lil�s,0.99,1863,344,2013-02-28 00:00:00
+80,Djavan,Djavan Ao Vivo - Vol. 02,Um Amor Puro,0.99,1864,344,2013-02-28 00:00:00
+80,Djavan,Djavan Ao Vivo - Vol. 1,Nem Um Dia,0.99,1865,345,2013-03-01 00:00:00
+80,Djavan,Djavan Ao Vivo - Vol. 1,A�ai,0.99,1866,345,2013-03-01 00:00:00
+80,Djavan,Djavan Ao Vivo - Vol. 1,Flor De Lis,0.99,1867,345,2013-03-01 00:00:00
+80,Djavan,Djavan Ao Vivo - Vol. 1,Azul,0.99,1868,345,2013-03-01 00:00:00
+80,Djavan,Djavan Ao Vivo - Vol. 1,Acelerou,0.99,1869,346,2013-03-02 00:00:00
+41,Elis Regina,Elis Regina-Minha Hist�ria,Atr�s da Porta,0.99,1870,346,2013-03-02 00:00:00
+41,Elis Regina,Elis Regina-Minha Hist�ria,"Al�, Al�, Marciano",0.99,1871,346,2013-03-02 00:00:00
+41,Elis Regina,Elis Regina-Minha Hist�ria,As Apar�ncias Enganam,0.99,1872,346,2013-03-02 00:00:00
+81,Eric Clapton,The Cream Of Clapton,Layla,0.99,1873,346,2013-03-02 00:00:00
+81,Eric Clapton,The Cream Of Clapton,Crossroads,0.99,1874,346,2013-03-02 00:00:00
+81,Eric Clapton,The Cream Of Clapton,After Midnight,0.99,1875,347,2013-03-05 00:00:00
+81,Eric Clapton,The Cream Of Clapton,Promises,0.99,1876,347,2013-03-05 00:00:00
+81,Eric Clapton,Unplugged,Lonely Stranger,0.99,1877,347,2013-03-05 00:00:00
+81,Eric Clapton,Unplugged,San Francisco Bay Blues,0.99,1878,347,2013-03-05 00:00:00
+82,Faith No More,Album Of The Year,Last Cup Of Sorrow,0.99,1879,347,2013-03-05 00:00:00
+82,Faith No More,Album Of The Year,Got That Feeling,0.99,1880,347,2013-03-05 00:00:00
+82,Faith No More,Angel Dust,Midlife Crisis,0.99,1881,347,2013-03-05 00:00:00
+82,Faith No More,Angel Dust,Be Aggressive,0.99,1882,347,2013-03-05 00:00:00
+82,Faith No More,King For A Day Fool For A Lifetime,Get Out,0.99,1883,347,2013-03-05 00:00:00
+82,Faith No More,King For A Day Fool For A Lifetime,Take This Bottle,0.99,1884,348,2013-03-10 00:00:00
+82,Faith No More,The Real Thing,Surprise! You're Dead!,0.99,1885,348,2013-03-10 00:00:00
+83,Falamansa,Deixa Entrar,Falamansa Song,0.99,1886,348,2013-03-10 00:00:00
+83,Falamansa,Deixa Entrar,Medo De Escuro,0.99,1887,348,2013-03-10 00:00:00
+84,Foo Fighters,In Your Honor [Disc 1],The Last Song,0.99,1888,348,2013-03-10 00:00:00
+84,Foo Fighters,In Your Honor [Disc 2],Friend Of A Friend,0.99,1889,348,2013-03-10 00:00:00
+84,Foo Fighters,One By One,Times Like These,0.99,1890,348,2013-03-10 00:00:00
+84,Foo Fighters,The Colour And The Shape,Monkey Wrench,0.99,1891,348,2013-03-10 00:00:00
+84,Foo Fighters,The Colour And The Shape,Everlong,0.99,1892,348,2013-03-10 00:00:00
+85,Frank Sinatra,My Way: The Best Of Frank Sinatra [Disc 1],What Now My Love,0.99,1893,348,2013-03-10 00:00:00
+85,Frank Sinatra,My Way: The Best Of Frank Sinatra [Disc 1],It Was A Very Good Year,0.99,1894,348,2013-03-10 00:00:00
+86,Funk Como Le Gusta,Roda De Funk,Entrando Na Sua (Intro),0.99,1895,348,2013-03-10 00:00:00
+86,Funk Como Le Gusta,Roda De Funk,Dujji,0.99,1896,348,2013-03-10 00:00:00
+27,Gilberto Gil,As Can��es de Eu Tu Eles,Esperando Na Janela,0.99,1897,348,2013-03-10 00:00:00
+27,Gilberto Gil,Quanta Gente Veio Ver (Live),Is This Love (Live),0.99,1898,349,2013-03-18 00:00:00
+27,Gilberto Gil,Quanta Gente Veio Ver (Live),Stir It Up (Live),0.99,1899,350,2013-03-31 00:00:00
+27,Gilberto Gil,Quanta Gente Veio Ver (Live),Refavela (Live),0.99,1900,350,2013-03-31 00:00:00
+27,Gilberto Gil,Quanta Gente Veio Ver (Live),Quanta (Live),0.99,1901,351,2013-03-31 00:00:00
+27,Gilberto Gil,Quanta Gente Veio Ver (Live),Pela Internet (Live),0.99,1902,351,2013-03-31 00:00:00
+27,Gilberto Gil,Quanta Gente Veio Ver (Live),Opachor� (Live),0.99,1903,352,2013-04-01 00:00:00
+27,Gilberto Gil,Quanta Gente Veio Ver (Live),A Novidade (Live),0.99,1904,352,2013-04-01 00:00:00
+27,Gilberto Gil,Quanta Gente Veio Ver (Live),De Ouro E Marfim (Live),0.99,1905,352,2013-04-01 00:00:00
+27,Gilberto Gil,Quanta Gente Veio ver--B�nus De Carnaval,Lamento De Carnaval,0.99,1906,352,2013-04-01 00:00:00
+81,Eric Clapton,Unplugged,Refazenda,0.99,1907,353,2013-04-02 00:00:00
+81,Eric Clapton,Unplugged,A Paz,0.99,1908,353,2013-04-02 00:00:00
+81,Eric Clapton,Unplugged,Tempo Rei,0.99,1909,353,2013-04-02 00:00:00
+81,Eric Clapton,Unplugged,Toda Menina Baiana,0.99,1910,353,2013-04-02 00:00:00
+87,Godsmack,Faceless,Changes,0.99,1911,353,2013-04-02 00:00:00
+87,Godsmack,Faceless,I Fucking Hate You,0.99,1912,353,2013-04-02 00:00:00
+54,Green Day,American Idiot,American Idiot,0.99,1913,354,2013-04-05 00:00:00
+54,Green Day,American Idiot,Give Me Novacaine,0.99,1914,354,2013-04-05 00:00:00
+54,Green Day,American Idiot,Whatsername,0.99,1915,354,2013-04-05 00:00:00
+88,Guns N' Roses,Appetite for Destruction,Paradise City,0.99,1916,354,2013-04-05 00:00:00
+88,Guns N' Roses,Appetite for Destruction,Rocket Queen,0.99,1917,354,2013-04-05 00:00:00
+88,Guns N' Roses,Use Your Illusion I,You Ain't the First,0.99,1918,354,2013-04-05 00:00:00
+88,Guns N' Roses,Use Your Illusion I,Garden of Eden,0.99,1919,354,2013-04-05 00:00:00
+88,Guns N' Roses,Use Your Illusion II,14 Years,0.99,1920,354,2013-04-05 00:00:00
+88,Guns N' Roses,Use Your Illusion II,Pretty Tied Up,0.99,1921,354,2013-04-05 00:00:00
+89,Incognito,Blue Moods,Magnetic Ocean,0.99,1922,355,2013-04-10 00:00:00
+89,Incognito,Blue Moods,She Wears Black,0.99,1923,355,2013-04-10 00:00:00
+90,Iron Maiden,A Matter of Life and Death,For the Greater Good of God,0.99,1924,355,2013-04-10 00:00:00
+90,Iron Maiden,A Real Dead One,Where Eagles Dare,0.99,1925,355,2013-04-10 00:00:00
+90,Iron Maiden,A Real Live One,Can I Play With Madness,0.99,1926,355,2013-04-10 00:00:00
+90,Iron Maiden,Brave New World,The Wicker Man,0.99,1927,355,2013-04-10 00:00:00
+90,Iron Maiden,Brave New World,The Thin Line Between Love & Hate,0.99,1928,355,2013-04-10 00:00:00
+90,Iron Maiden,Dance Of Death,Face In The Sand,0.99,1929,355,2013-04-10 00:00:00
+90,Iron Maiden,Fear Of The Dark,The Fugitive,0.99,1930,355,2013-04-10 00:00:00
+90,Iron Maiden,Iron Maiden,04 - Running Free,0.99,1931,355,2013-04-10 00:00:00
+90,Iron Maiden,Killers,Another Life,0.99,1932,355,2013-04-10 00:00:00
+90,Iron Maiden,Live After Death,2 Minutes To Midnight,0.99,1933,355,2013-04-10 00:00:00
+90,Iron Maiden,Live After Death,Run To The Hills,0.99,1934,355,2013-04-10 00:00:00
+90,Iron Maiden,Live At Donington 1992 (Disc 1),Wrathchild,0.99,1935,355,2013-04-10 00:00:00
+90,Iron Maiden,Live At Donington 1992 (Disc 2),Hallowed Be Thy Name,0.99,1936,356,2013-04-18 00:00:00
+90,Iron Maiden,Live At Donington 1992 (Disc 2),The Trooper,0.99,1937,357,2013-05-01 00:00:00
+90,Iron Maiden,Live At Donington 1992 (Disc 2),Sanctuary,0.99,1938,357,2013-05-01 00:00:00
+90,Iron Maiden,No Prayer For The Dying,Tailgunner,0.99,1939,358,2013-05-01 00:00:00
+90,Iron Maiden,No Prayer For The Dying,No Prayer For The Dying,0.99,1940,358,2013-05-01 00:00:00
+90,Iron Maiden,No Prayer For The Dying,Fates Warning,0.99,1941,359,2013-05-02 00:00:00
+90,Iron Maiden,No Prayer For The Dying,Run Silent Run Deep,0.99,1942,359,2013-05-02 00:00:00
+90,Iron Maiden,No Prayer For The Dying,Bring Your Daughter... ...To The Slaughter,0.99,1943,359,2013-05-02 00:00:00
+90,Iron Maiden,Piece Of Mind,Where Eagles Dare,0.99,1944,359,2013-05-02 00:00:00
+90,Iron Maiden,Piece Of Mind,The Trooper,0.99,1945,360,2013-05-03 00:00:00
+90,Iron Maiden,Piece Of Mind,To Tame A Land,0.99,1946,360,2013-05-03 00:00:00
+90,Iron Maiden,Powerslave,Flash of The Blade,0.99,1947,360,2013-05-03 00:00:00
+90,Iron Maiden,Powerslave,Rime of the Ancient Mariner,0.99,1948,360,2013-05-03 00:00:00
+90,Iron Maiden,Rock In Rio [CD1],Brave New World,0.99,1949,360,2013-05-03 00:00:00
+90,Iron Maiden,Rock In Rio [CD1],Sign Of The Cross,0.99,1950,360,2013-05-03 00:00:00
+90,Iron Maiden,Rock In Rio [CD2],Fear Of The Dark,0.99,1951,361,2013-05-06 00:00:00
+90,Iron Maiden,Seventh Son of a Seventh Son,Moonchild,0.99,1952,361,2013-05-06 00:00:00
+90,Iron Maiden,Seventh Son of a Seventh Son,The Clairvoyant,0.99,1953,361,2013-05-06 00:00:00
+90,Iron Maiden,Somewhere in Time,Stranger in a Strange Land,0.99,1954,361,2013-05-06 00:00:00
+90,Iron Maiden,The Number of The Beast,Gangland,0.99,1955,361,2013-05-06 00:00:00
+90,Iron Maiden,The X Factor,Sign Of The Cross,0.99,1956,361,2013-05-06 00:00:00
+90,Iron Maiden,The X Factor,Judgement Of Heaven,0.99,1957,361,2013-05-06 00:00:00
+90,Iron Maiden,Virtual XI,The Angel And The Gambler,0.99,1958,361,2013-05-06 00:00:00
+90,Iron Maiden,Virtual XI,Como Estais Amigos,0.99,1959,361,2013-05-06 00:00:00
+91,James Brown,Sex Machine,"Say It Loud, I'm Black And I'm Proud Pt.1",0.99,1960,362,2013-05-11 00:00:00
+91,James Brown,Sex Machine,I'm Real,0.99,1961,362,2013-05-11 00:00:00
+92,Jamiroquai,Emergency On Planet Earth,"Whatever It Is, I Just Can't Stop",0.99,1962,362,2013-05-11 00:00:00
+92,Jamiroquai,Synkronized,Destitute Illusions,0.99,1963,362,2013-05-11 00:00:00
+92,Jamiroquai,The Return Of The Space Cowboy,Light Years,0.99,1964,362,2013-05-11 00:00:00
+93,JET,Get Born,Are You Gonna Be My Girl,0.99,1965,362,2013-05-11 00:00:00
+93,JET,Get Born,Take It Or Leave It,0.99,1966,362,2013-05-11 00:00:00
+94,Jimi Hendrix,Are You Experienced?,May This Be Love,0.99,1967,362,2013-05-11 00:00:00
+94,Jimi Hendrix,Are You Experienced?,The Wind Cries Mary,0.99,1968,362,2013-05-11 00:00:00
+95,Joe Satriani,Surfing with the Alien (Remastered),Lords of Karma,0.99,1969,362,2013-05-11 00:00:00
+46,Jorge Ben,Jorge Ben Jor 25 Anos,Os Alquimistas Est�o Chegando,0.99,1970,362,2013-05-11 00:00:00
+96,Jota Quest,Jota Quest-1995,As Dores do Mundo,0.99,1971,362,2013-05-11 00:00:00
+96,Jota Quest,Jota Quest-1995,Sem Sentido,0.99,1972,362,2013-05-11 00:00:00
+97,Jo�o Suplicy,Cafezinho,Equinocio,0.99,1973,362,2013-05-11 00:00:00
+98,Judas Priest,Living After Midnight,You've Got Another Thing Comin',0.99,1974,363,2013-05-19 00:00:00
+98,Judas Priest,Living After Midnight,Turbo Lover,0.99,1975,364,2013-06-01 00:00:00
+98,Judas Priest,Living After Midnight,Freewheel Burning,0.99,1976,364,2013-06-01 00:00:00
+98,Judas Priest,Living After Midnight,Metal Meltdown,0.99,1977,365,2013-06-01 00:00:00
+98,Judas Priest,Living After Midnight,Diamonds And Rust (Live),0.99,1978,365,2013-06-01 00:00:00
+98,Judas Priest,Living After Midnight,Tyrant (Live),0.99,1979,366,2013-06-02 00:00:00
+52,Kiss,Unplugged [Live],Plaster Caster,0.99,1980,366,2013-06-02 00:00:00
+52,Kiss,Unplugged [Live],Do You Love Me,0.99,1981,366,2013-06-02 00:00:00
+52,Kiss,Unplugged [Live],Sure Know Something,0.99,1982,366,2013-06-02 00:00:00
+52,Kiss,Unplugged [Live],I Still Love You,0.99,1983,367,2013-06-03 00:00:00
+52,Kiss,Unplugged [Live],Nothin' To Lose,0.99,1984,367,2013-06-03 00:00:00
+22,Led Zeppelin,BBC Sessions [Disc 2] [Live],Since I've Been Loving You,0.99,1985,367,2013-06-03 00:00:00
+22,Led Zeppelin,BBC Sessions [Disc 2] [Live],Going To California,0.99,1986,367,2013-06-03 00:00:00
+22,Led Zeppelin,Coda,We're Gonna Groove,0.99,1987,367,2013-06-03 00:00:00
+22,Led Zeppelin,Coda,Ozone Baby,0.99,1988,367,2013-06-03 00:00:00
+22,Led Zeppelin,Houses Of The Holy,Over The Hills And Far Away,0.99,1989,368,2013-06-06 00:00:00
+22,Led Zeppelin,In Through The Out Door,In The Evening,0.99,1990,368,2013-06-06 00:00:00
+22,Led Zeppelin,In Through The Out Door,I'm Gonna Crawl,0.99,1991,368,2013-06-06 00:00:00
+22,Led Zeppelin,IV,Four Sticks,0.99,1992,368,2013-06-06 00:00:00
+22,Led Zeppelin,Led Zeppelin I,Dazed and Confused,0.99,1993,368,2013-06-06 00:00:00
+22,Led Zeppelin,Led Zeppelin II,Whole Lotta Love,0.99,1994,368,2013-06-06 00:00:00
+22,Led Zeppelin,Led Zeppelin II,Ramble On,0.99,1995,368,2013-06-06 00:00:00
+22,Led Zeppelin,Led Zeppelin III,Since I've Been Loving You,0.99,1996,368,2013-06-06 00:00:00
+22,Led Zeppelin,Led Zeppelin III,Hats Off To (Roy) Harper,0.99,1997,368,2013-06-06 00:00:00
+22,Led Zeppelin,Physical Graffiti [Disc 2],Sick Again,0.99,1998,369,2013-06-11 00:00:00
+22,Led Zeppelin,The Song Remains The Same (Disc 1),Celebration Day,0.99,1999,369,2013-06-11 00:00:00
+99,Legi�o Urbana,A TempestadeTempestade Ou O Livro Dos Dias,L'Avventura,0.99,2000,369,2013-06-11 00:00:00
+99,Legi�o Urbana,A TempestadeTempestade Ou O Livro Dos Dias,Leila,0.99,2001,369,2013-06-11 00:00:00
+99,Legi�o Urbana,Mais Do Mesmo,Tempo Perdido,0.99,2002,369,2013-06-11 00:00:00
+99,Legi�o Urbana,Mais Do Mesmo,Giz,0.99,2003,369,2013-06-11 00:00:00
+100,Lenny Kravitz,Greatest Hits,Mr. Cab Driver,0.99,2004,369,2013-06-11 00:00:00
+101,Lulu Santos,Lulu Santos - RCA 100 Anos De M�sica - �lbum 01,Assim Caminha A Humanidade,0.99,2005,369,2013-06-11 00:00:00
+101,Lulu Santos,Lulu Santos - RCA 100 Anos De M�sica - �lbum 01,Satisfa��o,0.99,2006,369,2013-06-11 00:00:00
+101,Lulu Santos,Lulu Santos - RCA 100 Anos De M�sica - �lbum 02,Ro-Que-Se-Da-Ne,0.99,2007,369,2013-06-11 00:00:00
+101,Lulu Santos,Lulu Santos - RCA 100 Anos De M�sica - �lbum 02,O �ltimo Rom�ntico (Ao Vivo),0.99,2008,369,2013-06-11 00:00:00
+102,Marillion,Misplaced Childhood,Childhoods End?,0.99,2009,369,2013-06-11 00:00:00
+103,Marisa Monte,Barulhinho Bom,Panis Et Circenses,0.99,2010,369,2013-06-11 00:00:00
+103,Marisa Monte,Barulhinho Bom,Segue O Seco,0.99,2011,369,2013-06-11 00:00:00
+104,Marvin Gaye,Seek And Shall Find: More Of The Best (1963-1981),"Abraham, Martin And John",0.99,2012,370,2013-06-19 00:00:00
+104,Marvin Gaye,Seek And Shall Find: More Of The Best (1963-1981),Save The Children,0.99,2013,371,2013-07-02 00:00:00
+104,Marvin Gaye,Seek And Shall Find: More Of The Best (1963-1981),You Sure Love To Ball,0.99,2014,371,2013-07-02 00:00:00
+104,Marvin Gaye,Seek And Shall Find: More Of The Best (1963-1981),Praise,0.99,2015,372,2013-07-02 00:00:00
+105,Men At Work,The Best Of Men At Work,Down Under,0.99,2016,372,2013-07-02 00:00:00
+105,Men At Work,The Best Of Men At Work,Be Good Johnny,0.99,2017,373,2013-07-03 00:00:00
+105,Men At Work,The Best Of Men At Work,Down by the Sea,0.99,2018,373,2013-07-03 00:00:00
+105,Men At Work,The Best Of Men At Work,It's a Mistake,0.99,2019,373,2013-07-03 00:00:00
+105,Men At Work,The Best Of Men At Work,Shakes and Ladders,0.99,2020,373,2013-07-03 00:00:00
+50,Metallica,Black Album,Holier Than Thou,0.99,2021,374,2013-07-04 00:00:00
+50,Metallica,Black Album,Through The Never,0.99,2022,374,2013-07-04 00:00:00
+50,Metallica,Black Album,My Friend Of Misery,0.99,2023,374,2013-07-04 00:00:00
+50,Metallica,Garage Inc. (Disc 2),The Wait,0.99,2024,374,2013-07-04 00:00:00
+50,Metallica,Garage Inc. (Disc 2),Blitzkrieg,0.99,2025,374,2013-07-04 00:00:00
+50,Metallica,Garage Inc. (Disc 2),So What,0.99,2026,374,2013-07-04 00:00:00
+50,Metallica,Kill 'Em All,Hit The Lights,0.99,2027,375,2013-07-07 00:00:00
+50,Metallica,Kill 'Em All,Phantom Lord,0.99,2028,375,2013-07-07 00:00:00
+50,Metallica,Load,The House Jack Built,0.99,2029,375,2013-07-07 00:00:00
+50,Metallica,Load,Poor Twisted Me,0.99,2030,375,2013-07-07 00:00:00
+50,Metallica,Master Of Puppets,Battery,0.99,2031,375,2013-07-07 00:00:00
+50,Metallica,Master Of Puppets,Orion,0.99,2032,375,2013-07-07 00:00:00
+50,Metallica,ReLoad,Better Than You,0.99,2033,375,2013-07-07 00:00:00
+50,Metallica,ReLoad,Low Man's Lyric,0.99,2034,375,2013-07-07 00:00:00
+50,Metallica,Ride The Lightning,Fade To Black,0.99,2035,375,2013-07-07 00:00:00
+50,Metallica,St. Anger,Invisible Kid,0.99,2036,376,2013-07-12 00:00:00
+50,Metallica,...And Justice For All,Eye Of The Beholder,0.99,2037,376,2013-07-12 00:00:00
+68,Miles Davis,Miles Ahead,The Duke,0.99,2038,376,2013-07-12 00:00:00
+68,Miles Davis,Miles Ahead,Blues For Pablo (Alternate Take),0.99,2039,376,2013-07-12 00:00:00
+42,Milton Nascimento,Milton Nascimento Ao Vivo,Menestrel Das Alagoas,0.99,2040,376,2013-07-12 00:00:00
+42,Milton Nascimento,Minas,Beijo Partido,0.99,2041,376,2013-07-12 00:00:00
+42,Milton Nascimento,Minas,Norwegian Wood,0.99,2042,376,2013-07-12 00:00:00
+106,Mot�rhead,Ace Of Spades,Jailbait,0.99,2043,376,2013-07-12 00:00:00
+108,M�nica Marianno,Demorou...,O Que Vai Em Meu Cora��o,0.99,2044,376,2013-07-12 00:00:00
+108,M�nica Marianno,Demorou...,A Mo�a e a Chuva,0.99,2045,376,2013-07-12 00:00:00
+109,M�tley Cr�e,Motley Crue Greatest Hits,Same Ol' Situation,0.99,2046,376,2013-07-12 00:00:00
+109,M�tley Cr�e,Motley Crue Greatest Hits,Shout At The Devil,0.99,2047,376,2013-07-12 00:00:00
+110,Nirvana,From The Muddy Banks Of The Wishkah [Live],Spank Thru,0.99,2048,376,2013-07-12 00:00:00
+110,Nirvana,Nevermind,Smells Like Teen Spirit,0.99,2049,376,2013-07-12 00:00:00
+111,O Ter�o,Compositores,Sangue Latino,0.99,2050,377,2013-07-20 00:00:00
+111,O Ter�o,Compositores,Folhas Secas,0.99,2051,378,2013-08-02 00:00:00
+111,O Ter�o,Compositores,Poeira,0.99,2052,378,2013-08-02 00:00:00
+111,O Ter�o,Compositores,Quem Mata A Mulher Mata O Melhor,0.99,2053,379,2013-08-02 00:00:00
+111,O Ter�o,Compositores,O Bra�o Da Minha Guitarra,0.99,2054,379,2013-08-02 00:00:00
+111,O Ter�o,Compositores,M�e Terra,0.99,2055,380,2013-08-03 00:00:00
+111,O Ter�o,Compositores,Menino De Rua,0.99,2056,380,2013-08-03 00:00:00
+111,O Ter�o,Compositores,Elza,0.99,2057,380,2013-08-03 00:00:00
+112,Olodum,Olodum,Nossa Gente (Avisa L�),0.99,2058,380,2013-08-03 00:00:00
+112,Olodum,Olodum,Todo Amor (Asas Da Liberdade),0.99,2059,381,2013-08-04 00:00:00
+112,Olodum,Olodum,Jeito Faceiro,0.99,2060,381,2013-08-04 00:00:00
+112,Olodum,Olodum,Olodum - Smile (Instrumental),0.99,2061,381,2013-08-04 00:00:00
+113,Os Paralamas Do Sucesso,Ac�stico MTV,"Um Amor, Um Lugar",0.99,2062,381,2013-08-04 00:00:00
+113,Os Paralamas Do Sucesso,Ac�stico MTV,Uns Dias,0.99,2063,381,2013-08-04 00:00:00
+113,Os Paralamas Do Sucesso,Ac�stico MTV,Bras�lia 5:31,0.99,2064,381,2013-08-04 00:00:00
+113,Os Paralamas Do Sucesso,Ac�stico MTV,Vamo Bat� Lata,0.99,2065,382,2013-08-07 00:00:00
+113,Os Paralamas Do Sucesso,Arquivo II,Mensagen De Amor (2000),0.99,2066,382,2013-08-07 00:00:00
+113,Os Paralamas Do Sucesso,Arquivo II,Saber Amar,0.99,2067,382,2013-08-07 00:00:00
+113,Os Paralamas Do Sucesso,Arquivo Os Paralamas Do Sucesso,Cinema Mudo,0.99,2068,382,2013-08-07 00:00:00
+113,Os Paralamas Do Sucesso,Arquivo Os Paralamas Do Sucesso,Meu Erro,0.99,2069,382,2013-08-07 00:00:00
+113,Os Paralamas Do Sucesso,Arquivo Os Paralamas Do Sucesso,Ser� Que Vai Chover?,0.99,2070,382,2013-08-07 00:00:00
+114,Ozzy Osbourne,No More Tears (Remastered),"Mama, I'm Coming Home",0.99,2071,382,2013-08-07 00:00:00
+114,Ozzy Osbourne,Tribute,Flying High Again,0.99,2072,382,2013-08-07 00:00:00
+114,Ozzy Osbourne,Tribute,Paranoid,0.99,2073,382,2013-08-07 00:00:00
+115,Page & Plant,Walking Into Clarksdale,Most High,0.99,2074,383,2013-08-12 00:00:00
+116,Passengers,Original Soundtracks 1,Your Blue Room,0.99,2075,383,2013-08-12 00:00:00
+116,Passengers,Original Soundtracks 1,Plot 180,0.99,2076,383,2013-08-12 00:00:00
+117,Paul D'Ianno,The Beast Live,Sanctuary,0.99,2077,383,2013-08-12 00:00:00
+118,Pearl Jam,Live On Two Legs [Live],Untitled,0.99,2078,383,2013-08-12 00:00:00
+118,Pearl Jam,Live On Two Legs [Live],Black,0.99,2079,383,2013-08-12 00:00:00
+118,Pearl Jam,Pearl Jam,Big Wave,0.99,2080,383,2013-08-12 00:00:00
+118,Pearl Jam,Riot Act,Cropduster,0.99,2081,383,2013-08-12 00:00:00
+118,Pearl Jam,Riot Act,1/2 Full,0.99,2082,383,2013-08-12 00:00:00
+118,Pearl Jam,Ten,Oceans,0.99,2083,383,2013-08-12 00:00:00
+118,Pearl Jam,Vs.,Dissident,0.99,2084,383,2013-08-12 00:00:00
+100,Lenny Kravitz,Greatest Hits,Don't Look Back,0.99,2085,383,2013-08-12 00:00:00
+100,Lenny Kravitz,Greatest Hits,Pick Myself Up,0.99,2086,383,2013-08-12 00:00:00
+120,Pink Floyd,Dark Side Of The Moon,Any Colour You Like,0.99,2087,383,2013-08-12 00:00:00
+121,Planet Hemp,Os C�es Ladram Mas A Caravana N�o P�ra,Rappers Reais,0.99,2088,384,2013-08-20 00:00:00
+121,Planet Hemp,Os C�es Ladram Mas A Caravana N�o P�ra,Nega Do Cabelo Duro,0.99,2089,385,2013-09-02 00:00:00
+121,Planet Hemp,Os C�es Ladram Mas A Caravana N�o P�ra,Hemp Family,0.99,2090,385,2013-09-02 00:00:00
+121,Planet Hemp,Os C�es Ladram Mas A Caravana N�o P�ra,Se Liga,0.99,2091,386,2013-09-02 00:00:00
+51,Queen,Greatest Hits I,Another One Bites The Dust,0.99,2092,386,2013-09-02 00:00:00
+51,Queen,Greatest Hits I,Fat Bottomed Girls,0.99,2093,387,2013-09-03 00:00:00
+51,Queen,Greatest Hits I,You're My Best Friend,0.99,2094,387,2013-09-03 00:00:00
+51,Queen,Greatest Hits I,Save Me,0.99,2095,387,2013-09-03 00:00:00
+51,Queen,Greatest Hits I,Somebody To Love,0.99,2096,387,2013-09-03 00:00:00
+51,Queen,Greatest Hits I,Flash,0.99,2097,388,2013-09-04 00:00:00
+51,Queen,News Of The World,We Will Rock You,0.99,2098,388,2013-09-04 00:00:00
+51,Queen,News Of The World,Spread Your Wings,0.99,2099,388,2013-09-04 00:00:00
+51,Queen,News Of The World,Who Needs You,0.99,2100,388,2013-09-04 00:00:00
+122,R.E.M. Feat. Kate Pearson,Out Of Time,Me In Honey,0.99,2101,388,2013-09-04 00:00:00
+124,R.E.M.,Green,You Are The Everything,0.99,2102,388,2013-09-04 00:00:00
+124,R.E.M.,Green,Hairshirt,0.99,2103,389,2013-09-07 00:00:00
+124,R.E.M.,New Adventures In Hi-Fi,Undertow,0.99,2104,389,2013-09-07 00:00:00
+124,R.E.M.,New Adventures In Hi-Fi,Binky The Doormat,0.99,2105,389,2013-09-07 00:00:00
+122,R.E.M. Feat. Kate Pearson,Out Of Time,Low,0.99,2106,389,2013-09-07 00:00:00
+122,R.E.M. Feat. Kate Pearson,Out Of Time,Country Feedback,0.99,2107,389,2013-09-07 00:00:00
+124,R.E.M.,The Best Of R.E.M.: The IRS Years,Don't Go Back To Rockville,0.99,2108,389,2013-09-07 00:00:00
+124,R.E.M.,The Best Of R.E.M.: The IRS Years,I Believe,0.99,2109,389,2013-09-07 00:00:00
+125,Raimundos,Cesta B�sica,A Sua,0.99,2110,389,2013-09-07 00:00:00
+125,Raimundos,Cesta B�sica,B�-a-B�,0.99,2111,389,2013-09-07 00:00:00
+126,Raul Seixas,Raul Seixas,Sapato 36,0.99,2112,390,2013-09-12 00:00:00
+127,Red Hot Chili Peppers,Blood Sugar Sex Magik,If You Have To Ask,0.99,2113,390,2013-09-12 00:00:00
+127,Red Hot Chili Peppers,Blood Sugar Sex Magik,Under The Bridge,0.99,2114,390,2013-09-12 00:00:00
+127,Red Hot Chili Peppers,By The Way,This Is The Place,0.99,2115,390,2013-09-12 00:00:00
+127,Red Hot Chili Peppers,By The Way,Tear,0.99,2116,390,2013-09-12 00:00:00
+127,Red Hot Chili Peppers,Californication,Get On Top,0.99,2117,390,2013-09-12 00:00:00
+127,Red Hot Chili Peppers,Californication,Right On Time,0.99,2118,390,2013-09-12 00:00:00
+128,Rush,Retrospective I (1974-1980),Anthem,0.99,2119,390,2013-09-12 00:00:00
+59,Santana,Santana - As Years Go By,La Puesta Del Sol,0.99,2120,390,2013-09-12 00:00:00
+59,Santana,Santana Live,Just Ain't Good Enough,0.99,2121,390,2013-09-12 00:00:00
+100,Lenny Kravitz,Greatest Hits,If You Don't Know Me By Now,0.99,2122,390,2013-09-12 00:00:00
+130,Skank,Maquinarama,�gua E Fogo,0.99,2123,390,2013-09-12 00:00:00
+130,Skank,Maquinarama,Fica,0.99,2124,390,2013-09-12 00:00:00
+130,Skank,O Samba Pocon�,Os Exilados,0.99,2125,390,2013-09-12 00:00:00
+131,Smashing Pumpkins,Judas 0: B-Sides and Rarities,Waiting,0.99,2126,391,2013-09-20 00:00:00
+131,Smashing Pumpkins,Judas 0: B-Sides and Rarities,Saturnine,0.99,2127,392,2013-10-03 00:00:00
+131,Smashing Pumpkins,Judas 0: B-Sides and Rarities,Rock On,0.99,2128,392,2013-10-03 00:00:00
+131,Smashing Pumpkins,Judas 0: B-Sides and Rarities,Winterlong,0.99,2129,393,2013-10-03 00:00:00
+131,Smashing Pumpkins,Judas 0: B-Sides and Rarities,Blissed & Gone,0.99,2130,393,2013-10-03 00:00:00
+131,Smashing Pumpkins,Rotten Apples: Greatest Hits,Rhinocerous,0.99,2131,394,2013-10-04 00:00:00
+131,Smashing Pumpkins,Rotten Apples: Greatest Hits,Cherub Rock,0.99,2132,394,2013-10-04 00:00:00
+131,Smashing Pumpkins,Rotten Apples: Greatest Hits,Disarm,0.99,2133,394,2013-10-04 00:00:00
+131,Smashing Pumpkins,Rotten Apples: Greatest Hits,Bullet With Butterfly Wings,0.99,2134,394,2013-10-04 00:00:00
+131,Smashing Pumpkins,Rotten Apples: Greatest Hits,Eye,0.99,2135,395,2013-10-05 00:00:00
+131,Smashing Pumpkins,Rotten Apples: Greatest Hits,Stand Inside Your Love,0.99,2136,395,2013-10-05 00:00:00
+132,Soundgarden,A-Sides,Flower,0.99,2137,395,2013-10-05 00:00:00
+132,Soundgarden,A-Sides,Jesus Christ Pose,0.99,2138,395,2013-10-05 00:00:00
+132,Soundgarden,A-Sides,The Day I Tried To Live,0.99,2139,395,2013-10-05 00:00:00
+132,Soundgarden,A-Sides,Burden In My Hand,0.99,2140,395,2013-10-05 00:00:00
+53,Spyro Gyra,Morning Dance,Rasul,0.99,2141,396,2013-10-08 00:00:00
+53,Spyro Gyra,Morning Dance,End Of Romanticism,0.99,2142,396,2013-10-08 00:00:00
+133,Stevie Ray Vaughan & Double Trouble,In Step,Travis Walk,0.99,2143,396,2013-10-08 00:00:00
+134,Stone Temple Pilots,Core,Sex Type Thing,0.99,2144,396,2013-10-08 00:00:00
+134,Stone Temple Pilots,Core,Piece Of Pie,0.99,2145,396,2013-10-08 00:00:00
+135,System Of A Down,Mezmerize,B.Y.O.B.,0.99,2146,396,2013-10-08 00:00:00
+135,System Of A Down,Mezmerize,Question!,0.99,2147,396,2013-10-08 00:00:00
+136,"Terry Bozzio, Tony Levin & Steve Stevens",[1997] Black Light Syndrome,Duende,0.99,2148,396,2013-10-08 00:00:00
+137,The Black Crowes,Live [Disc 1],Sting Me,0.99,2149,396,2013-10-08 00:00:00
+137,The Black Crowes,Live [Disc 2],Black Moon Creeping,0.99,2150,397,2013-10-13 00:00:00
+138,The Clash,The Singles,White Riot,0.99,2151,397,2013-10-13 00:00:00
+138,The Clash,The Singles,Train In Vain,0.99,2152,397,2013-10-13 00:00:00
+139,The Cult,Beyond Good And Evil,War (The Process),0.99,2153,397,2013-10-13 00:00:00
+139,The Cult,Beyond Good And Evil,Speed Of Light,0.99,2154,397,2013-10-13 00:00:00
+139,The Cult,"Pure Cult: The Best Of The Cult (For Rockers, Ravers, Lovers & Sinners) [UK]",Wild Hearted Son,0.99,2155,397,2013-10-13 00:00:00
+139,The Cult,"Pure Cult: The Best Of The Cult (For Rockers, Ravers, Lovers & Sinners) [UK]",Sun King,0.99,2156,397,2013-10-13 00:00:00
+140,The Doors,The Doors,Back Door Man,0.99,2157,397,2013-10-13 00:00:00
+141,The Police,The Police Greatest Hits,Don't Stand so Close to Me,0.99,2158,397,2013-10-13 00:00:00
+141,The Police,The Police Greatest Hits,Message in a Bottle (new classic rock mix),0.99,2159,397,2013-10-13 00:00:00
+142,The Rolling Stones,"Hot Rocks, 1964-1971 (Disc 1)",Paint It Black,0.99,2160,397,2013-10-13 00:00:00
+142,The Rolling Stones,No Security,Corinna,0.99,2161,397,2013-10-13 00:00:00
+142,The Rolling Stones,Voodoo Lounge,Love Is Strong,0.99,2162,397,2013-10-13 00:00:00
+142,The Rolling Stones,Voodoo Lounge,Sweethearts Together,0.99,2163,397,2013-10-13 00:00:00
+143,The Tea Party,Tangents,Release,0.99,2164,398,2013-10-21 00:00:00
+143,The Tea Party,Tangents,Heaven Coming Down,0.99,2165,399,2013-11-03 00:00:00
+143,The Tea Party,Tangents,The River (Remix),0.99,2166,399,2013-11-03 00:00:00
+143,The Tea Party,Tangents,Waiting On A Sign,0.99,2167,400,2013-11-03 00:00:00
+143,The Tea Party,Tangents,Paint It Black,0.99,2168,400,2013-11-03 00:00:00
+143,The Tea Party,Transmission,Army Ants,0.99,2169,401,2013-11-04 00:00:00
+143,The Tea Party,Transmission,Gyroscope,0.99,2170,401,2013-11-04 00:00:00
+143,The Tea Party,Transmission,Release,0.99,2171,401,2013-11-04 00:00:00
+143,The Tea Party,Transmission,Babylon,0.99,2172,401,2013-11-04 00:00:00
+144,The Who,My Generation - The Very Best Of The Who,I Can't Explain,0.99,2173,402,2013-11-05 00:00:00
+144,The Who,My Generation - The Very Best Of The Who,I'm A Boy,0.99,2174,402,2013-11-05 00:00:00
+144,The Who,My Generation - The Very Best Of The Who,I Can See For Miles,0.99,2175,402,2013-11-05 00:00:00
+144,The Who,My Generation - The Very Best Of The Who,Baba O'Riley,0.99,2176,402,2013-11-05 00:00:00
+144,The Who,My Generation - The Very Best Of The Who,Join Together,0.99,2177,402,2013-11-05 00:00:00
+145,Tim Maia,Serie Sem Limite (Disc 1),Primavera,0.99,2178,402,2013-11-05 00:00:00
+145,Tim Maia,Serie Sem Limite (Disc 1),New Love,0.99,2179,403,2013-11-08 00:00:00
+145,Tim Maia,Serie Sem Limite (Disc 1),Compadre,0.99,2180,403,2013-11-08 00:00:00
+145,Tim Maia,Serie Sem Limite (Disc 2),N�o Quero Dinheiro,0.99,2181,403,2013-11-08 00:00:00
+145,Tim Maia,Serie Sem Limite (Disc 2),Can�rio Do Reino,0.99,2182,403,2013-11-08 00:00:00
+146,Tit�s,Ac�stico,Comida,0.99,2183,403,2013-11-08 00:00:00
+146,Tit�s,Ac�stico,Marvin,0.99,2184,403,2013-11-08 00:00:00
+146,Tit�s,Ac�stico,Cabe�a Dinossauro,0.99,2185,403,2013-11-08 00:00:00
+146,Tit�s,Ac�stico,Pol�cia (Vinheta),0.99,2186,403,2013-11-08 00:00:00
+146,Tit�s,Volume Dois,Sua Impossivel Chance,0.99,2187,403,2013-11-08 00:00:00
+146,Tit�s,Volume Dois,Insens�vel,0.99,2188,404,2013-11-13 00:00:00
+147,Battlestar Galactica,"Battlestar Galactica, Season 3",Collaborators,1.99,2189,404,2013-11-13 00:00:00
+147,Battlestar Galactica,"Battlestar Galactica, Season 3",The Woman King,1.99,2190,404,2013-11-13 00:00:00
+148,Heroes,"Heroes, Season 1",One Giant Leap,1.99,2191,404,2013-11-13 00:00:00
+148,Heroes,"Heroes, Season 1",The Fix,1.99,2192,404,2013-11-13 00:00:00
+149,Lost,"Lost, Season 2","Man of Science, Man of Faith (Premiere)",1.99,2193,404,2013-11-13 00:00:00
+149,Lost,"Lost, Season 1",Walkabout,1.99,2194,404,2013-11-13 00:00:00
+149,Lost,"Lost, Season 1",The Moth,1.99,2195,404,2013-11-13 00:00:00
+149,Lost,"Lost, Season 3",Stranger In a Strange Land,1.99,2196,404,2013-11-13 00:00:00
+149,Lost,"Lost, Season 3",Par Avion,1.99,2197,404,2013-11-13 00:00:00
+149,Lost,"Lost, Season 1",Outlaws,1.99,2198,404,2013-11-13 00:00:00
+149,Lost,"Lost, Season 1",Deus Ex Machina,1.99,2199,404,2013-11-13 00:00:00
+149,Lost,"Lost, Season 2","Live Together, Die Alone, Pt. 1",1.99,2200,404,2013-11-13 00:00:00
+150,U2,Achtung Baby,So Cruel,0.99,2201,404,2013-11-13 00:00:00
+150,U2,All That You Can't Leave Behind,Peace On Earth,0.99,2202,405,2013-11-21 00:00:00
+150,U2,All That You Can't Leave Behind,When I Look At The World,0.99,2203,406,2013-12-04 00:00:00
+150,U2,All That You Can't Leave Behind,New York,0.99,2204,406,2013-12-04 00:00:00
+150,U2,B-Sides 1980-1990,The Three Sunrises,0.99,2205,407,2013-12-04 00:00:00
+150,U2,B-Sides 1980-1990,Sweetest Thing,0.99,2206,407,2013-12-04 00:00:00
+150,U2,B-Sides 1980-1990,Bass Trap,0.99,2207,408,2013-12-05 00:00:00
+150,U2,B-Sides 1980-1990,Everlasting Love,0.99,2208,408,2013-12-05 00:00:00
+150,U2,B-Sides 1980-1990,Walk To The Water,0.99,2209,408,2013-12-05 00:00:00
+150,U2,B-Sides 1980-1990,Hallelujah Here She Comes,0.99,2210,408,2013-12-05 00:00:00
+150,U2,B-Sides 1980-1990,"Trash, Trampoline And The Party Girl",0.99,2211,409,2013-12-06 00:00:00
+150,U2,How To Dismantle An Atomic Bomb,Love And Peace Or Else,0.99,2212,409,2013-12-06 00:00:00
+150,U2,How To Dismantle An Atomic Bomb,Crumbs From Your Table,0.99,2213,409,2013-12-06 00:00:00
+150,U2,Pop,Discotheque,0.99,2214,409,2013-12-06 00:00:00
+150,U2,Pop,Staring At The Sun,0.99,2215,409,2013-12-06 00:00:00
+150,U2,Pop,The Playboy Mansion,0.99,2216,409,2013-12-06 00:00:00
+150,U2,Rattle And Hum,Desire,0.99,2217,410,2013-12-09 00:00:00
+150,U2,Rattle And Hum,Pride (In The Name Of Love),0.99,2218,410,2013-12-09 00:00:00
+150,U2,Rattle And Hum,The Star Spangled Banner,0.99,2219,410,2013-12-09 00:00:00
+150,U2,The Best Of 1980-1990,I Still Haven't Found What I'm Looking For,0.99,2220,410,2013-12-09 00:00:00
+150,U2,The Best Of 1980-1990,Sweetest Thing,0.99,2221,410,2013-12-09 00:00:00
+150,U2,War,Seconds,0.99,2222,410,2013-12-09 00:00:00
+150,U2,War,Red Light,0.99,2223,410,2013-12-09 00:00:00
+150,U2,Zooropa,Lemon,0.99,2224,410,2013-12-09 00:00:00
+150,U2,Zooropa,The Wanderer,0.99,2225,410,2013-12-09 00:00:00
+151,UB40,UB40 The Best Of - Volume Two [UK],Higher Ground,0.99,2226,411,2013-12-14 00:00:00
+152,Van Halen,Diver Down,Secrets,0.99,2227,411,2013-12-14 00:00:00
+152,Van Halen,"The Best Of Van Halen, Vol. I",Eruption,0.99,2228,411,2013-12-14 00:00:00
+152,Van Halen,"The Best Of Van Halen, Vol. I",Dreams,0.99,2229,411,2013-12-14 00:00:00
+152,Van Halen,Van Halen,Eruption,0.99,2230,411,2013-12-14 00:00:00
+152,Van Halen,Van Halen,On Fire,0.99,2231,411,2013-12-14 00:00:00
+152,Van Halen,Van Halen III,Year to the Day,0.99,2232,411,2013-12-14 00:00:00
+153,Velvet Revolver,Contraband,Fall To Pieces,0.99,2233,411,2013-12-14 00:00:00
+72,Vin�cius De Moraes,Vinicius De Moraes,A Bencao E Outros,0.99,2234,411,2013-12-14 00:00:00
+72,Vin�cius De Moraes,Vinicius De Moraes,Um Homem Chamado Alfredo,0.99,2235,411,2013-12-14 00:00:00
+100,Lenny Kravitz,Greatest Hits,Looking For Love,0.99,2236,411,2013-12-14 00:00:00
+100,Lenny Kravitz,Greatest Hits,Sweet Lady Luck,0.99,2237,411,2013-12-14 00:00:00
+155,Zeca Pagodinho,Ao Vivo [IMPORT],Feirinha da Pavuna/Luz do Repente/Baga�o da Laranja,0.99,2238,411,2013-12-14 00:00:00
+155,Zeca Pagodinho,Ao Vivo [IMPORT],Samba pras mo�as,0.99,2239,411,2013-12-14 00:00:00
+156,The Office,"The Office, Season 1",Hot Girl,1.99,2240,412,2013-12-22 00:00:00
